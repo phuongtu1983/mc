@@ -1,0 +1,35 @@
+<root>
+	<mcrp_number></mcrp_number>
+	<mcrp_day></mcrp_day>
+	<mcrp_month></mcrp_month>
+	<mcrp_year></mcrp_year>
+	<mcrp_vendor></mcrp_vendor>
+	<mcrp_kind_abb></mcrp_kind_abb>
+	<mcrp_baseon></mcrp_baseon>
+	<mcrp_contract></mcrp_contract>
+	<mcrp_contract_baseon></mcrp_contract_baseon>
+	<mcrp_contractDate></mcrp_contractDate>
+	<mcrp_kind></mcrp_kind>
+	<mcrp_contract_relation></mcrp_contract_relation>
+	<mcrp_contract_relation_baseon></mcrp_contract_relation_baseon>
+	<mcrp_deliveryDate></mcrp_deliveryDate>
+	<mcrp_total></mcrp_total>
+	<mcrp_total1></mcrp_total1>
+	<mcrp_currency></mcrp_currency>
+	<mcrp_total_text></mcrp_total_text>
+	<mcrp_account></mcrp_account>
+	<mcrp_project></mcrp_project>
+	<mcrp_request></mcrp_request>
+	<mcrp_mrir></mcrp_mrir>
+	<mcrp_msv></mcrp_msv>
+	<mcrp_msv_date></mcrp_msv_date>
+	<mcrp_sum_invoice></mcrp_sum_invoice>
+	<mcrp_sum_invoiceDate></mcrp_sum_invoiceDate>
+	<matRow>
+		<mcrp_n1></mcrp_n1>
+		<mcrp_invoice></mcrp_invoice>
+		<mcrp_invoiceDate></mcrp_invoiceDate>
+		<mcrp_note></mcrp_note>
+		<mcrp_amount></mcrp_amount>		
+	</matRow>
+</root>

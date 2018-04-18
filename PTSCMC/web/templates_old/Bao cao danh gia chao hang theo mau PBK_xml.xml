@@ -1,0 +1,25 @@
+<root>
+	<mcrp_org></mcrp_org>
+	<mcrp_pro></mcrp_pro>
+	<mcrp_tender_date></mcrp_tender_date>
+	<mcrp_number></mcrp_number>
+	<mcrp_year></mcrp_year>
+	<mcrp_header_date></mcrp_header_date>
+	<mcrp_packName></mcrp_packName>
+	<mcrp_tender_number></mcrp_tender_number>
+	<mcrp_cv_date></mcrp_cv_date>
+	<mcrp_cv_from></mcrp_cv_from>
+	<mcrp_cv_to></mcrp_cv_to>
+	<mcrp_mcg></mcrp_mcg>
+	<mcrp_mcg_date></mcrp_mcg_date>
+	<mcrp_hinhthuc></mcrp_hinhthuc>
+	<mcrp_tpdate_from></mcrp_tpdate_from>
+	<mcrp_tpdate_to></mcrp_tpdate_to>
+	<mcrp_ven_count></mcrp_ven_count>
+	<mcrp_vendor_sent_date></mcrp_vendor_sent_date>
+	<mcrp_vendor_sent_count></mcrp_vendor_sent_count>
+	<mcrp_open_date></mcrp_open_date>
+	<mcrp_open_count></mcrp_open_count>
+	<mcrp_doc_count></mcrp_doc_count>
+	<mcrp_letter></mcrp_letter>
+</root>

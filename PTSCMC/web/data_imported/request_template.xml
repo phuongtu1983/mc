@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<workbook>
+        	<worksheet name="Sheet1">
+			<loop startRow="1" endRow="1" items="datas" var="data" varType="com.venus.mc.importData.RequestDataBean">
+                        	<section startRow="1" endRow="1">
+								<mapping row="1" col="1">data.requestNumber</mapping>
+                                <mapping row="1" col="2">data.project</mapping>
+                                <mapping row="1" col="3">data.organization</mapping>
+                                <mapping row="1" col="4">data.matCode</mapping>
+                                <mapping row="1" col="5">data.matName</mapping>
+                                <mapping row="1" col="6">data.unit</mapping>
+                                <mapping row="1" col="7">data.contractNumber</mapping>
+								<mapping row="1" col="8">data.quantity</mapping>
+								<mapping row="1" col="9">data.price</mapping>
+								<mapping row="1" col="10">data.currency</mapping>
+								<mapping row="1" col="11">data.vat</mapping>
+								<mapping row="1" col="12">data.effectDate</mapping>
+								<mapping row="1" col="13">data.expiredDate</mapping>
+								<mapping row="1" col="14">data.vendor</mapping>
+								<mapping row="1" col="17">data.employee</mapping>
+                            </section>
+                                <loopbreakcondition>
+                                    <rowcheck offset="0">
+                                        <cellcheck offset="0">This point is end of data import process</cellcheck>
+                                    </rowcheck>
+                                </loopbreakcondition>
+			</loop>
+		</worksheet>
+	</workbook>

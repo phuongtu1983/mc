@@ -1,0 +1,38 @@
+<root>
+	<mcrp_day></mcrp_day>
+	<mcrp_month></mcrp_month>
+	<mcrp_year></mcrp_year>
+	<mcrp_org></mcrp_org>
+	<mcrp_user></mcrp_user>
+	<mcrp_material></mcrp_material>
+	<mcrp_request_number></mcrp_request_number>
+	<mcrp_request2></mcrp_request2>
+	<mcrp_request_date></mcrp_request_date>
+	<mcrp_vendor></mcrp_vendor>
+	<mcrp_content></mcrp_content>
+	<mcrp_project></mcrp_project>
+<mcrp_fee></mcrp_fee>
+	<mcrp_total_not_vat></mcrp_total_not_vat>
+	<mcrp_vat></mcrp_vat>
+	<mcrp_total></mcrp_total>
+	<mcrp_total_text></mcrp_total_text>
+	<mcrp_currency></mcrp_currency>
+	<mcrp_cer></mcrp_cer>
+	<mcrp_delivery_time></mcrp_delivery_time>
+	<tableRow1>
+		<mcrp_n1></mcrp_n1>
+		<mcrp_mat_name1></mcrp_mat_name1>
+		<mcrp_mat_unit1></mcrp_mat_unit1>
+		<mcrp_mat_quantity1></mcrp_mat_quantity1>
+		<mcrp_mat_price1></mcrp_mat_price1>
+	</tableRow1>
+	<tableRow2>
+		<mcrp_n2></mcrp_n2>
+		<mcrp_mat_name2></mcrp_mat_name2>
+		<mcrp_mat_unit2></mcrp_mat_unit2>
+		<mcrp_mat_quantity2></mcrp_mat_quantity2>
+		<mcrp_mat_price2></mcrp_mat_price2>
+		<mcrp_mat_total2></mcrp_mat_total2>
+		<mcrp_request2></mcrp_request2>
+	</tableRow2>
+</root>

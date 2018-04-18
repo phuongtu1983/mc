@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<workbook>
+        	<worksheet name="Sheet1">
+			<loop startRow="1" endRow="1" items="datas" var="data" varType="com.venus.mc.importData.MaterialDataBean">
+                        	<section startRow="1" endRow="1">
+                                    <mapping row="1" col="0">data.level1</mapping>
+									<mapping row="1" col="2">data.level2</mapping>
+                                    <mapping row="1" col="3">data.level2Name</mapping>
+									<mapping row="1" col="6">data.level4</mapping>
+                                    <mapping row="1" col="7">data.level4Name</mapping>
+									<mapping row="1" col="10">data.code</mapping>
+                                    <mapping row="1" col="11">data.nameVn</mapping>
+                                    <mapping row="1" col="12">data.unit</mapping>
+									<mapping row="1" col="13">data.nameEn</mapping>
+									<mapping row="1" col="0">data.spec1</mapping>
+									<mapping row="1" col="1">data.spec1Text</mapping>
+									<mapping row="1" col="2">data.spec2</mapping>
+									<mapping row="1" col="3">data.spec2Text</mapping>
+									<mapping row="1" col="4">data.spec3</mapping>
+									<mapping row="1" col="5">data.spec3Text</mapping>
+									<mapping row="1" col="6">data.spec4</mapping>
+									<mapping row="1" col="7">data.spec4Text</mapping>
+									<mapping row="1" col="8">data.spec5</mapping>
+									<mapping row="1" col="9">data.spec5Text</mapping>
+                                </section>
+                                <loopbreakcondition>
+                                    <rowcheck offset="0">
+                                        <cellcheck offset="0">This point is end of data import process</cellcheck>
+                                    </rowcheck>
+                                </loopbreakcondition>
+			</loop>
+		</worksheet>
+	</workbook>

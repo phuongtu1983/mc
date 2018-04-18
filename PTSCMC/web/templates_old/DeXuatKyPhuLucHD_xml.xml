@@ -1,0 +1,16 @@
+<root>
+	<mcrp_appendix_number></mcrp_appendix_number>
+	<mcrp_day></mcrp_day>
+	<mcrp_month></mcrp_month>
+	<mcrp_year></mcrp_year>
+	<mcrp_contract></mcrp_contract>
+	<mcrp_contract_date></mcrp_contract_date>
+	<mcrp_vendor></mcrp_vendor>
+	<mcrp_material></mcrp_material>
+	<mcrp_request></mcrp_request>
+	<mcrp_request_date></mcrp_request_date>
+	<mcrp_request_org></mcrp_request_org>
+	<mcrp_preAppendix></mcrp_preAppendix>
+	<mcrp_project></mcrp_project>
+	<mcrp_total></mcrp_total>
+</root>

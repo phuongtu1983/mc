@@ -1,0 +1,24 @@
+<root>
+	<mcrp_number></mcrp_number>
+	<mcrp_day></mcrp_day>
+	<mcrp_month></mcrp_month>
+	<mcrp_year></mcrp_year>
+	<mcrp_close_time></mcrp_close_time>
+	<mcrp_end_time></mcrp_end_time>
+	<mcrp_packName></mcrp_packName>
+	<bidClosingGroupRow>
+		<mcrp_n1></mcrp_n1>
+		<mcrp_employee></mcrp_employee>
+		<mcrp_org></mcrp_org>
+		<mcrp_position></mcrp_position>
+	</bidClosingGroupRow>	
+	<vendorRow>
+		<mcrp_n2></mcrp_n2>
+		<mcrp_vendor></mcrp_vendor>
+		<mcrp_vendor_address></mcrp_vendor_address>
+	</vendorRow>
+	<bidClosingGroupSignRow>
+		<mcrp_n3></mcrp_n3>
+		<mcrp_employee_closing></mcrp_employee_closing>
+	</bidClosingGroupSignRow>	
+</root>

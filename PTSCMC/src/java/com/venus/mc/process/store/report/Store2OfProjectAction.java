@@ -1,0 +1,39 @@
+package com.venus.mc.process.store.report;
+
+import com.venus.core.util.NumberUtil;
+import com.venus.mc.bean.StoreLevel2Bean;
+import com.venus.mc.core.SpineAction;
+import com.venus.mc.dao.StoreDAO;
+import java.util.ArrayList;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import org.apache.struts.action.ActionForm;
+import org.apache.struts.action.ActionMapping;
+
+public class Store2OfProjectAction
+  extends SpineAction
+{
+  public boolean doAction(ActionMapping mapping, ActionForm form, HttpServletRequest request, HttpServletResponse response)
+  {
+    try
+    {
+      int proId = NumberUtil.parseInt(request.getParameter("proId"), 0);
+      StoreDAO storeDAO = new StoreDAO();
+      String permissionOrg = "";
+      
+      ArrayList storeList = storeDAO.getStoreLevel2s(0, permissionOrg, proId + "");
+      if (storeList == null) {
+        storeList = new ArrayList();
+      }
+      storeList.add(0, new StoreLevel2Bean());
+      request.setAttribute("storeList", storeList);
+    }
+    catch (Exception ex)
+    {
+      Logger.getLogger(Store2OfProjectAction.class.getName()).log(Level.SEVERE, null, ex);
+    }
+    return true;
+  }
+}

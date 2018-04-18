@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<workbook>
+        	<worksheet name="Sheet1">
+			<loop startRow="1" endRow="1" items="datas" var="data" varType="com.venus.mc.importData.StockDataBean">
+                        	<section startRow="1" endRow="1">
+					<mapping row="1" col="0">data.project</mapping>
+                                    	<mapping row="1" col="0">data.code</mapping>
+                                    	<mapping row="1" col="1">data.name</mapping>
+                                    	<mapping row="1" col="2">data.unit</mapping>
+                                    	<mapping row="1" col="3">data.quantity</mapping>
+										<mapping row="1" col="4">data.project</mapping>
+                                </section>
+                                <loopbreakcondition>
+                                    <rowcheck offset="0">
+                                        <cellcheck offset="0">This point is end of data import process</cellcheck>
+                                    </rowcheck>
+                                </loopbreakcondition>
+			</loop>
+		</worksheet>
+	</workbook>

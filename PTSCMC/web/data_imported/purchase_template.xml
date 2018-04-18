@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<workbook>
+        	<worksheet name="Sheet1">
+			<loop startRow="1" endRow="1" items="datas" var="data" varType="com.venus.mc.importData.PurchaseDataBean">
+                        	<section startRow="1" endRow="1">
+									<mapping row="1" col="1">data.no</mapping>
+                                    <mapping row="1" col="1">data.material</mapping>
+                                    <mapping row="1" col="2">data.unit</mapping>
+                                    <mapping row="1" col="3">data.contractNumber</mapping>
+                                    <mapping row="1" col="4">data.requestNumber</mapping>
+                                    <mapping row="1" col="5">data.contractQuantity</mapping>
+                                    <mapping row="1" col="6">data.price</mapping>
+									<mapping row="1" col="7">data.mrirNumber</mapping>
+									<mapping row="1" col="8">data.heatNo</mapping>
+									<mapping row="1" col="9">data.mrirCerts</mapping>
+                                    <mapping row="1" col="10">data.msvDate</mapping>
+									<mapping row="1" col="11">data.msvNumber</mapping>
+									<mapping row="1" col="12">data.msvQuantity</mapping>
+									<mapping row="1" col="13">data.location</mapping>
+									<mapping row="1" col="14">data.rfmNumber</mapping>
+									<mapping row="1" col="15">data.mivNumber</mapping>
+									<mapping row="1" col="16">data.XKCT1</mapping>
+									<mapping row="1" col="17">data.XKCT2</mapping>
+									<mapping row="1" col="18">data.XCK</mapping>
+									<mapping row="1" col="19">data.XDTD</mapping>
+									<mapping row="1" col="20">data.XDVTH</mapping>
+									<mapping row="1" col="21">data.XTBTH</mapping>
+									<mapping row="1" col="22">data.XK</mapping>
+									<mapping row="1" col="23">data.receiveOrg</mapping>
+									<mapping row="1" col="24">data.first</mapping>
+									<mapping row="1" col="25">data.last</mapping>
+									<mapping row="1" col="26">data.mivDate</mapping>
+									<mapping row="1" col="27">data.balance</mapping>
+									<mapping row="1" col="28">data.note</mapping>
+									<mapping row="1" col="29">data.totalReceive</mapping>
+									<mapping row="1" col="30">data.totalIssued</mapping>
+									<mapping row="1" col="31">data.project</mapping>
+									<mapping row="1" col="32">data.store</mapping>
+									<mapping row="1" col="33">data.store2</mapping>
+									<mapping row="1" col="34">data.org</mapping>
+                                </section>
+                                <loopbreakcondition>
+                                    <rowcheck offset="0">
+                                        <cellcheck offset="0">This point is end of data import process</cellcheck>
+                                    </rowcheck>
+                                </loopbreakcondition>
+			</loop>
+		</worksheet>
+	</workbook>

@@ -1,0 +1,9 @@
+<root>
+	<mcrp_storeName></mcrp_storeName>
+	<mcrp_createdDate></mcrp_createdDate>
+	<mcrp_assignedEmp></mcrp_assignedEmp>
+	<mcrp_intermemoSubject></mcrp_intermemoSubject>
+	<attFileRow>
+		<mcrp_attachmentFile></mcrp_attachmentFile>
+	</attFileRow>
+</root>

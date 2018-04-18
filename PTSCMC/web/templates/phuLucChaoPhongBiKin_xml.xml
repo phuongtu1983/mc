@@ -1,0 +1,12 @@
+<root>
+	<mcrp_packName></mcrp_packName>
+	<materialRow>
+		<mcrp_n1></mcrp_n1>
+		<mcrp_matName></mcrp_matName>
+		<mcrp_origin></mcrp_origin>
+		<mcrp_unit></mcrp_unit>
+		<mcrp_quantity></mcrp_quantity>
+	</materialRow>
+	<mcrp_servered></mcrp_servered>
+	<mcrp_deadline></mcrp_deadline>
+</root>

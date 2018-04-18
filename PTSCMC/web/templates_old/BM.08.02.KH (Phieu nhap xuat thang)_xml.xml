@@ -1,0 +1,31 @@
+<root>
+	<mcrp_day></mcrp_day>
+	<mcrp_month></mcrp_month>
+	<mcrp_year></mcrp_year>
+	<mcrp_number></mcrp_number>
+	<mcrp_deliverer></mcrp_deliverer>
+	<mcrp_contract></mcrp_contract>	
+	<mcrp_customer></mcrp_customer>
+	<mcrp_stock></mcrp_stock>
+	<mcrp_receiver></mcrp_receiver>
+	<mcrp_org></mcrp_org>
+	<mcrp_dmvorder></mcrp_dmvorder>
+	<mcrp_description></mcrp_description>
+	<mcrp_dmv_day></mcrp_dmv_day>
+	<mcrp_dmv_month></mcrp_dmv_month>
+	<mcrp_dmv_year></mcrp_dmv_year>	
+	<mcrp_total></mcrp_total>
+	<mcrp_total_str></mcrp_total_str>
+	<checkbox1>false</checkbox1>
+	<checkbox2>false</checkbox2>
+	<checkbox3>false</checkbox3>
+	<dmvMaterialRow>
+		<mcrp_no></mcrp_no>
+		<mcrp_material></mcrp_material>
+		<mcrp_code></mcrp_code>
+		<mcrp_unit></mcrp_unit>
+		<mcrp_quantity></mcrp_quantity>
+		<mcrp_price></mcrp_price>
+		<mcrp_amount></mcrp_amount>
+	</dmvMaterialRow>
+</root>

@@ -1,0 +1,28 @@
+<root>
+	<mcrp_day></mcrp_day>
+	<mcrp_month></mcrp_month>
+	<mcrp_year></mcrp_year>
+	<mcrp_number></mcrp_number>
+	<mcrp_deliverer></mcrp_deliverer>
+	<mcrp_mrir></mcrp_mrir>	
+	<mcrp_content></mcrp_content>
+	<mcrp_store></mcrp_store>
+	<mcrp_vendor></mcrp_vendor>
+	<mcrp_add></mcrp_add>
+	<mcrp_msv_day></mcrp_msv_day>
+	<mcrp_msv_month></mcrp_msv_month>
+	<mcrp_msv_year></mcrp_msv_year>
+	<checkbox1>false</checkbox1>
+	<checkbox2>false</checkbox2>
+	<mcrp_total></mcrp_total>
+	<mcrp_total_str></mcrp_total_str>
+	<msvMaterialRow>
+		<mcrp_no></mcrp_no>
+		<mcrp_material></mcrp_material>
+		<mcrp_code></mcrp_code>
+		<mcrp_unit></mcrp_unit>
+		<mcrp_quantity></mcrp_quantity>
+		<mcrp_price></mcrp_price>
+		<mcrp_amount></mcrp_amount>
+	</msvMaterialRow>
+</root>

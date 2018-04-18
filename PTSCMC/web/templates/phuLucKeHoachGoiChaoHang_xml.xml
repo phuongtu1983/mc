@@ -1,0 +1,15 @@
+<root>
+	<mcrp_packName></mcrp_packName>
+	<mcrp_tenderNumber></mcrp_tenderNumber>
+	<mcrp_year></mcrp_year>
+	<materialRow>
+		<mcrp_n1></mcrp_n1>
+		<mcrp_matName></mcrp_matName>
+		<mcrp_unit></mcrp_unit>
+		<mcrp_quantity></mcrp_quantity>
+	</materialRow>
+	<mcrp_deadlineTime></mcrp_deadlineTime>
+	<mcrp_deadline></mcrp_deadline>
+	<mcrp_deliveryTime></mcrp_deliveryTime>
+	<mcrp_certificate></mcrp_certificate>
+</root>

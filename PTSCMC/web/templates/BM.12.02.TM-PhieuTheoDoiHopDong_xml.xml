@@ -1,0 +1,68 @@
+<root>
+	<mcrp_followNumber></mcrp_followNumber>
+	<mcrp_orgName></mcrp_orgName>
+	<mcrp_day></mcrp_day>
+	<mcrp_month></mcrp_month>
+	<mcrp_year></mcrp_year>
+	<mcrp_vendorName></mcrp_vendorName>
+	<mcrp_vendorAddress></mcrp_vendorAddress>
+	<mcrp_effectedDate></mcrp_effectedDate>
+	<mcrp_serviceType></mcrp_serviceType>
+	<mcrp_proName></mcrp_proName>
+	<mcrp_contractNumber></mcrp_contractNumber>
+	<mcrp_startTime></mcrp_startTime>
+	<mcrp_endTime></mcrp_endTime>
+	<mcrp_serviceOther></mcrp_serviceOther>
+	<mcrp_goodOther></mcrp_goodOther>
+	<mcrp_comments></mcrp_comments>
+	<checkbox1 type="checkbox" >false</checkbox1>
+	<checkbox2 type="checkbox" >false</checkbox2>
+	<checkbox3 type="checkbox" >false</checkbox3>
+	<checkbox4 type="checkbox" >false</checkbox4>
+	<checkbox5 type="checkbox" >false</checkbox5>
+	<checkbox6 type="checkbox" >false</checkbox6>
+	<checkbox7 type="checkbox" >false</checkbox7>
+	<checkbox8 type="checkbox" >false</checkbox8>
+	<checkbox9 type="checkbox" >false</checkbox9>
+	<checkbox10 type="checkbox" >false</checkbox10>
+	<checkbox11 type="checkbox" >false</checkbox11>
+	<checkbox12 type="checkbox" >false</checkbox12>
+	<checkbox13 type="checkbox" >false</checkbox13>
+	<checkbox14 type="checkbox" >false</checkbox14>
+	<checkbox15 type="checkbox" >false</checkbox15>
+	<checkbox16 type="checkbox" >false</checkbox16>
+	<checkbox17 type="checkbox" >false</checkbox17>
+	<checkbox18 type="checkbox" >false</checkbox18>
+	<checkbox19 type="checkbox" >false</checkbox19>
+	<checkbox20 type="checkbox" >false</checkbox20>
+	<checkbox21 type="checkbox" >false</checkbox21>
+	<checkbox22 type="checkbox" >false</checkbox22>
+	<checkbox23 type="checkbox" >false</checkbox23>
+	<checkbox24 type="checkbox" >false</checkbox24>
+	<checkbox25 type="checkbox" >false</checkbox25>
+	<checkbox26 type="checkbox" >false</checkbox26>
+	<checkbox27 type="checkbox" >false</checkbox27>
+	<checkbox28 type="checkbox" >false</checkbox28>
+	<checkbox29 type="checkbox" >false</checkbox29>
+	<checkbox30 type="checkbox" >false</checkbox30>
+	<checkbox31 type="checkbox" >false</checkbox31>
+	<checkbox32 type="checkbox" >false</checkbox32>
+	<checkbox33 type="checkbox" >false</checkbox33>
+	<checkbox34 type="checkbox" >false</checkbox34>
+	<checkbox35 type="checkbox" >false</checkbox35>
+	<checkbox36 type="checkbox" >false</checkbox36>
+	<checkbox37 type="checkbox" >false</checkbox37>
+	<checkbox38 type="checkbox" >false</checkbox38>
+	<checkbox39 type="checkbox" >false</checkbox39>
+	<checkbox40 type="checkbox" >false</checkbox40>
+	<checkbox41 type="checkbox" >false</checkbox41>
+	<checkbox42 type="checkbox" >false</checkbox42>
+	<checkbox43 type="checkbox" >false</checkbox43>
+	<checkbox44 type="checkbox" >false</checkbox44>
+	<checkbox45 type="checkbox" >false</checkbox45>
+	<checkbox46 type="checkbox" >false</checkbox46>
+	<checkbox47 type="checkbox" >false</checkbox47>
+	<checkbox48 type="checkbox" >false</checkbox48>
+	<checkbox49 type="checkbox" >false</checkbox49>
+	<checkbox50 type="checkbox" >false</checkbox50>
+</root>

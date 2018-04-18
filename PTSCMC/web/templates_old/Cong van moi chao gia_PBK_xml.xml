@@ -1,0 +1,17 @@
+<root>
+	<mcrp_subfix></mcrp_subfix>
+	<mcrp_day></mcrp_day>
+	<mcrp_month></mcrp_month>
+	<mcrp_year></mcrp_year>
+	<mcrp_packName></mcrp_packName>
+	<mcrp_vendorPresenter></mcrp_vendorPresenter>
+	<mcrp_vendorName></mcrp_vendorName>
+	<mcrp_vendorPhone></mcrp_vendorPhone>
+	<mcrp_vendorFax></mcrp_vendorFax>
+	<mcrp_vendorAdd></mcrp_vendorAdd>
+	<mcrp_TenderplanKind></mcrp_TenderplanKind>
+	<mcrp_bidDeadline></mcrp_bidDeadline>
+	<mcrp_bidDeadlineTime></mcrp_bidDeadlineTime>
+	<mcrp_recievedEmp1></mcrp_recievedEmp1>
+	
+</root>

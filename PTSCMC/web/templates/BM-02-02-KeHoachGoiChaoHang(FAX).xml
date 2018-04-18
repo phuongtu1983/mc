@@ -1,0 +1,4785 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?mso-application progid="Word.Document"?>
+<w:wordDocument xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:st1="urn:schemas-microsoft-com:office:smarttags" w:macrosPresent="no" w:embeddedObjPresent="no" w:ocxPresent="no" xml:space="preserve">
+  <o:SmartTagType o:namespaceuri="urn:schemas-microsoft-com:office:smarttags" o:url="http://www.5iantlavalamp.com/" o:name="country-region" />
+  <o:SmartTagType o:namespaceuri="urn:schemas-microsoft-com:office:smarttags" o:url="http://www.5iantlavalamp.com/" o:name="place" />
+  <o:DocumentProperties>
+    <o:Title>COÂNG TY DVKT DAÀU KHÍ</o:Title>
+    <o:Author>Tron</o:Author>
+    <o:LastAuthor>phuongtu</o:LastAuthor>
+    <o:Revision>2</o:Revision>
+    <o:TotalTime>0</o:TotalTime>
+    <o:LastPrinted>2009-09-08T07:49:00Z</o:LastPrinted>
+    <o:Created>2009-11-17T04:04:00Z</o:Created>
+    <o:LastSaved>2009-11-17T04:04:00Z</o:LastSaved>
+    <o:Pages>1</o:Pages>
+    <o:Words>390</o:Words>
+    <o:Characters>2227</o:Characters>
+    <o:Company>Nasm Duong Co.,Ltd</o:Company>
+    <o:Lines>18</o:Lines>
+    <o:Paragraphs>5</o:Paragraphs>
+    <o:CharactersWithSpaces>2612</o:CharactersWithSpaces>
+    <o:Version>11.5604</o:Version>
+  </o:DocumentProperties>
+  <w:fonts>
+    <w:defaultFonts w:ascii="Times New Roman" w:fareast="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" />
+    <w:font w:name="Wingdings">
+      <w:panose-1 w:val="05000000000000000000" />
+      <w:charset w:val="02" />
+      <w:family w:val="Auto" />
+      <w:pitch w:val="variable" />
+      <w:sig w:usb-0="00000000" w:usb-1="10000000" w:usb-2="00000000" w:usb-3="00000000" w:csb-0="80000000" w:csb-1="00000000" />
+    </w:font>
+    <w:font w:name="Arial Unicode MS">
+      <w:panose-1 w:val="020B0604020202020204" />
+      <w:charset w:val="80" />
+      <w:family w:val="Swiss" />
+      <w:pitch w:val="variable" />
+      <w:sig w:usb-0="FFFFFFFF" w:usb-1="E9FFFFFF" w:usb-2="0000003F" w:usb-3="00000000" w:csb-0="003F01FF" w:csb-1="00000000" />
+    </w:font>
+    <w:font w:name="Tahoma">
+      <w:panose-1 w:val="020B0604030504040204" />
+      <w:charset w:val="A3" />
+      <w:family w:val="Swiss" />
+      <w:pitch w:val="variable" />
+      <w:sig w:usb-0="E1003AFF" w:usb-1="C000605B" w:usb-2="00000029" w:usb-3="00000000" w:csb-0="000101FF" w:csb-1="00000000" />
+    </w:font>
+    <w:font w:name="VNI-Helve">
+      <w:altName w:val="Times New Roman" />
+      <w:charset w:val="00" />
+      <w:family w:val="Auto" />
+      <w:pitch w:val="variable" />
+      <w:sig w:usb-0="00000003" w:usb-1="00000000" w:usb-2="00000000" w:usb-3="00000000" w:csb-0="00000001" w:csb-1="00000000" />
+    </w:font>
+    <w:font w:name="VNI-Times">
+      <w:panose-1 w:val="00000000000000000000" />
+      <w:charset w:val="00" />
+      <w:family w:val="Auto" />
+      <w:pitch w:val="variable" />
+      <w:sig w:usb-0="00000003" w:usb-1="00000000" w:usb-2="00000000" w:usb-3="00000000" w:csb-0="00000001" w:csb-1="00000000" />
+    </w:font>
+    <w:font w:name="@Arial Unicode MS">
+      <w:panose-1 w:val="020B0604020202020204" />
+      <w:charset w:val="80" />
+      <w:family w:val="Swiss" />
+      <w:pitch w:val="variable" />
+      <w:sig w:usb-0="FFFFFFFF" w:usb-1="E9FFFFFF" w:usb-2="0000003F" w:usb-3="00000000" w:csb-0="003F01FF" w:csb-1="00000000" />
+    </w:font>
+    <w:font w:name="VNI-Helve-Condense">
+      <w:altName w:val="Times New Roman" />
+      <w:charset w:val="00" />
+      <w:family w:val="Auto" />
+      <w:pitch w:val="variable" />
+      <w:sig w:usb-0="00000003" w:usb-1="00000000" w:usb-2="00000000" w:usb-3="00000000" w:csb-0="00000001" w:csb-1="00000000" />
+    </w:font>
+  </w:fonts>
+  <w:lists>
+    <w:listDef w:listDefId="0">
+      <w:lsid w:val="0D900EBD" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="6EFAFCEE" />
+      <w:lvl w:ilvl="0" w:tplc="697062CA">
+        <w:start w:val="5" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="705" />
+          </w:tabs>
+          <w:ind w:left="705" w:hanging="645" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1140" />
+          </w:tabs>
+          <w:ind w:left="1140" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1860" />
+          </w:tabs>
+          <w:ind w:left="1860" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2580" />
+          </w:tabs>
+          <w:ind w:left="2580" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3300" />
+          </w:tabs>
+          <w:ind w:left="3300" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4020" />
+          </w:tabs>
+          <w:ind w:left="4020" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4740" />
+          </w:tabs>
+          <w:ind w:left="4740" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5460" />
+          </w:tabs>
+          <w:ind w:left="5460" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6180" />
+          </w:tabs>
+          <w:ind w:left="6180" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="1">
+      <w:lsid w:val="12450AF3" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="53ECF428" />
+      <w:lvl w:ilvl="0" w:tplc="C1CE727A">
+        <w:start w:val="4" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="420" />
+          </w:tabs>
+          <w:ind w:left="420" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1140" />
+          </w:tabs>
+          <w:ind w:left="1140" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1860" />
+          </w:tabs>
+          <w:ind w:left="1860" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2580" />
+          </w:tabs>
+          <w:ind w:left="2580" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3300" />
+          </w:tabs>
+          <w:ind w:left="3300" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4020" />
+          </w:tabs>
+          <w:ind w:left="4020" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4740" />
+          </w:tabs>
+          <w:ind w:left="4740" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5460" />
+          </w:tabs>
+          <w:ind w:left="5460" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6180" />
+          </w:tabs>
+          <w:ind w:left="6180" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="2">
+      <w:lsid w:val="16015904" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="CD4C94FC" />
+      <w:lvl w:ilvl="0" w:tplc="DDB0250E">
+        <w:start w:val="4" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="420" />
+          </w:tabs>
+          <w:ind w:left="420" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1140" />
+          </w:tabs>
+          <w:ind w:left="1140" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1860" />
+          </w:tabs>
+          <w:ind w:left="1860" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2580" />
+          </w:tabs>
+          <w:ind w:left="2580" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3300" />
+          </w:tabs>
+          <w:ind w:left="3300" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4020" />
+          </w:tabs>
+          <w:ind w:left="4020" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4740" />
+          </w:tabs>
+          <w:ind w:left="4740" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5460" />
+          </w:tabs>
+          <w:ind w:left="5460" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6180" />
+          </w:tabs>
+          <w:ind w:left="6180" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="3">
+      <w:lsid w:val="1CE40ACF" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="09E4ECEA" />
+      <w:lvl w:ilvl="0" w:tplc="0409000F">
+        <w:start w:val="4" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="720" />
+          </w:tabs>
+          <w:ind w:left="720" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1440" />
+          </w:tabs>
+          <w:ind w:left="1440" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2160" />
+          </w:tabs>
+          <w:ind w:left="2160" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2880" />
+          </w:tabs>
+          <w:ind w:left="2880" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3600" />
+          </w:tabs>
+          <w:ind w:left="3600" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4320" />
+          </w:tabs>
+          <w:ind w:left="4320" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5040" />
+          </w:tabs>
+          <w:ind w:left="5040" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5760" />
+          </w:tabs>
+          <w:ind w:left="5760" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6480" />
+          </w:tabs>
+          <w:ind w:left="6480" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="4">
+      <w:lsid w:val="312634D3" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="FD507152" />
+      <w:lvl w:ilvl="0" w:tplc="0409000F">
+        <w:start w:val="4" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="720" />
+          </w:tabs>
+          <w:ind w:left="720" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1440" />
+          </w:tabs>
+          <w:ind w:left="1440" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2160" />
+          </w:tabs>
+          <w:ind w:left="2160" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2880" />
+          </w:tabs>
+          <w:ind w:left="2880" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3600" />
+          </w:tabs>
+          <w:ind w:left="3600" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4320" />
+          </w:tabs>
+          <w:ind w:left="4320" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5040" />
+          </w:tabs>
+          <w:ind w:left="5040" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5760" />
+          </w:tabs>
+          <w:ind w:left="5760" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6480" />
+          </w:tabs>
+          <w:ind w:left="6480" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="5">
+      <w:lsid w:val="50BA44B0" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="F7ECDCFC" />
+      <w:lvl w:ilvl="0" w:tplc="B00C5082">
+        <w:start w:val="4" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="420" />
+          </w:tabs>
+          <w:ind w:left="420" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1140" />
+          </w:tabs>
+          <w:ind w:left="1140" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1860" />
+          </w:tabs>
+          <w:ind w:left="1860" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2580" />
+          </w:tabs>
+          <w:ind w:left="2580" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3300" />
+          </w:tabs>
+          <w:ind w:left="3300" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4020" />
+          </w:tabs>
+          <w:ind w:left="4020" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4740" />
+          </w:tabs>
+          <w:ind w:left="4740" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5460" />
+          </w:tabs>
+          <w:ind w:left="5460" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6180" />
+          </w:tabs>
+          <w:ind w:left="6180" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="6">
+      <w:lsid w:val="5AD13DF0" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="7B78464E" />
+      <w:lvl w:ilvl="0" w:tplc="C7386970">
+        <w:start w:val="5" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="420" />
+          </w:tabs>
+          <w:ind w:left="420" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1140" />
+          </w:tabs>
+          <w:ind w:left="1140" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1860" />
+          </w:tabs>
+          <w:ind w:left="1860" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2580" />
+          </w:tabs>
+          <w:ind w:left="2580" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3300" />
+          </w:tabs>
+          <w:ind w:left="3300" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4020" />
+          </w:tabs>
+          <w:ind w:left="4020" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4740" />
+          </w:tabs>
+          <w:ind w:left="4740" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5460" />
+          </w:tabs>
+          <w:ind w:left="5460" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6180" />
+          </w:tabs>
+          <w:ind w:left="6180" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="7">
+      <w:lsid w:val="5B052AB2" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="5840F35E" />
+      <w:lvl w:ilvl="0" w:tplc="2E827F74">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="720" />
+          </w:tabs>
+          <w:ind w:left="720" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="FFFFFFFF">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1440" />
+          </w:tabs>
+          <w:ind w:left="1440" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="04090005">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2160" />
+          </w:tabs>
+          <w:ind w:left="2160" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="04090001">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2880" />
+          </w:tabs>
+          <w:ind w:left="2880" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090003">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3600" />
+          </w:tabs>
+          <w:ind w:left="3600" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4320" />
+          </w:tabs>
+          <w:ind w:left="4320" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5040" />
+          </w:tabs>
+          <w:ind w:left="5040" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5760" />
+          </w:tabs>
+          <w:ind w:left="5760" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6480" />
+          </w:tabs>
+          <w:ind w:left="6480" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="8">
+      <w:lsid w:val="5EB049BB" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="555E83C6" />
+      <w:lvl w:ilvl="0" w:tplc="FFFFFFFF">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1440" />
+          </w:tabs>
+          <w:ind w:left="1440" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2160" />
+          </w:tabs>
+          <w:ind w:left="2160" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2880" />
+          </w:tabs>
+          <w:ind w:left="2880" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3600" />
+          </w:tabs>
+          <w:ind w:left="3600" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4320" />
+          </w:tabs>
+          <w:ind w:left="4320" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5040" />
+          </w:tabs>
+          <w:ind w:left="5040" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5760" />
+          </w:tabs>
+          <w:ind w:left="5760" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6480" />
+          </w:tabs>
+          <w:ind w:left="6480" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="7200" />
+          </w:tabs>
+          <w:ind w:left="7200" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="9">
+      <w:lsid w:val="5F7269A7" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="38440D88" />
+      <w:lvl w:ilvl="0" w:tplc="916C61B0">
+        <w:start w:val="5" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="360" />
+          </w:tabs>
+          <w:ind w:left="360" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1080" />
+          </w:tabs>
+          <w:ind w:left="1080" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1800" />
+          </w:tabs>
+          <w:ind w:left="1800" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2520" />
+          </w:tabs>
+          <w:ind w:left="2520" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3240" />
+          </w:tabs>
+          <w:ind w:left="3240" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3960" />
+          </w:tabs>
+          <w:ind w:left="3960" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4680" />
+          </w:tabs>
+          <w:ind w:left="4680" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5400" />
+          </w:tabs>
+          <w:ind w:left="5400" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6120" />
+          </w:tabs>
+          <w:ind w:left="6120" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="10">
+      <w:lsid w:val="605C6CE1" />
+      <w:plt w:val="Multilevel" />
+      <w:tmpl w:val="6EFAFCEE" />
+      <w:lvl w:ilvl="0">
+        <w:start w:val="5" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="705" />
+          </w:tabs>
+          <w:ind w:left="705" w:hanging="645" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1140" />
+          </w:tabs>
+          <w:ind w:left="1140" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1860" />
+          </w:tabs>
+          <w:ind w:left="1860" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2580" />
+          </w:tabs>
+          <w:ind w:left="2580" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3300" />
+          </w:tabs>
+          <w:ind w:left="3300" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4020" />
+          </w:tabs>
+          <w:ind w:left="4020" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4740" />
+          </w:tabs>
+          <w:ind w:left="4740" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5460" />
+          </w:tabs>
+          <w:ind w:left="5460" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6180" />
+          </w:tabs>
+          <w:ind w:left="6180" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="11">
+      <w:lsid w:val="64D21727" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="B804FFBE" />
+      <w:lvl w:ilvl="0" w:tplc="0409000F">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="420" />
+          </w:tabs>
+          <w:ind w:left="420" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1140" />
+          </w:tabs>
+          <w:ind w:left="1140" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1860" />
+          </w:tabs>
+          <w:ind w:left="1860" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2580" />
+          </w:tabs>
+          <w:ind w:left="2580" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3300" />
+          </w:tabs>
+          <w:ind w:left="3300" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4020" />
+          </w:tabs>
+          <w:ind w:left="4020" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4740" />
+          </w:tabs>
+          <w:ind w:left="4740" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5460" />
+          </w:tabs>
+          <w:ind w:left="5460" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6180" />
+          </w:tabs>
+          <w:ind w:left="6180" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="12">
+      <w:lsid w:val="6F916331" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="26A03F78" />
+      <w:lvl w:ilvl="0" w:tplc="0409000F">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="420" />
+          </w:tabs>
+          <w:ind w:left="420" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1500" />
+          </w:tabs>
+          <w:ind w:left="1500" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2220" />
+          </w:tabs>
+          <w:ind w:left="2220" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2940" />
+          </w:tabs>
+          <w:ind w:left="2940" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3660" />
+          </w:tabs>
+          <w:ind w:left="3660" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4380" />
+          </w:tabs>
+          <w:ind w:left="4380" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5100" />
+          </w:tabs>
+          <w:ind w:left="5100" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5820" />
+          </w:tabs>
+          <w:ind w:left="5820" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6540" />
+          </w:tabs>
+          <w:ind w:left="6540" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="13">
+      <w:lsid w:val="74146D46" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="FD540FBA" />
+      <w:lvl w:ilvl="0" w:tplc="A7D042FA">
+        <w:start w:val="5" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1065" />
+          </w:tabs>
+          <w:ind w:left="1065" w:hanging="705" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="default" />
+          <w:sz w:val="26" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1440" />
+          </w:tabs>
+          <w:ind w:left="1440" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2160" />
+          </w:tabs>
+          <w:ind w:left="2160" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2880" />
+          </w:tabs>
+          <w:ind w:left="2880" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3600" />
+          </w:tabs>
+          <w:ind w:left="3600" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4320" />
+          </w:tabs>
+          <w:ind w:left="4320" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5040" />
+          </w:tabs>
+          <w:ind w:left="5040" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5760" />
+          </w:tabs>
+          <w:ind w:left="5760" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6480" />
+          </w:tabs>
+          <w:ind w:left="6480" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="14">
+      <w:lsid w:val="74A064DB" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="E56638B2" />
+      <w:lvl w:ilvl="0" w:tplc="A0743148">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="567" />
+          </w:tabs>
+          <w:ind w:left="567" w:hanging="397" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="042A0019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1440" />
+          </w:tabs>
+          <w:ind w:left="1440" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="042A001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2160" />
+          </w:tabs>
+          <w:ind w:left="2160" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="042A000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2880" />
+          </w:tabs>
+          <w:ind w:left="2880" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="042A0019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3600" />
+          </w:tabs>
+          <w:ind w:left="3600" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="042A001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4320" />
+          </w:tabs>
+          <w:ind w:left="4320" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="042A000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5040" />
+          </w:tabs>
+          <w:ind w:left="5040" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="042A0019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5760" />
+          </w:tabs>
+          <w:ind w:left="5760" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="042A001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6480" />
+          </w:tabs>
+          <w:ind w:left="6480" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:list w:ilfo="1">
+      <w:ilst w:val="12" />
+    </w:list>
+    <w:list w:ilfo="2">
+      <w:ilst w:val="7" />
+    </w:list>
+    <w:list w:ilfo="3">
+      <w:ilst w:val="8" />
+    </w:list>
+    <w:list w:ilfo="4">
+      <w:ilst w:val="6" />
+    </w:list>
+    <w:list w:ilfo="5">
+      <w:ilst w:val="9" />
+    </w:list>
+    <w:list w:ilfo="6">
+      <w:ilst w:val="11" />
+    </w:list>
+    <w:list w:ilfo="7">
+      <w:ilst w:val="5" />
+    </w:list>
+    <w:list w:ilfo="8">
+      <w:ilst w:val="3" />
+    </w:list>
+    <w:list w:ilfo="9">
+      <w:ilst w:val="4" />
+    </w:list>
+    <w:list w:ilfo="10">
+      <w:ilst w:val="2" />
+    </w:list>
+    <w:list w:ilfo="11">
+      <w:ilst w:val="1" />
+    </w:list>
+    <w:list w:ilfo="12">
+      <w:ilst w:val="0" />
+    </w:list>
+    <w:list w:ilfo="13">
+      <w:ilst w:val="10" />
+    </w:list>
+    <w:list w:ilfo="14">
+      <w:ilst w:val="13" />
+    </w:list>
+    <w:list w:ilfo="15">
+      <w:ilst w:val="7" />
+      <w:lvlOverride w:ilvl="0" />
+      <w:lvlOverride w:ilvl="1">
+        <w:startOverride w:val="1" />
+      </w:lvlOverride>
+      <w:lvlOverride w:ilvl="2">
+        <w:startOverride w:val="1" />
+      </w:lvlOverride>
+      <w:lvlOverride w:ilvl="3">
+        <w:startOverride w:val="1" />
+      </w:lvlOverride>
+      <w:lvlOverride w:ilvl="4">
+        <w:startOverride w:val="1" />
+      </w:lvlOverride>
+      <w:lvlOverride w:ilvl="5">
+        <w:startOverride w:val="1" />
+      </w:lvlOverride>
+      <w:lvlOverride w:ilvl="6">
+        <w:startOverride w:val="1" />
+      </w:lvlOverride>
+      <w:lvlOverride w:ilvl="7">
+        <w:startOverride w:val="1" />
+      </w:lvlOverride>
+      <w:lvlOverride w:ilvl="8">
+        <w:startOverride w:val="1" />
+      </w:lvlOverride>
+    </w:list>
+    <w:list w:ilfo="16">
+      <w:ilst w:val="14" />
+    </w:list>
+    <w:ilfoMacAtCleanup w:val="4" />
+  </w:lists>
+  <w:styles>
+    <w:versionOfBuiltInStylenames w:val="4" />
+    <w:latentStyles w:defLockedState="off" w:latentStyleCount="156" />
+    <w:style w:type="paragraph" w:default="on" w:styleId="Normal">
+      <w:name w:val="Normal" />
+      <w:rPr>
+        <wx:font wx:val="Times New Roman" />
+        <w:sz w:val="24" />
+        <w:sz-cs w:val="24" />
+        <w:lang w:val="EN-US" w:fareast="EN-US" w:bidi="AR-SA" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Heading1">
+      <w:name w:val="heading 1" />
+      <wx:uiName wx:val="Heading 1" />
+      <w:basedOn w:val="Normal" />
+      <w:next w:val="Normal" />
+      <w:pPr>
+        <w:pStyle w:val="Heading1" />
+        <w:keepNext />
+        <w:outlineLvl w:val="0" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="VNI-Helve" w:h-ansi="VNI-Helve" />
+        <wx:font wx:val="VNI-Helve" />
+        <w:sz w:val="22" />
+        <w:sz-cs w:val="22" />
+        <w:u w:val="single" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Heading2">
+      <w:name w:val="heading 2" />
+      <wx:uiName wx:val="Heading 2" />
+      <w:basedOn w:val="Normal" />
+      <w:next w:val="Normal" />
+      <w:pPr>
+        <w:pStyle w:val="Heading2" />
+        <w:keepNext />
+        <w:jc w:val="center" />
+        <w:outlineLvl w:val="1" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="VNI-Helve" w:h-ansi="VNI-Helve" />
+        <wx:font wx:val="VNI-Helve" />
+        <w:b />
+        <w:b-cs />
+        <w:sz w:val="28" />
+        <w:sz-cs w:val="28" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Heading3">
+      <w:name w:val="heading 3" />
+      <wx:uiName wx:val="Heading 3" />
+      <w:basedOn w:val="Normal" />
+      <w:next w:val="Normal" />
+      <w:pPr>
+        <w:pStyle w:val="Heading3" />
+        <w:keepNext />
+        <w:jc w:val="center" />
+        <w:outlineLvl w:val="2" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="VNI-Helve" w:h-ansi="VNI-Helve" />
+        <wx:font wx:val="VNI-Helve" />
+        <w:b />
+        <w:b-cs />
+        <w:sz w:val="22" />
+        <w:sz-cs w:val="22" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Heading4">
+      <w:name w:val="heading 4" />
+      <wx:uiName wx:val="Heading 4" />
+      <w:basedOn w:val="Normal" />
+      <w:next w:val="Normal" />
+      <w:pPr>
+        <w:pStyle w:val="Heading4" />
+        <w:keepNext />
+        <w:jc w:val="center" />
+        <w:outlineLvl w:val="3" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="VNI-Helve" w:h-ansi="VNI-Helve" />
+        <wx:font wx:val="VNI-Helve" />
+        <w:sz w:val="40" />
+        <w:sz-cs w:val="40" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Heading5">
+      <w:name w:val="heading 5" />
+      <wx:uiName wx:val="Heading 5" />
+      <w:basedOn w:val="Normal" />
+      <w:next w:val="Normal" />
+      <w:pPr>
+        <w:pStyle w:val="Heading5" />
+        <w:keepNext />
+        <w:outlineLvl w:val="4" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="VNI-Times" w:h-ansi="VNI-Times" />
+        <wx:font wx:val="VNI-Times" />
+        <w:b />
+        <w:b-cs />
+        <w:sz w:val="22" />
+        <w:sz-cs w:val="22" />
+        <w:u w:val="single" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Heading6">
+      <w:name w:val="heading 6" />
+      <wx:uiName wx:val="Heading 6" />
+      <w:basedOn w:val="Normal" />
+      <w:next w:val="Normal" />
+      <w:pPr>
+        <w:pStyle w:val="Heading6" />
+        <w:keepNext />
+        <w:outlineLvl w:val="5" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="VNI-Times" w:h-ansi="VNI-Times" />
+        <wx:font wx:val="VNI-Times" />
+        <w:b />
+        <w:b-cs />
+        <w:sz w:val="22" />
+        <w:sz-cs w:val="22" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Heading7">
+      <w:name w:val="heading 7" />
+      <wx:uiName wx:val="Heading 7" />
+      <w:basedOn w:val="Normal" />
+      <w:next w:val="Normal" />
+      <w:pPr>
+        <w:pStyle w:val="Heading7" />
+        <w:keepNext />
+        <w:outlineLvl w:val="6" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="VNI-Helve-Condense" w:h-ansi="VNI-Helve-Condense" />
+        <wx:font wx:val="VNI-Helve-Condense" />
+        <w:b />
+        <w:b-cs />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Heading8">
+      <w:name w:val="heading 8" />
+      <wx:uiName wx:val="Heading 8" />
+      <w:basedOn w:val="Normal" />
+      <w:next w:val="Normal" />
+      <w:pPr>
+        <w:pStyle w:val="Heading8" />
+        <w:keepNext />
+        <w:tabs>
+          <w:tab w:val="left" w:pos="90" />
+        </w:tabs>
+        <w:jc w:val="center" />
+        <w:outlineLvl w:val="7" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="VNI-Times" w:h-ansi="VNI-Times" />
+        <wx:font wx:val="VNI-Times" />
+        <w:b />
+        <w:b-cs />
+        <w:color w:val="000000" />
+        <w:sz w:val="22" />
+        <w:sz-cs w:val="22" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:default="on" w:styleId="DefaultParagraphFont">
+      <w:name w:val="Default Paragraph Font" />
+      <w:semiHidden />
+    </w:style>
+    <w:style w:type="table" w:default="on" w:styleId="TableNormal">
+      <w:name w:val="Normal Table" />
+      <wx:uiName wx:val="Table Normal" />
+      <w:semiHidden />
+      <w:rPr>
+        <wx:font wx:val="Times New Roman" />
+      </w:rPr>
+      <w:tblPr>
+        <w:tblInd w:w="0" w:type="dxa" />
+        <w:tblCellMar>
+          <w:top w:w="0" w:type="dxa" />
+          <w:left w:w="108" w:type="dxa" />
+          <w:bottom w:w="0" w:type="dxa" />
+          <w:right w:w="108" w:type="dxa" />
+        </w:tblCellMar>
+      </w:tblPr>
+    </w:style>
+    <w:style w:type="list" w:default="on" w:styleId="NoList">
+      <w:name w:val="No List" />
+      <w:semiHidden />
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Header">
+      <w:name w:val="header" />
+      <wx:uiName wx:val="Header" />
+      <w:basedOn w:val="Normal" />
+      <w:pPr>
+        <w:pStyle w:val="Header" />
+        <w:tabs>
+          <w:tab w:val="center" w:pos="4320" />
+          <w:tab w:val="right" w:pos="8640" />
+        </w:tabs>
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:h-ansi="Arial" />
+        <wx:font wx:val="Arial" />
+        <w:sz w:val="22" />
+        <w:sz-cs w:val="22" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="NormalWeb">
+      <w:name w:val="Normal (Web)" />
+      <w:basedOn w:val="Normal" />
+      <w:pPr>
+        <w:pStyle w:val="NormalWeb" />
+        <w:spacing w:before="100" w:before-autospacing="on" w:after="100" w:after-autospacing="on" />
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Times New Roman" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="xl53">
+      <w:name w:val="xl53" />
+      <w:basedOn w:val="Normal" />
+      <w:pPr>
+        <w:pStyle w:val="xl53" />
+        <w:spacing w:before="100" w:before-autospacing="on" w:after="100" w:after-autospacing="on" />
+        <w:jc w:val="both" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="VNI-Helve-Condense" w:fareast="Arial Unicode MS" w:h-ansi="VNI-Helve-Condense" w:cs="Arial Unicode MS" />
+        <wx:font wx:val="VNI-Helve-Condense" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="BodyTextIndent">
+      <w:name w:val="Body Text Indent" />
+      <w:basedOn w:val="Normal" />
+      <w:pPr>
+        <w:pStyle w:val="BodyTextIndent" />
+        <w:listPr>
+          <w:ilvl w:val="12" />
+        </w:listPr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="630" />
+        </w:tabs>
+        <w:ind w:left="630" w:hanging="630" />
+        <w:jc w:val="both" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="VNI-Helve-Condense" w:h-ansi="VNI-Helve-Condense" />
+        <wx:font wx:val="VNI-Helve-Condense" />
+        <w:sz-cs w:val="22" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="BlockText">
+      <w:name w:val="Block Text" />
+      <w:basedOn w:val="Normal" />
+      <w:pPr>
+        <w:pStyle w:val="BlockText" />
+        <w:ind w:left="720" w:right="-261" w:hanging="720" />
+        <w:jc w:val="both" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="VNI-Helve-Condense" w:h-ansi="VNI-Helve-Condense" />
+        <wx:font wx:val="VNI-Helve-Condense" />
+        <w:sz w:val="22" />
+        <w:sz-cs w:val="20" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="BodyText">
+      <w:name w:val="Body Text" />
+      <w:basedOn w:val="Normal" />
+      <w:pPr>
+        <w:pStyle w:val="BodyText" />
+        <w:jc w:val="both" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="VNI-Helve" w:h-ansi="VNI-Helve" />
+        <wx:font wx:val="VNI-Helve" />
+        <w:sz w:val="22" />
+        <w:sz-cs w:val="22" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="BodyTextIndent3">
+      <w:name w:val="Body Text Indent 3" />
+      <w:basedOn w:val="Normal" />
+      <w:pPr>
+        <w:pStyle w:val="BodyTextIndent3" />
+        <w:tabs>
+          <w:tab w:val="left" w:pos="1080" />
+        </w:tabs>
+        <w:ind w:left="1080" w:hanging="450" />
+        <w:jc w:val="both" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="VNI-Helve" w:h-ansi="VNI-Helve" />
+        <wx:font wx:val="VNI-Helve" />
+        <w:sz-cs w:val="22" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="BodyTextIndent2">
+      <w:name w:val="Body Text Indent 2" />
+      <w:basedOn w:val="Normal" />
+      <w:pPr>
+        <w:pStyle w:val="BodyTextIndent2" />
+        <w:ind w:left="630" />
+        <w:jc w:val="both" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="VNI-Helve-Condense" w:h-ansi="VNI-Helve-Condense" />
+        <wx:font wx:val="VNI-Helve-Condense" />
+        <w:sz-cs w:val="22" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="xl59">
+      <w:name w:val="xl59" />
+      <w:basedOn w:val="Normal" />
+      <w:pPr>
+        <w:pStyle w:val="xl59" />
+        <w:spacing w:before="100" w:before-autospacing="on" w:after="100" w:after-autospacing="on" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="VNI-Helve-Condense" w:fareast="Arial Unicode MS" w:h-ansi="VNI-Helve-Condense" w:cs="Arial Unicode MS" />
+        <wx:font wx:val="VNI-Helve-Condense" />
+        <w:b />
+        <w:b-cs />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Footer">
+      <w:name w:val="footer" />
+      <wx:uiName wx:val="Footer" />
+      <w:basedOn w:val="Normal" />
+      <w:pPr>
+        <w:pStyle w:val="Footer" />
+        <w:tabs>
+          <w:tab w:val="center" w:pos="4320" />
+          <w:tab w:val="right" w:pos="8640" />
+        </w:tabs>
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:h-ansi="Arial" />
+        <wx:font wx:val="Arial" />
+        <w:sz w:val="22" />
+        <w:sz-cs w:val="22" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="xl52">
+      <w:name w:val="xl52" />
+      <w:basedOn w:val="Normal" />
+      <w:pPr>
+        <w:pStyle w:val="xl52" />
+        <w:spacing w:before="100" w:before-autospacing="on" w:after="100" w:after-autospacing="on" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="VNI-Helve" w:fareast="Arial Unicode MS" w:h-ansi="VNI-Helve" w:cs="Arial Unicode MS" />
+        <wx:font wx:val="VNI-Helve" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="xl66">
+      <w:name w:val="xl66" />
+      <w:basedOn w:val="Normal" />
+      <w:pPr>
+        <w:pStyle w:val="xl66" />
+        <w:pBdr>
+          <w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+          <w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+        </w:pBdr>
+        <w:spacing w:before="100" w:before-autospacing="on" w:after="100" w:after-autospacing="on" />
+        <w:jc w:val="center" />
+        <w:textAlignment w:val="top" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="VNI-Helve-Condense" w:fareast="Arial Unicode MS" w:h-ansi="VNI-Helve-Condense" w:cs="Arial Unicode MS" />
+        <wx:font wx:val="VNI-Helve-Condense" />
+        <w:b />
+        <w:b-cs />
+        <w:sz w:val="20" />
+        <w:sz-cs w:val="20" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="BodyText3">
+      <w:name w:val="Body Text 3" />
+      <w:basedOn w:val="Normal" />
+      <w:pPr>
+        <w:pStyle w:val="BodyText3" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="VNI-Helve" w:h-ansi="VNI-Helve" />
+        <wx:font wx:val="VNI-Helve" />
+        <w:sz w:val="20" />
+        <w:sz-cs w:val="22" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="BodyText2">
+      <w:name w:val="Body Text 2" />
+      <w:basedOn w:val="Normal" />
+      <w:rsid w:val="00B24094" />
+      <w:pPr>
+        <w:pStyle w:val="BodyText2" />
+        <w:widowControl w:val="off" />
+        <w:autoSpaceDE w:val="off" />
+        <w:autoSpaceDN w:val="off" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="VNI-Times" w:h-ansi="VNI-Times" />
+        <wx:font wx:val="VNI-Times" />
+        <w:sz-cs w:val="20" />
+        <w:lang w:val="EN-GB" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="BalloonText">
+      <w:name w:val="Balloon Text" />
+      <w:basedOn w:val="Normal" />
+      <w:semiHidden />
+      <w:rsid w:val="004F4507" />
+      <w:pPr>
+        <w:pStyle w:val="BalloonText" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Tahoma" w:h-ansi="Tahoma" w:cs="Tahoma" />
+        <wx:font wx:val="Tahoma" />
+        <w:sz w:val="16" />
+        <w:sz-cs w:val="16" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="PageNumber">
+      <w:name w:val="page number" />
+      <wx:uiName wx:val="Page Number" />
+      <w:basedOn w:val="DefaultParagraphFont" />
+      <w:rsid w:val="00065EF4" />
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="DocumentMap">
+      <w:name w:val="Document Map" />
+      <w:basedOn w:val="Normal" />
+      <w:link w:val="CharChar" />
+      <w:rsid w:val="0075260F" />
+      <w:pPr>
+        <w:pStyle w:val="DocumentMap" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Tahoma" w:h-ansi="Tahoma" w:cs="Tahoma" />
+        <wx:font wx:val="Tahoma" />
+        <w:sz w:val="16" />
+        <w:sz-cs w:val="16" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="CharChar">
+      <w:name w:val=" Char Char" />
+      <w:basedOn w:val="DefaultParagraphFont" />
+      <w:link w:val="DocumentMap" />
+      <w:rsid w:val="0075260F" />
+      <w:rPr>
+        <w:rFonts w:ascii="Tahoma" w:h-ansi="Tahoma" w:cs="Tahoma" />
+        <w:sz w:val="16" />
+        <w:sz-cs w:val="16" />
+      </w:rPr>
+    </w:style>
+  </w:styles>
+  <w:divs>
+    <w:div w:id="6948679">
+      <w:bodyDiv w:val="on" />
+      <w:marLeft w:val="0" />
+      <w:marRight w:val="0" />
+      <w:marTop w:val="0" />
+      <w:marBottom w:val="0" />
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+      </w:divBdr>
+    </w:div>
+    <w:div w:id="7099659">
+      <w:bodyDiv w:val="on" />
+      <w:marLeft w:val="0" />
+      <w:marRight w:val="0" />
+      <w:marTop w:val="0" />
+      <w:marBottom w:val="0" />
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+      </w:divBdr>
+    </w:div>
+    <w:div w:id="20327105">
+      <w:bodyDiv w:val="on" />
+      <w:marLeft w:val="0" />
+      <w:marRight w:val="0" />
+      <w:marTop w:val="0" />
+      <w:marBottom w:val="0" />
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+      </w:divBdr>
+    </w:div>
+    <w:div w:id="414328275">
+      <w:bodyDiv w:val="on" />
+      <w:marLeft w:val="0" />
+      <w:marRight w:val="0" />
+      <w:marTop w:val="0" />
+      <w:marBottom w:val="0" />
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+      </w:divBdr>
+    </w:div>
+    <w:div w:id="425344955">
+      <w:bodyDiv w:val="on" />
+      <w:marLeft w:val="0" />
+      <w:marRight w:val="0" />
+      <w:marTop w:val="0" />
+      <w:marBottom w:val="0" />
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+      </w:divBdr>
+    </w:div>
+    <w:div w:id="447816101">
+      <w:bodyDiv w:val="on" />
+      <w:marLeft w:val="0" />
+      <w:marRight w:val="0" />
+      <w:marTop w:val="0" />
+      <w:marBottom w:val="0" />
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+      </w:divBdr>
+    </w:div>
+    <w:div w:id="624432580">
+      <w:bodyDiv w:val="on" />
+      <w:marLeft w:val="0" />
+      <w:marRight w:val="0" />
+      <w:marTop w:val="0" />
+      <w:marBottom w:val="0" />
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+      </w:divBdr>
+    </w:div>
+    <w:div w:id="756056000">
+      <w:bodyDiv w:val="on" />
+      <w:marLeft w:val="0" />
+      <w:marRight w:val="0" />
+      <w:marTop w:val="0" />
+      <w:marBottom w:val="0" />
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+      </w:divBdr>
+    </w:div>
+    <w:div w:id="921794954">
+      <w:bodyDiv w:val="on" />
+      <w:marLeft w:val="0" />
+      <w:marRight w:val="0" />
+      <w:marTop w:val="0" />
+      <w:marBottom w:val="0" />
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+      </w:divBdr>
+    </w:div>
+    <w:div w:id="1094864772">
+      <w:bodyDiv w:val="on" />
+      <w:marLeft w:val="0" />
+      <w:marRight w:val="0" />
+      <w:marTop w:val="0" />
+      <w:marBottom w:val="0" />
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+      </w:divBdr>
+    </w:div>
+    <w:div w:id="1366560679">
+      <w:bodyDiv w:val="on" />
+      <w:marLeft w:val="0" />
+      <w:marRight w:val="0" />
+      <w:marTop w:val="0" />
+      <w:marBottom w:val="0" />
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+      </w:divBdr>
+    </w:div>
+    <w:div w:id="1394155050">
+      <w:bodyDiv w:val="on" />
+      <w:marLeft w:val="0" />
+      <w:marRight w:val="0" />
+      <w:marTop w:val="0" />
+      <w:marBottom w:val="0" />
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+      </w:divBdr>
+    </w:div>
+    <w:div w:id="1445728212">
+      <w:bodyDiv w:val="on" />
+      <w:marLeft w:val="0" />
+      <w:marRight w:val="0" />
+      <w:marTop w:val="0" />
+      <w:marBottom w:val="0" />
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+      </w:divBdr>
+    </w:div>
+    <w:div w:id="1505240246">
+      <w:bodyDiv w:val="on" />
+      <w:marLeft w:val="0" />
+      <w:marRight w:val="0" />
+      <w:marTop w:val="0" />
+      <w:marBottom w:val="0" />
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+      </w:divBdr>
+    </w:div>
+    <w:div w:id="1724981345">
+      <w:bodyDiv w:val="on" />
+      <w:marLeft w:val="0" />
+      <w:marRight w:val="0" />
+      <w:marTop w:val="0" />
+      <w:marBottom w:val="0" />
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+      </w:divBdr>
+    </w:div>
+    <w:div w:id="1743675797">
+      <w:bodyDiv w:val="on" />
+      <w:marLeft w:val="0" />
+      <w:marRight w:val="0" />
+      <w:marTop w:val="0" />
+      <w:marBottom w:val="0" />
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+      </w:divBdr>
+    </w:div>
+    <w:div w:id="1765760528">
+      <w:bodyDiv w:val="on" />
+      <w:marLeft w:val="0" />
+      <w:marRight w:val="0" />
+      <w:marTop w:val="0" />
+      <w:marBottom w:val="0" />
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+      </w:divBdr>
+    </w:div>
+    <w:div w:id="1768967796">
+      <w:bodyDiv w:val="on" />
+      <w:marLeft w:val="0" />
+      <w:marRight w:val="0" />
+      <w:marTop w:val="0" />
+      <w:marBottom w:val="0" />
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+      </w:divBdr>
+    </w:div>
+    <w:div w:id="1817410748">
+      <w:bodyDiv w:val="on" />
+      <w:marLeft w:val="0" />
+      <w:marRight w:val="0" />
+      <w:marTop w:val="0" />
+      <w:marBottom w:val="0" />
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+      </w:divBdr>
+    </w:div>
+    <w:div w:id="1960256094">
+      <w:bodyDiv w:val="on" />
+      <w:marLeft w:val="0" />
+      <w:marRight w:val="0" />
+      <w:marTop w:val="0" />
+      <w:marBottom w:val="0" />
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+      </w:divBdr>
+    </w:div>
+  </w:divs>
+  <w:shapeDefaults>
+    <o:shapedefaults v:ext="edit" spidmax="2050" />
+    <o:shapelayout v:ext="edit">
+      <o:idmap v:ext="edit" data="1" />
+    </o:shapelayout>
+  </w:shapeDefaults>
+  <w:docPr>
+    <w:view w:val="print" />
+    <w:zoom w:percent="100" />
+    <w:attachedTemplate w:val="" />
+    <w:defaultTabStop w:val="720" />
+    <w:drawingGridHorizontalSpacing w:val="120" />
+    <w:displayHorizontalDrawingGridEvery w:val="2" />
+    <w:displayVerticalDrawingGridEvery w:val="2" />
+    <w:characterSpacingControl w:val="DontCompress" />
+    <w:optimizeForBrowser />
+    <w:validateAgainstSchema />
+    <w:saveInvalidXML w:val="off" />
+    <w:ignoreMixedContent w:val="off" />
+    <w:alwaysShowPlaceholderText w:val="off" />
+    <w:footnotePr>
+      <w:footnote w:type="separator">
+        <w:p>
+          <w:r>
+            <w:separator />
+          </w:r>
+        </w:p>
+      </w:footnote>
+      <w:footnote w:type="continuation-separator">
+        <w:p>
+          <w:r>
+            <w:continuationSeparator />
+          </w:r>
+        </w:p>
+      </w:footnote>
+    </w:footnotePr>
+    <w:endnotePr>
+      <w:endnote w:type="separator">
+        <w:p>
+          <w:r>
+            <w:separator />
+          </w:r>
+        </w:p>
+      </w:endnote>
+      <w:endnote w:type="continuation-separator">
+        <w:p>
+          <w:r>
+            <w:continuationSeparator />
+          </w:r>
+        </w:p>
+      </w:endnote>
+    </w:endnotePr>
+    <w:compat>
+      <w:dontAllowFieldEndSelect />
+      <w:useWord2002TableStyleRules />
+    </w:compat>
+  </w:docPr>
+  <w:body>
+    <wx:sect>
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="Header" />
+          <w:tabs>
+            <w:tab w:val="clear" w:pos="4320" />
+            <w:tab w:val="clear" w:pos="8640" />
+            <w:tab w:val="left" w:pos="3261" />
+            <w:tab w:val="left" w:pos="3828" />
+            <w:tab w:val="left" w:pos="4395" />
+          </w:tabs>
+          <w:rPr>
+            <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+            <wx:font wx:val="Times New Roman" />
+            <w:sz w:val="20" />
+            <w:sz-cs w:val="20" />
+          </w:rPr>
+        </w:pPr>
+        <w:r>
+          <w:rPr>
+            <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+            <wx:font wx:val="Times New Roman" />
+            <w:sz w:val="20" />
+            <w:sz-cs w:val="20" />
+          </w:rPr>
+          <w:t>CÔNG TY DVCK HÀNG HẢI    </w:t>
+        </w:r>
+        <w:r>
+          <w:rPr>
+            <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+            <wx:font wx:val="Times New Roman" />
+            <w:sz w:val="20" />
+            <w:sz-cs w:val="20" />
+          </w:rPr>
+          <w:tab wx:wTab="645" wx:tlc="none" wx:cTlc="13" />
+          <w:t>                    CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT </w:t>
+        </w:r>
+        <st1:place w:st="on">
+          <st1:country-region w:st="on">
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                <wx:font wx:val="Times New Roman" />
+                <w:sz w:val="20" />
+                <w:sz-cs w:val="20" />
+              </w:rPr>
+              <w:t>NAM</w:t>
+            </w:r>
+          </st1:country-region>
+        </st1:place>
+      </w:p>
+      <w:p>
+        <w:pPr>
+          <w:rPr>
+            <w:sz w:val="20" />
+            <w:sz-cs w:val="20" />
+          </w:rPr>
+        </w:pPr>
+        <w:r>
+          <w:rPr>
+            <w:b />
+            <w:sz w:val="20" />
+            <w:sz-cs w:val="20" />
+          </w:rPr>
+          <w:t>         {mcrp_orgName}                                                            </w:t>
+        </w:r>
+        <w:r>
+          <w:rPr>
+            <w:sz w:val="20" />
+            <w:sz-cs w:val="20" />
+          </w:rPr>
+          <w:t>Độc lập - Tự do - Hạnh phúc</w:t>
+        </w:r>
+      </w:p>
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="NormalWeb" />
+          <w:spacing w:before="0" w:before-autospacing="off" w:after="0" w:after-autospacing="off" />
+          <w:rPr>
+            <w:sz w:val="20" />
+            <w:sz-cs w:val="20" />
+          </w:rPr>
+        </w:pPr>
+        <w:r>
+          <w:rPr>
+            <w:sz w:val="20" />
+            <w:sz-cs w:val="20" />
+          </w:rPr>
+          <w:t>           ----------***----------                                                            ------------***-----------</w:t>
+        </w:r>
+        <w:r>
+          <w:rPr>
+            <w:sz w:val="20" />
+            <w:sz-cs w:val="20" />
+          </w:rPr>
+          <w:tab wx:wTab="75" wx:tlc="none" wx:cTlc="1" />
+        </w:r>
+      </w:p>
+      <wx:sub-section>
+        <wx:sub-section>
+          <wx:sub-section>
+            <wx:sub-section>
+              <w:p>
+                <w:pPr>
+                  <w:pStyle w:val="Heading4" />
+                  <w:spacing w:before="120" />
+                  <w:jc w:val="left" />
+                  <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                    <wx:font wx:val="Times New Roman" />
+                    <w:sz w:val="24" />
+                    <w:sz-cs w:val="24" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                    <wx:font wx:val="Times New Roman" />
+                    <w:sz w:val="24" />
+                    <w:sz-cs w:val="24" />
+                  </w:rPr>
+                  <w:t>Số</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                    <wx:font wx:val="Times New Roman" />
+                    <w:color w:val="FF0000" />
+                    <w:sz w:val="24" />
+                    <w:sz-cs w:val="24" />
+                  </w:rPr>
+                  <w:t>: </w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                    <wx:font wx:val="Times New Roman" />
+                    <w:sz w:val="24" />
+                    <w:sz-cs w:val="24" />
+                  </w:rPr>
+                  <w:t>{mcrp_tenderNumber}</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                    <wx:font wx:val="Times New Roman" />
+                    <w:sz w:val="24" />
+                    <w:sz-cs w:val="24" />
+                  </w:rPr>
+                  <w:tab wx:wTab="270" wx:tlc="none" wx:cTlc="4" />
+                  <w:t>                 </w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                    <wx:font wx:val="Times New Roman" />
+                    <w:sz w:val="24" />
+                    <w:sz-cs w:val="24" />
+                  </w:rPr>
+                  <w:tab wx:wTab="420" wx:tlc="none" wx:cTlc="6" />
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                    <wx:font wx:val="Times New Roman" />
+                    <w:sz w:val="24" />
+                    <w:sz-cs w:val="24" />
+                  </w:rPr>
+                  <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="11" />
+                  <w:t>Vũng Tàu, ngày {mcrp_day} tháng {mcrp_month} năm {mcrp_year}</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:spacing w:line="312" w:line-rule="exact" />
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                    <w:u w:val="single" />
+                    <w:lang w:val="VI" />
+                  </w:rPr>
+                  <w:t>V/v</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                    <w:lang w:val="VI" />
+                  </w:rPr>
+                  <w:t>: Kế hoạch gọi chào hàng cung cấp {mcrp_packName}</w:t>
+                </w:r>
+              </w:p>
+              <w:p />
+              <w:p>
+                <w:pPr>
+                  <w:jc w:val="center" />
+                  <w:rPr>
+                    <w:b />
+                    <w:b-cs />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:b-cs />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>KẾ HOẠCH GỌI CHÀO HÀNG</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:jc w:val="center" />
+                  <w:rPr>
+                    <w:b />
+                    <w:b-cs />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:b-cs />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>CUNG CẤP HÀNG HÓA/DỊCH VỤ</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:tabs>
+                    <w:tab w:val="left" w:pos="0" />
+                    <w:tab w:val="left" w:pos="90" />
+                  </w:tabs>
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:spacing w:before="120" w:after="120" />
+                  <w:rPr>
+                    <w:b />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>I.</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="555" wx:tlc="none" wx:cTlc="8" />
+                  <w:t>Cơ sở của việc lập kế hoạch:</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:listPr>
+                    <w:ilvl w:val="0" />
+                    <w:ilfo w:val="2" />
+                    <wx:t wx:val="-" wx:wTabBefore="360" wx:wTabAfter="225" />
+                    <wx:font wx:val="Symbol" />
+                  </w:listPr>
+                  <w:tabs>
+                    <w:tab w:val="left" w:pos="0" />
+                    <w:tab w:val="left" w:pos="90" />
+                  </w:tabs>
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>Dựa vào nhu cầu sử dụng </w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                    <w:lang w:val="VI" />
+                  </w:rPr>
+                  <w:t>{mcrp_packName}</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t> của Công ty Dịch vụ Cơ khí Hàng hải </w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>(Công ty DVCKHH) </w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>và chỉ đạo của Ban Giám đốc Công ty về việc chào hàng chọn nhà cung cấp </w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>để ký hợp đồng/đơn đặt hàng </w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>cung cấp {mcrp_foundation}.</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:listPr>
+                    <w:ilvl w:val="0" />
+                    <w:ilfo w:val="2" />
+                    <wx:t wx:val="-" wx:wTabBefore="360" wx:wTabAfter="225" />
+                    <wx:font wx:val="Symbol" />
+                  </w:listPr>
+                  <w:tabs>
+                    <w:tab w:val="left" w:pos="0" />
+                    <w:tab w:val="left" w:pos="90" />
+                  </w:tabs>
+                  <w:spacing w:before="120" />
+                  <w:ind w:left="714" w:hanging="357" />
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>Căn cứ khả năng cung ứng của </w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>các nhà cung </w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>cấp {mcrp_offerType}.</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:spacing w:before="120" w:after="120" />
+                  <w:rPr>
+                    <w:b />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>II.</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="450" wx:tlc="none" wx:cTlc="7" />
+                  <w:t>Tóm tắt phạm vi cung cấp:</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:listPr>
+                    <w:ilvl w:val="0" />
+                    <w:ilfo w:val="2" />
+                    <wx:t wx:val="-" wx:wTabBefore="360" wx:wTabAfter="225" />
+                    <wx:font wx:val="Symbol" />
+                  </w:listPr>
+                  <w:tabs>
+                    <w:tab w:val="left" w:pos="0" />
+                    <w:tab w:val="left" w:pos="90" />
+                  </w:tabs>
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>Cung cấp đầy đủ các chủng loại hàng hoá phù hợp, thỏa mãn yêu cầu sử dụng của Công ty Dịch vụ Cơ khí Hàng hải</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>.</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:spacing w:before="120" w:after="120" />
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>III.</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="345" wx:tlc="none" wx:cTlc="5" />
+                  <w:t>Hình thức đấu thầu gọi chào hàng:</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t> </w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:listPr>
+                    <w:ilvl w:val="0" />
+                    <w:ilfo w:val="2" />
+                    <wx:t wx:val="-" wx:wTabBefore="360" wx:wTabAfter="225" />
+                    <wx:font wx:val="Symbol" />
+                  </w:listPr>
+                  <w:tabs>
+                    <w:tab w:val="left" w:pos="0" />
+                    <w:tab w:val="left" w:pos="90" />
+                  </w:tabs>
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>Chào giá cạnh tranh </w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>hạn</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t> chế bằng Fax</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:spacing w:before="120" w:after="120" />
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>IV.</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="375" wx:tlc="none" wx:cTlc="5" />
+                  <w:t>Dự toán gói chào hàng, nguồn tài chính:</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t> </w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:listPr>
+                    <w:ilvl w:val="0" />
+                    <w:ilfo w:val="2" />
+                    <wx:t wx:val="-" wx:wTabBefore="360" wx:wTabAfter="225" />
+                    <wx:font wx:val="Symbol" />
+                  </w:listPr>
+                  <w:tabs>
+                    <w:tab w:val="left" w:pos="0" />
+                    <w:tab w:val="left" w:pos="90" />
+                  </w:tabs>
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>Dự toán gói chào hàng: </w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:listPr>
+                    <w:ilvl w:val="0" />
+                    <w:ilfo w:val="2" />
+                    <wx:t wx:val="-" wx:wTabBefore="360" wx:wTabAfter="225" />
+                    <wx:font wx:val="Symbol" />
+                  </w:listPr>
+                  <w:tabs>
+                    <w:tab w:val="left" w:pos="0" />
+                    <w:tab w:val="left" w:pos="90" />
+                  </w:tabs>
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>Nguồn tài chính: Chi phí sản xuất kinh doanh/ chi phí thi </w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>công</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t> dự án.</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:spacing w:before="120" w:after="120" />
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>V.</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="480" wx:tlc="none" wx:cTlc="7" />
+                  <w:t>Tiến độ triển khai:</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t> </w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:pStyle w:val="xl53" />
+                  <w:listPr>
+                    <w:ilvl w:val="1" />
+                    <w:ilfo w:val="15" />
+                    <wx:t wx:val="1." wx:wTabBefore="360" wx:wTabAfter="165" />
+                    <wx:font wx:val="Times New Roman" />
+                  </w:listPr>
+                  <w:tabs>
+                    <w:tab w:val="clear" w:pos="1440" />
+                    <w:tab w:val="left" w:pos="720" />
+                    <w:tab w:val="left" w:pos="4080" />
+                  </w:tabs>
+                  <w:spacing w:before="120" w:before-autospacing="off" w:after="0" w:after-autospacing="off" />
+                  <w:ind w:left="720" />
+                  <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:fareast="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" />
+                    <wx:font wx:val="Times New Roman" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:fareast="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" />
+                    <wx:font wx:val="Times New Roman" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>Gửi hồ sơ chào giá</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:fareast="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" />
+                    <wx:font wx:val="Times New Roman" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="1395" wx:tlc="none" wx:cTlc="22" />
+                  <w:t>:</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:fareast="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" />
+                    <wx:font wx:val="Times New Roman" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="165" wx:tlc="none" wx:cTlc="2" />
+                  <w:t>{mcrp_sendingDate}</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:listPr>
+                    <w:ilvl w:val="1" />
+                    <w:ilfo w:val="15" />
+                    <wx:t wx:val="2." wx:wTabBefore="360" wx:wTabAfter="165" />
+                    <wx:font wx:val="Times New Roman" />
+                  </w:listPr>
+                  <w:tabs>
+                    <w:tab w:val="clear" w:pos="1440" />
+                    <w:tab w:val="left" w:pos="720" />
+                    <w:tab w:val="left" w:pos="4080" />
+                  </w:tabs>
+                  <w:spacing w:before="120" />
+                  <w:ind w:left="720" />
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>Thời hạn nộp chào giá </w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="945" wx:tlc="none" wx:cTlc="15" />
+                  <w:t>:</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="165" wx:tlc="none" wx:cTlc="2" />
+                  <w:t>{mcrp_deadline}</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:listPr>
+                    <w:ilvl w:val="1" />
+                    <w:ilfo w:val="15" />
+                    <wx:t wx:val="3." wx:wTabBefore="360" wx:wTabAfter="165" />
+                    <wx:font wx:val="Times New Roman" />
+                  </w:listPr>
+                  <w:tabs>
+                    <w:tab w:val="clear" w:pos="1440" />
+                    <w:tab w:val="left" w:pos="720" />
+                    <w:tab w:val="left" w:pos="4080" />
+                  </w:tabs>
+                  <w:spacing w:before="120" />
+                  <w:ind w:left="720" />
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>Thời gian đánh giá </w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="1335" wx:tlc="none" wx:cTlc="21" />
+                  <w:t>:</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="165" wx:tlc="none" wx:cTlc="2" />
+                  <w:t>{mcrp_evaluatedDate}</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:listPr>
+                    <w:ilvl w:val="1" />
+                    <w:ilfo w:val="15" />
+                    <wx:t wx:val="4." wx:wTabBefore="360" wx:wTabAfter="165" />
+                    <wx:font wx:val="Times New Roman" />
+                  </w:listPr>
+                  <w:tabs>
+                    <w:tab w:val="clear" w:pos="1440" />
+                    <w:tab w:val="left" w:pos="720" />
+                    <w:tab w:val="left" w:pos="4080" />
+                  </w:tabs>
+                  <w:spacing w:before="120" />
+                  <w:ind w:left="720" />
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>Phê duyệt kết quả đánh giá</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="510" wx:tlc="none" wx:cTlc="8" />
+                  <w:t>:</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="165" wx:tlc="none" wx:cTlc="2" />
+                  <w:t>{mcrp_approvedDate}</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:listPr>
+                    <w:ilvl w:val="1" />
+                    <w:ilfo w:val="15" />
+                    <wx:t wx:val="5." wx:wTabBefore="360" wx:wTabAfter="165" />
+                    <wx:font wx:val="Times New Roman" />
+                  </w:listPr>
+                  <w:tabs>
+                    <w:tab w:val="clear" w:pos="1440" />
+                    <w:tab w:val="left" w:pos="720" />
+                    <w:tab w:val="left" w:pos="4080" />
+                  </w:tabs>
+                  <w:spacing w:before="120" />
+                  <w:ind w:left="720" />
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>Đàm phán và ký hợp đồng</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="585" wx:tlc="none" wx:cTlc="9" />
+                  <w:t>:</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="165" wx:tlc="none" wx:cTlc="2" />
+                  <w:t>{mcrp_contractDate}</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:listPr>
+                    <w:ilvl w:val="1" />
+                    <w:ilfo w:val="15" />
+                    <wx:t wx:val="6." wx:wTabBefore="360" wx:wTabAfter="165" />
+                    <wx:font wx:val="Times New Roman" />
+                  </w:listPr>
+                  <w:tabs>
+                    <w:tab w:val="clear" w:pos="1440" />
+                    <w:tab w:val="left" w:pos="720" />
+                    <w:tab w:val="left" w:pos="4080" />
+                  </w:tabs>
+                  <w:spacing w:before="120" />
+                  <w:ind w:left="720" />
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>Thực hiện hợp đồng</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="1245" wx:tlc="none" wx:cTlc="20" />
+                  <w:t>:</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="165" wx:tlc="none" wx:cTlc="2" />
+                  <w:t>{mcrp_contractExecDate}</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:spacing w:before="120" w:after="120" />
+                  <w:rPr>
+                    <w:b />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>VII.</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="270" wx:tlc="none" wx:cTlc="4" />
+                  <w:t>Tiêu chuẩn đánh giá/ lựa chọn nhà cung cấp:</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:listPr>
+                    <w:ilvl w:val="1" />
+                    <w:ilfo w:val="3" />
+                    <wx:t wx:val="a." wx:wTabBefore="360" wx:wTabAfter="180" />
+                    <wx:font wx:val="Times New Roman" />
+                  </w:listPr>
+                  <w:tabs>
+                    <w:tab w:val="clear" w:pos="2160" />
+                    <w:tab w:val="list" w:pos="720" />
+                  </w:tabs>
+                  <w:spacing w:before="120" />
+                  <w:ind w:left="720" />
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>Về kỹ thuật: Hồ sơ chào thầu phải đáp ứng cơ bản nội dung về yêu cầu kỹ thuật của Công ty DVCKHH như quy định trong hồ sơ mời thầu. Công ty DVCKHH sẽ đánh giá đạt hoặc không đạt về mặt kỹ thuật theo hạng mục chào hàng. </w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:listPr>
+                    <w:ilvl w:val="1" />
+                    <w:ilfo w:val="3" />
+                    <wx:t wx:val="b." wx:wTabBefore="360" wx:wTabAfter="165" />
+                    <wx:font wx:val="Times New Roman" />
+                  </w:listPr>
+                  <w:tabs>
+                    <w:tab w:val="clear" w:pos="2160" />
+                    <w:tab w:val="list" w:pos="720" />
+                  </w:tabs>
+                  <w:spacing w:before="120" />
+                  <w:ind w:left="720" />
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>Về giá và đơn giá: Căn cứ kết quả đánh giá kỹ thuật hạng mục hàng hoá thoả mãn yêu cầu về kỹ thuật, đáp ứng yêu cầu về tiến độ cung cấp sẽ được tiếp tục đánh giá, xem xét lựa chọn. Công ty DVCKHH sẽ chọn ký hợp đồng cung cấp hàng hoá thoả mãn yêu cầu kỹ thuật, tiến độ giao hàng và có đơn giá chào cạnh tranh nhất.</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:spacing w:before="120" />
+                  <w:rPr>
+                    <w:b />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>VIII.</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="165" wx:tlc="none" wx:cTlc="2" />
+                  <w:t>Danh sách nhà cung cấp:</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:spacing w:before="120" />
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>Nhà cung cấp được lựa chọn để mời tham gia chào giá {mcrp_packName}  như sau</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:spacing w:before="120" />
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+              </w:p>
+              <w:tbl>
+                <w:tblPr>
+                  <w:tblW w:w="9520" w:type="dxa" />
+                  <w:tblInd w:w="108" w:type="dxa" />
+                  <w:tblBorders>
+                    <w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                    <w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                    <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                    <w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                    <w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                    <w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                  </w:tblBorders>
+                  <w:tblLayout w:type="Fixed" />
+                  <w:tblLook w:val="01E0" />
+                </w:tblPr>
+                <w:tblGrid>
+                  <w:gridCol w:w="699" />
+                  <w:gridCol w:w="2241" />
+                  <w:gridCol w:w="896" />
+                  <w:gridCol w:w="236" />
+                  <w:gridCol w:w="3068" />
+                  <w:gridCol w:w="2380" />
+                </w:tblGrid>
+                <w:tr>
+                  <w:trPr>
+                    <w:cantSplit />
+                  </w:trPr>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="699" w:type="dxa" />
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:tabs>
+                          <w:tab w:val="left" w:pos="90" />
+                        </w:tabs>
+                        <w:spacing w:before="60" w:after="60" w:line="264" w:line-rule="auto" />
+                        <w:jc w:val="center" />
+                        <w:rPr>
+                          <w:b />
+                          <w:b-cs />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:b />
+                          <w:b-cs />
+                        </w:rPr>
+                        <w:t>Stt</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="2241" w:type="dxa" />
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:tabs>
+                          <w:tab w:val="left" w:pos="90" />
+                        </w:tabs>
+                        <w:spacing w:before="60" w:after="60" w:line="264" w:line-rule="auto" />
+                        <w:jc w:val="center" />
+                        <w:rPr>
+                          <w:b />
+                          <w:b-cs />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:b />
+                          <w:b-cs />
+                        </w:rPr>
+                        <w:t>Tên Nhà cung cấp</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="4200" w:type="dxa" />
+                      <w:gridSpan w:val="3" />
+                      <w:tcBorders>
+                        <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                      </w:tcBorders>
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:tabs>
+                          <w:tab w:val="left" w:pos="90" />
+                        </w:tabs>
+                        <w:spacing w:before="60" w:after="60" w:line="264" w:line-rule="auto" />
+                        <w:jc w:val="center" />
+                        <w:rPr>
+                          <w:b />
+                          <w:b-cs />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:b />
+                          <w:b-cs />
+                        </w:rPr>
+                        <w:t>Thông tin liên lạc</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="2380" w:type="dxa" />
+                      <w:tcBorders>
+                        <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                      </w:tcBorders>
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:spacing w:line="264" w:line-rule="auto" />
+                        <w:jc w:val="center" />
+                        <w:rPr>
+                          <w:b />
+                          <w:b-cs />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:b />
+                          <w:b-cs />
+                        </w:rPr>
+                        <w:t>Địa chỉ</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                </w:tr>
+                <w:tr w:markId="vendorRow">
+                  <w:trPr>
+                    <w:cantSplit />
+                    <w:trHeight w:val="529" />
+                  </w:trPr>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="699" w:type="dxa" />
+                      <w:vmerge w:val="restart" />
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:pStyle w:val="Footer" />
+                        <w:tabs>
+                          <w:tab w:val="clear" w:pos="4320" />
+                          <w:tab w:val="clear" w:pos="8640" />
+                          <w:tab w:val="left" w:pos="3360" />
+                          <w:tab w:val="left" w:pos="6300" />
+                        </w:tabs>
+                        <w:spacing w:before="60" />
+                        <w:ind w:left="170" />
+                        <w:rPr>
+                          <w:sz w:val="24" />
+                          <w:sz-cs w:val="24" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:sz w:val="24" />
+                          <w:sz-cs w:val="24" />
+                        </w:rPr>
+                        <w:t>{mcrp_n2}</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="2241" w:type="dxa" />
+                      <w:vmerge w:val="restart" />
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:sz w:val="22" />
+                          <w:sz-cs w:val="22" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:sz w:val="22" />
+                          <w:sz-cs w:val="22" />
+                        </w:rPr>
+                        <w:t>{mcrp_vendor}</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="896" w:type="dxa" />
+                      <w:tcBorders>
+                        <w:bottom w:val="nil" />
+                        <w:right w:val="nil" />
+                      </w:tcBorders>
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:spacing w:line="264" w:line-rule="auto" />
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:color w:val="FF0000" />
+                          <w:sz w:val="22" />
+                          <w:sz-cs w:val="22" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:sz w:val="22" />
+                          <w:sz-cs w:val="22" />
+                          <w:lang w:val="VI" />
+                        </w:rPr>
+                        <w:t>Tel</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="236" w:type="dxa" />
+                      <w:tcBorders>
+                        <w:left w:val="nil" />
+                        <w:bottom w:val="nil" />
+                        <w:right w:val="nil" />
+                      </w:tcBorders>
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:jc w:val="both" />
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:sz w:val="22" />
+                          <w:sz-cs w:val="22" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:sz w:val="22" />
+                          <w:sz-cs w:val="22" />
+                        </w:rPr>
+                        <w:t>:</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="3068" w:type="dxa" />
+                      <w:tcBorders>
+                        <w:left w:val="nil" />
+                        <w:bottom w:val="nil" />
+                      </w:tcBorders>
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:jc w:val="both" />
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:sz w:val="22" />
+                          <w:sz-cs w:val="22" />
+                        </w:rPr>
+                        <w:t>{mcrp_phone}</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="2380" w:type="dxa" />
+                      <w:vmerge w:val="restart" />
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:rPr>
+                          <w:i-cs />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:i-cs />
+                        </w:rPr>
+                        <w:t>{mcrp_address}</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                </w:tr>
+                <w:tr>
+                  <w:trPr>
+                    <w:cantSplit />
+                    <w:trHeight w:val="580" />
+                  </w:trPr>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="699" w:type="dxa" />
+                      <w:vmerge />
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:pStyle w:val="Footer" />
+                        <w:widowControl w:val="off" />
+                        <w:listPr>
+                          <w:ilvl w:val="0" />
+                          <w:ilfo w:val="16" />
+                          <wx:t wx:val="1." wx:wTabBefore="165" wx:wTabAfter="0" />
+                          <wx:font wx:val="Times New Roman" />
+                        </w:listPr>
+                        <w:tabs>
+                          <w:tab w:val="clear" w:pos="4320" />
+                          <w:tab w:val="clear" w:pos="8640" />
+                          <w:tab w:val="left" w:pos="3360" />
+                          <w:tab w:val="left" w:pos="6300" />
+                        </w:tabs>
+                        <w:autoSpaceDE w:val="off" />
+                        <w:autoSpaceDN w:val="off" />
+                        <w:spacing w:before="60" />
+                        <w:rPr>
+                          <w:sz w:val="24" />
+                          <w:sz-cs w:val="24" />
+                          <w:lang w:val="VI" />
+                        </w:rPr>
+                      </w:pPr>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="2241" w:type="dxa" />
+                      <w:vmerge />
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:spacing w:line="264" w:line-rule="auto" />
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:sz w:val="22" />
+                          <w:sz-cs w:val="22" />
+                          <w:lang w:val="VI" />
+                        </w:rPr>
+                      </w:pPr>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="896" w:type="dxa" />
+                      <w:tcBorders>
+                        <w:top w:val="nil" />
+                        <w:bottom w:val="nil" />
+                        <w:right w:val="nil" />
+                      </w:tcBorders>
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:spacing w:line="264" w:line-rule="auto" />
+                        <w:rPr>
+                          <w:b />
+                          <w:i-cs />
+                          <w:sz w:val="22" />
+                          <w:sz-cs w:val="22" />
+                          <w:lang w:val="VI" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:sz w:val="22" />
+                          <w:sz-cs w:val="22" />
+                          <w:lang w:val="VI" />
+                        </w:rPr>
+                        <w:t>Fax</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="236" w:type="dxa" />
+                      <w:tcBorders>
+                        <w:top w:val="nil" />
+                        <w:left w:val="nil" />
+                        <w:bottom w:val="nil" />
+                        <w:right w:val="nil" />
+                      </w:tcBorders>
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:spacing w:line="264" w:line-rule="auto" />
+                        <w:jc w:val="both" />
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:sz w:val="22" />
+                          <w:sz-cs w:val="22" />
+                          <w:lang w:val="VI" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:sz w:val="22" />
+                          <w:sz-cs w:val="22" />
+                        </w:rPr>
+                        <w:t>:</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="3068" w:type="dxa" />
+                      <w:tcBorders>
+                        <w:top w:val="nil" />
+                        <w:left w:val="nil" />
+                        <w:bottom w:val="nil" />
+                      </w:tcBorders>
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:spacing w:line="264" w:line-rule="auto" />
+                        <w:jc w:val="both" />
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:sz w:val="22" />
+                          <w:sz-cs w:val="22" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:sz w:val="22" />
+                          <w:sz-cs w:val="22" />
+                        </w:rPr>
+                        <w:t>{mcrp_fax}</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="2380" w:type="dxa" />
+                      <w:vmerge />
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:spacing w:line="264" w:line-rule="auto" />
+                        <w:jc w:val="center" />
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:lang w:val="VI" />
+                        </w:rPr>
+                      </w:pPr>
+                    </w:p>
+                  </w:tc>
+                </w:tr>
+                <w:tr>
+                  <w:trPr>
+                    <w:cantSplit />
+                    <w:trHeight w:val="453" />
+                  </w:trPr>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="699" w:type="dxa" />
+                      <w:vmerge />
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:pStyle w:val="Footer" />
+                        <w:widowControl w:val="off" />
+                        <w:listPr>
+                          <w:ilvl w:val="0" />
+                          <w:ilfo w:val="16" />
+                          <wx:t wx:val="1." wx:wTabBefore="165" wx:wTabAfter="0" />
+                          <wx:font wx:val="Times New Roman" />
+                        </w:listPr>
+                        <w:tabs>
+                          <w:tab w:val="clear" w:pos="4320" />
+                          <w:tab w:val="clear" w:pos="8640" />
+                          <w:tab w:val="left" w:pos="3360" />
+                          <w:tab w:val="left" w:pos="6300" />
+                        </w:tabs>
+                        <w:autoSpaceDE w:val="off" />
+                        <w:autoSpaceDN w:val="off" />
+                        <w:spacing w:before="60" />
+                        <w:rPr>
+                          <w:sz w:val="24" />
+                          <w:sz-cs w:val="24" />
+                          <w:lang w:val="VI" />
+                        </w:rPr>
+                      </w:pPr>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="2241" w:type="dxa" />
+                      <w:vmerge />
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:spacing w:line="264" w:line-rule="auto" />
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:sz w:val="22" />
+                          <w:sz-cs w:val="22" />
+                          <w:lang w:val="VI" />
+                        </w:rPr>
+                      </w:pPr>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="896" w:type="dxa" />
+                      <w:tcBorders>
+                        <w:top w:val="nil" />
+                        <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                        <w:right w:val="nil" />
+                      </w:tcBorders>
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:spacing w:line="264" w:line-rule="auto" />
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:sz w:val="22" />
+                          <w:sz-cs w:val="22" />
+                          <w:lang w:val="VI" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:sz w:val="22" />
+                          <w:sz-cs w:val="22" />
+                          <w:lang w:val="VI" />
+                        </w:rPr>
+                        <w:t>Email</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="236" w:type="dxa" />
+                      <w:tcBorders>
+                        <w:top w:val="nil" />
+                        <w:left w:val="nil" />
+                        <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                        <w:right w:val="nil" />
+                      </w:tcBorders>
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:spacing w:line="264" w:line-rule="auto" />
+                        <w:jc w:val="both" />
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:sz w:val="22" />
+                          <w:sz-cs w:val="22" />
+                          <w:lang w:val="VI" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:sz w:val="22" />
+                          <w:sz-cs w:val="22" />
+                        </w:rPr>
+                        <w:t>:</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="3068" w:type="dxa" />
+                      <w:tcBorders>
+                        <w:top w:val="nil" />
+                        <w:left w:val="nil" />
+                        <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                      </w:tcBorders>
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:spacing w:line="264" w:line-rule="auto" />
+                        <w:jc w:val="both" />
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:sz w:val="22" />
+                          <w:sz-cs w:val="22" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:sz w:val="22" />
+                          <w:sz-cs w:val="22" />
+                        </w:rPr>
+                        <w:t>{mcrp_email}</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="2380" w:type="dxa" />
+                      <w:vmerge />
+                      <w:tcBorders>
+                        <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                      </w:tcBorders>
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:spacing w:line="264" w:line-rule="auto" />
+                        <w:jc w:val="center" />
+                        <w:rPr>
+                          <w:i-cs />
+                          <w:lang w:val="VI" />
+                        </w:rPr>
+                      </w:pPr>
+                    </w:p>
+                  </w:tc>
+                </w:tr>
+              </w:tbl>
+              <w:p>
+                <w:pPr>
+                  <w:spacing w:before="120" />
+                  <w:rPr>
+                    <w:b />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:tabs>
+                    <w:tab w:val="left" w:pos="720" />
+                    <w:tab w:val="left" w:pos="1800" />
+                  </w:tabs>
+                  <w:spacing w:before="120" />
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>Để chủ động trong việc cung cấp {mcrp_packName} </w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>của Công ty,</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t> Phòng Kế hoạch kính đề nghị Giám đốc Công ty xem xét, phê duyệt kế hoạch mua {mcrp_materialType} trên.</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:tabs>
+                    <w:tab w:val="left" w:pos="720" />
+                    <w:tab w:val="left" w:pos="1800" />
+                  </w:tabs>
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:tabs>
+                    <w:tab w:val="left" w:pos="90" />
+                  </w:tabs>
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:b />
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:t>   Phòng kế hoạch</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="240" wx:tlc="none" wx:cTlc="3" />
+                  <w:t>       </w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="300" wx:tlc="none" wx:cTlc="4" />
+                  <w:t>               Phó Giám đốc</w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="435" wx:tlc="none" wx:cTlc="6" />
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="11" />
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:b />
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="11" />
+                  <w:t>         Giám đốc </w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:tabs>
+                    <w:tab w:val="left" w:pos="90" />
+                  </w:tabs>
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="90" wx:tlc="none" wx:cTlc="1" />
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="630" wx:tlc="none" wx:cTlc="10" />
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="11" />
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="11" />
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="11" />
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="11" />
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="11" />
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="11" />
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="11" />
+                  <w:t>              </w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                  <w:tab wx:wTab="600" wx:tlc="none" wx:cTlc="9" />
+                  <w:t>           (Duyệt)</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:tabs>
+                    <w:tab w:val="left" w:pos="90" />
+                  </w:tabs>
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:color w:val="000000" />
+                    <w:sz w:val="26" />
+                    <w:sz-cs w:val="26" />
+                  </w:rPr>
+                </w:pPr>
+              </w:p>
+              <w:sectPr>
+                <w:ftr w:type="odd">
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="Footer" />
+                      <w:jc w:val="center" />
+                      <w:rPr>
+                        <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                        <wx:font wx:val="Times New Roman" />
+                        <w:sz w:val="12" />
+                      </w:rPr>
+                    </w:pPr>
+                    <w:r>
+                      <w:rPr>
+                        <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                        <wx:font wx:val="Times New Roman" />
+                        <w:sz w:val="20" />
+                        <w:sz-cs w:val="20" />
+                      </w:rPr>
+                      <w:tab wx:wTab="4185" wx:tlc="none" wx:cTlc="92" />
+                    </w:r>
+                    <w:r>
+                      <w:rPr>
+                        <w:rStyle w:val="PageNumber" />
+                        <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                        <wx:font wx:val="Times New Roman" />
+                        <w:sz w:val="20" />
+                        <w:sz-cs w:val="20" />
+                      </w:rPr>
+                      <w:fldChar w:fldCharType="begin" />
+                    </w:r>
+                    <w:r>
+                      <w:rPr>
+                        <w:rStyle w:val="PageNumber" />
+                        <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                        <wx:font wx:val="Times New Roman" />
+                        <w:sz w:val="20" />
+                        <w:sz-cs w:val="20" />
+                      </w:rPr>
+                      <w:instrText> PAGE </w:instrText>
+                    </w:r>
+                    <w:r>
+                      <w:rPr>
+                        <w:rStyle w:val="PageNumber" />
+                        <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                        <wx:font wx:val="Times New Roman" />
+                        <w:sz w:val="20" />
+                        <w:sz-cs w:val="20" />
+                      </w:rPr>
+                      <w:fldChar w:fldCharType="separate" />
+                    </w:r>
+                    <w:r>
+                      <w:rPr>
+                        <w:rStyle w:val="PageNumber" />
+                        <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                        <wx:font wx:val="Times New Roman" />
+                        <w:noProof />
+                        <w:sz w:val="20" />
+                        <w:sz-cs w:val="20" />
+                      </w:rPr>
+                      <w:t>1</w:t>
+                    </w:r>
+                    <w:r>
+                      <w:rPr>
+                        <w:rStyle w:val="PageNumber" />
+                        <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                        <wx:font wx:val="Times New Roman" />
+                        <w:sz w:val="20" />
+                        <w:sz-cs w:val="20" />
+                      </w:rPr>
+                      <w:fldChar w:fldCharType="end" />
+                    </w:r>
+                    <w:r>
+                      <w:rPr>
+                        <w:rStyle w:val="PageNumber" />
+                        <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                        <wx:font wx:val="Times New Roman" />
+                        <w:sz w:val="20" />
+                        <w:sz-cs w:val="20" />
+                      </w:rPr>
+                      <w:t>/</w:t>
+                    </w:r>
+                    <w:r>
+                      <w:rPr>
+                        <w:rStyle w:val="PageNumber" />
+                        <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                        <wx:font wx:val="Times New Roman" />
+                        <w:sz w:val="20" />
+                        <w:sz-cs w:val="20" />
+                      </w:rPr>
+                      <w:fldChar w:fldCharType="begin" />
+                    </w:r>
+                    <w:r>
+                      <w:rPr>
+                        <w:rStyle w:val="PageNumber" />
+                        <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                        <wx:font wx:val="Times New Roman" />
+                        <w:sz w:val="20" />
+                        <w:sz-cs w:val="20" />
+                      </w:rPr>
+                      <w:instrText> NUMPAGES </w:instrText>
+                    </w:r>
+                    <w:r>
+                      <w:rPr>
+                        <w:rStyle w:val="PageNumber" />
+                        <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                        <wx:font wx:val="Times New Roman" />
+                        <w:sz w:val="20" />
+                        <w:sz-cs w:val="20" />
+                      </w:rPr>
+                      <w:fldChar w:fldCharType="separate" />
+                    </w:r>
+                    <w:r>
+                      <w:rPr>
+                        <w:rStyle w:val="PageNumber" />
+                        <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                        <wx:font wx:val="Times New Roman" />
+                        <w:noProof />
+                        <w:sz w:val="20" />
+                        <w:sz-cs w:val="20" />
+                      </w:rPr>
+                      <w:t>2</w:t>
+                    </w:r>
+                    <w:r>
+                      <w:rPr>
+                        <w:rStyle w:val="PageNumber" />
+                        <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                        <wx:font wx:val="Times New Roman" />
+                        <w:sz w:val="20" />
+                        <w:sz-cs w:val="20" />
+                      </w:rPr>
+                      <w:fldChar w:fldCharType="end" />
+                    </w:r>
+                    <w:r>
+                      <w:rPr>
+                        <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                        <wx:font wx:val="Times New Roman" />
+                        <w:sz w:val="20" />
+                        <w:sz-cs w:val="20" />
+                      </w:rPr>
+                      <w:tab wx:wTab="1950" wx:tlc="none" wx:cTlc="42" />
+                      <w:t>BM-02-02/TM-25/04/2007</w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="Footer" />
+                      <w:tabs>
+                        <w:tab w:val="clear" w:pos="8640" />
+                        <w:tab w:val="right" w:pos="9360" />
+                      </w:tabs>
+                      <w:rPr>
+                        <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                        <wx:font wx:val="Times New Roman" />
+                        <w:sz w:val="20" />
+                        <w:sz-cs w:val="20" />
+                      </w:rPr>
+                    </w:pPr>
+                  </w:p>
+                </w:ftr>
+                <w:pgSz w:w="12240" w:h="15840" />
+                <w:pgMar w:top="1080" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+                <w:cols w:space="720" />
+                <w:docGrid w:line-pitch="360" />
+              </w:sectPr>
+            </wx:sub-section>
+          </wx:sub-section>
+        </wx:sub-section>
+      </wx:sub-section>
+    </wx:sect>
+  </w:body>
+</w:wordDocument>

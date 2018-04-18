@@ -1,0 +1,4706 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?mso-application progid="Word.Document"?>
+<w:wordDocument xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:st1="urn:schemas-microsoft-com:office:smarttags" w:macrosPresent="no" w:embeddedObjPresent="no" w:ocxPresent="no" xml:space="preserve">
+  <o:SmartTagType o:namespaceuri="urn:schemas-microsoft-com:office:smarttags" o:name="place" />
+  <o:SmartTagType o:namespaceuri="urn:schemas-microsoft-com:office:smarttags" o:name="country-region" />
+  <o:SmartTagType o:namespaceuri="urn:schemas-microsoft-com:office:smarttags" o:name="City" />
+  <o:DocumentProperties>
+    <o:Title>LOVE</o:Title>
+    <o:Subject>Mau</o:Subject>
+    <o:Author>OPEY A.</o:Author>
+    <o:LastAuthor>phuongtu</o:LastAuthor>
+    <o:Revision>9</o:Revision>
+    <o:TotalTime>4</o:TotalTime>
+    <o:LastPrinted>2010-03-13T08:13:00Z</o:LastPrinted>
+    <o:Created>2010-03-26T02:19:00Z</o:Created>
+    <o:LastSaved>2010-03-29T03:25:00Z</o:LastSaved>
+    <o:Pages>1</o:Pages>
+    <o:Words>149</o:Words>
+    <o:Characters>854</o:Characters>
+    <o:Company>FPT Co.</o:Company>
+    <o:Bytes>735262</o:Bytes>
+    <o:Lines>7</o:Lines>
+    <o:Paragraphs>2</o:Paragraphs>
+    <o:CharactersWithSpaces>1001</o:CharactersWithSpaces>
+    <o:Version>11.5604</o:Version>
+  </o:DocumentProperties>
+  <w:fonts>
+    <w:defaultFonts w:ascii="CG Times (WN)" w:fareast="Times New Roman" w:h-ansi="CG Times (WN)" w:cs="Times New Roman" />
+    <w:font w:name="Wingdings">
+      <w:panose-1 w:val="05000000000000000000" />
+      <w:charset w:val="02" />
+      <w:family w:val="Auto" />
+      <w:pitch w:val="variable" />
+      <w:sig w:usb-0="00000000" w:usb-1="10000000" w:usb-2="00000000" w:usb-3="00000000" w:csb-0="80000000" w:csb-1="00000000" />
+    </w:font>
+    <w:font w:name="Tahoma">
+      <w:panose-1 w:val="020B0604030504040204" />
+      <w:charset w:val="A3" />
+      <w:family w:val="Swiss" />
+      <w:pitch w:val="variable" />
+      <w:sig w:usb-0="E1003AFF" w:usb-1="C000605B" w:usb-2="00000029" w:usb-3="00000000" w:csb-0="000101FF" w:csb-1="00000000" />
+    </w:font>
+    <w:font w:name="CG Times (WN)">
+      <w:panose-1 w:val="00000000000000000000" />
+      <w:charset w:val="00" />
+      <w:family w:val="Roman" />
+      <w:notTrueType />
+      <w:pitch w:val="default" />
+      <w:sig w:usb-0="00000000" w:usb-1="00000000" w:usb-2="00000000" w:usb-3="00000000" w:csb-0="00000000" w:csb-1="00000000" />
+    </w:font>
+  </w:fonts>
+  <w:lists>
+    <w:listDef w:listDefId="0">
+      <w:lsid w:val="00556048" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="058C0E9E" />
+      <w:lvl w:ilvl="0" w:tplc="0409000F">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="360" />
+          </w:tabs>
+          <w:ind w:left="360" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1080" />
+          </w:tabs>
+          <w:ind w:left="1080" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1800" />
+          </w:tabs>
+          <w:ind w:left="1800" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2520" />
+          </w:tabs>
+          <w:ind w:left="2520" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3240" />
+          </w:tabs>
+          <w:ind w:left="3240" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3960" />
+          </w:tabs>
+          <w:ind w:left="3960" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4680" />
+          </w:tabs>
+          <w:ind w:left="4680" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5400" />
+          </w:tabs>
+          <w:ind w:left="5400" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6120" />
+          </w:tabs>
+          <w:ind w:left="6120" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="1">
+      <w:lsid w:val="007A79B9" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="7CCC45AC" />
+      <w:lvl w:ilvl="0" w:tplc="B41408EA">
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="-" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1800" />
+          </w:tabs>
+          <w:ind w:left="1800" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:fareast="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2520" />
+          </w:tabs>
+          <w:ind w:left="2520" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3240" />
+          </w:tabs>
+          <w:ind w:left="3240" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3960" />
+          </w:tabs>
+          <w:ind w:left="3960" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4680" />
+          </w:tabs>
+          <w:ind w:left="4680" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5400" />
+          </w:tabs>
+          <w:ind w:left="5400" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6120" />
+          </w:tabs>
+          <w:ind w:left="6120" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6840" />
+          </w:tabs>
+          <w:ind w:left="6840" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="7560" />
+          </w:tabs>
+          <w:ind w:left="7560" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="2">
+      <w:lsid w:val="13167333" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="FE42F3E0" />
+      <w:lvl w:ilvl="0" w:tplc="22FEC376">
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="-" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1080" />
+          </w:tabs>
+          <w:ind w:left="1080" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:fareast="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1800" />
+          </w:tabs>
+          <w:ind w:left="1800" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2520" />
+          </w:tabs>
+          <w:ind w:left="2520" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3240" />
+          </w:tabs>
+          <w:ind w:left="3240" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3960" />
+          </w:tabs>
+          <w:ind w:left="3960" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4680" />
+          </w:tabs>
+          <w:ind w:left="4680" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5400" />
+          </w:tabs>
+          <w:ind w:left="5400" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6120" />
+          </w:tabs>
+          <w:ind w:left="6120" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6840" />
+          </w:tabs>
+          <w:ind w:left="6840" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="3">
+      <w:lsid w:val="30F26266" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="4170DD48" />
+      <w:lvl w:ilvl="0" w:tplc="04090005">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1440" />
+          </w:tabs>
+          <w:ind w:left="1440" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2160" />
+          </w:tabs>
+          <w:ind w:left="2160" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2880" />
+          </w:tabs>
+          <w:ind w:left="2880" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3600" />
+          </w:tabs>
+          <w:ind w:left="3600" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4320" />
+          </w:tabs>
+          <w:ind w:left="4320" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5040" />
+          </w:tabs>
+          <w:ind w:left="5040" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5760" />
+          </w:tabs>
+          <w:ind w:left="5760" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6480" />
+          </w:tabs>
+          <w:ind w:left="6480" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="7200" />
+          </w:tabs>
+          <w:ind w:left="7200" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="4">
+      <w:lsid w:val="373D5DD0" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="EC82EA7A" />
+      <w:lvl w:ilvl="0" w:tplc="B41408EA">
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="-" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1800" />
+          </w:tabs>
+          <w:ind w:left="1800" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:fareast="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="A54E47C6">
+        <w:start w:val="1" />
+        <w:nfc w:val="1" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1800" />
+          </w:tabs>
+          <w:ind w:left="1800" w:hanging="720" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2160" />
+          </w:tabs>
+          <w:ind w:left="2160" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2880" />
+          </w:tabs>
+          <w:ind w:left="2880" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3600" />
+          </w:tabs>
+          <w:ind w:left="3600" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4320" />
+          </w:tabs>
+          <w:ind w:left="4320" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5040" />
+          </w:tabs>
+          <w:ind w:left="5040" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5760" />
+          </w:tabs>
+          <w:ind w:left="5760" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6480" />
+          </w:tabs>
+          <w:ind w:left="6480" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="5">
+      <w:lsid w:val="37BE2AF6" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="B6AA3774" />
+      <w:lvl w:ilvl="0" w:tplc="B41408EA">
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="-" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3240" />
+          </w:tabs>
+          <w:ind w:left="3240" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:fareast="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2880" />
+          </w:tabs>
+          <w:ind w:left="2880" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="04090005">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3600" />
+          </w:tabs>
+          <w:ind w:left="3600" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4320" />
+          </w:tabs>
+          <w:ind w:left="4320" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5040" />
+          </w:tabs>
+          <w:ind w:left="5040" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5760" />
+          </w:tabs>
+          <w:ind w:left="5760" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6480" />
+          </w:tabs>
+          <w:ind w:left="6480" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="7200" />
+          </w:tabs>
+          <w:ind w:left="7200" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="7920" />
+          </w:tabs>
+          <w:ind w:left="7920" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="6">
+      <w:lsid w:val="3EA45AAF" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="4C9ECF5A" />
+      <w:lvl w:ilvl="0" w:tplc="04090005">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2880" />
+          </w:tabs>
+          <w:ind w:left="2880" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3600" />
+          </w:tabs>
+          <w:ind w:left="3600" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4320" />
+          </w:tabs>
+          <w:ind w:left="4320" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5040" />
+          </w:tabs>
+          <w:ind w:left="5040" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5760" />
+          </w:tabs>
+          <w:ind w:left="5760" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6480" />
+          </w:tabs>
+          <w:ind w:left="6480" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="7200" />
+          </w:tabs>
+          <w:ind w:left="7200" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="7920" />
+          </w:tabs>
+          <w:ind w:left="7920" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="8640" />
+          </w:tabs>
+          <w:ind w:left="8640" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="7">
+      <w:lsid w:val="46974BE6" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="2FF88DCC" />
+      <w:lvl w:ilvl="0" w:tplc="797AAE4C">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1080" />
+          </w:tabs>
+          <w:ind w:left="1080" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1800" />
+          </w:tabs>
+          <w:ind w:left="1800" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2520" />
+          </w:tabs>
+          <w:ind w:left="2520" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3240" />
+          </w:tabs>
+          <w:ind w:left="3240" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3960" />
+          </w:tabs>
+          <w:ind w:left="3960" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4680" />
+          </w:tabs>
+          <w:ind w:left="4680" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5400" />
+          </w:tabs>
+          <w:ind w:left="5400" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6120" />
+          </w:tabs>
+          <w:ind w:left="6120" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6840" />
+          </w:tabs>
+          <w:ind w:left="6840" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="8">
+      <w:lsid w:val="4AAC5E03" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="138C4756" />
+      <w:lvl w:ilvl="0" w:tplc="EF42405A">
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="-" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2160" />
+          </w:tabs>
+          <w:ind w:left="2160" w:hanging="720" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:fareast="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2520" />
+          </w:tabs>
+          <w:ind w:left="2520" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3240" />
+          </w:tabs>
+          <w:ind w:left="3240" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3960" />
+          </w:tabs>
+          <w:ind w:left="3960" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4680" />
+          </w:tabs>
+          <w:ind w:left="4680" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5400" />
+          </w:tabs>
+          <w:ind w:left="5400" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6120" />
+          </w:tabs>
+          <w:ind w:left="6120" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6840" />
+          </w:tabs>
+          <w:ind w:left="6840" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="7560" />
+          </w:tabs>
+          <w:ind w:left="7560" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="9">
+      <w:lsid w:val="4B567480" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="36466A16" />
+      <w:lvl w:ilvl="0" w:tplc="04090005">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2520" />
+          </w:tabs>
+          <w:ind w:left="2520" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3240" />
+          </w:tabs>
+          <w:ind w:left="3240" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3960" />
+          </w:tabs>
+          <w:ind w:left="3960" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4680" />
+          </w:tabs>
+          <w:ind w:left="4680" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5400" />
+          </w:tabs>
+          <w:ind w:left="5400" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6120" />
+          </w:tabs>
+          <w:ind w:left="6120" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6840" />
+          </w:tabs>
+          <w:ind w:left="6840" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="7560" />
+          </w:tabs>
+          <w:ind w:left="7560" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="8280" />
+          </w:tabs>
+          <w:ind w:left="8280" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="10">
+      <w:lsid w:val="4C977952" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="2B9ECFAA" />
+      <w:lvl w:ilvl="0" w:tplc="BB8A26CE">
+        <w:start w:val="7" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1440" />
+          </w:tabs>
+          <w:ind w:left="1440" w:hanging="720" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1800" />
+          </w:tabs>
+          <w:ind w:left="1800" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2520" />
+          </w:tabs>
+          <w:ind w:left="2520" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3240" />
+          </w:tabs>
+          <w:ind w:left="3240" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3960" />
+          </w:tabs>
+          <w:ind w:left="3960" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4680" />
+          </w:tabs>
+          <w:ind w:left="4680" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5400" />
+          </w:tabs>
+          <w:ind w:left="5400" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6120" />
+          </w:tabs>
+          <w:ind w:left="6120" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6840" />
+          </w:tabs>
+          <w:ind w:left="6840" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="11">
+      <w:lsid w:val="533E4632" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="9F481A92" />
+      <w:lvl w:ilvl="0" w:tplc="B41408EA">
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="-" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1800" />
+          </w:tabs>
+          <w:ind w:left="1800" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:fareast="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1440" />
+          </w:tabs>
+          <w:ind w:left="1440" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2160" />
+          </w:tabs>
+          <w:ind w:left="2160" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2880" />
+          </w:tabs>
+          <w:ind w:left="2880" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3600" />
+          </w:tabs>
+          <w:ind w:left="3600" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4320" />
+          </w:tabs>
+          <w:ind w:left="4320" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5040" />
+          </w:tabs>
+          <w:ind w:left="5040" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5760" />
+          </w:tabs>
+          <w:ind w:left="5760" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6480" />
+          </w:tabs>
+          <w:ind w:left="6480" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="12">
+      <w:lsid w:val="57CB506A" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="BE44EC3C" />
+      <w:lvl w:ilvl="0" w:tplc="D05E30B4">
+        <w:start w:val="6" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="-" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2160" />
+          </w:tabs>
+          <w:ind w:left="2160" w:hanging="720" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:fareast="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2520" />
+          </w:tabs>
+          <w:ind w:left="2520" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3240" />
+          </w:tabs>
+          <w:ind w:left="3240" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3960" />
+          </w:tabs>
+          <w:ind w:left="3960" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4680" />
+          </w:tabs>
+          <w:ind w:left="4680" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5400" />
+          </w:tabs>
+          <w:ind w:left="5400" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6120" />
+          </w:tabs>
+          <w:ind w:left="6120" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6840" />
+          </w:tabs>
+          <w:ind w:left="6840" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="7560" />
+          </w:tabs>
+          <w:ind w:left="7560" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="13">
+      <w:lsid w:val="5FDD5EE7" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="FF4EE452" />
+      <w:lvl w:ilvl="0" w:tplc="0409000F">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1440" />
+          </w:tabs>
+          <w:ind w:left="1440" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2160" />
+          </w:tabs>
+          <w:ind w:left="2160" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2880" />
+          </w:tabs>
+          <w:ind w:left="2880" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3600" />
+          </w:tabs>
+          <w:ind w:left="3600" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4320" />
+          </w:tabs>
+          <w:ind w:left="4320" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5040" />
+          </w:tabs>
+          <w:ind w:left="5040" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5760" />
+          </w:tabs>
+          <w:ind w:left="5760" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6480" />
+          </w:tabs>
+          <w:ind w:left="6480" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="7200" />
+          </w:tabs>
+          <w:ind w:left="7200" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="14">
+      <w:lsid w:val="602005FB" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="235CF9DA" />
+      <w:lvl w:ilvl="0" w:tplc="0409000F">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1440" />
+          </w:tabs>
+          <w:ind w:left="1440" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2160" />
+          </w:tabs>
+          <w:ind w:left="2160" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2880" />
+          </w:tabs>
+          <w:ind w:left="2880" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3600" />
+          </w:tabs>
+          <w:ind w:left="3600" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4320" />
+          </w:tabs>
+          <w:ind w:left="4320" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5040" />
+          </w:tabs>
+          <w:ind w:left="5040" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5760" />
+          </w:tabs>
+          <w:ind w:left="5760" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6480" />
+          </w:tabs>
+          <w:ind w:left="6480" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="7200" />
+          </w:tabs>
+          <w:ind w:left="7200" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="15">
+      <w:lsid w:val="61CA3B72" />
+      <w:plt w:val="SingleLevel" />
+      <w:tmpl w:val="04090001" />
+      <w:lvl w:ilvl="0">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="360" />
+          </w:tabs>
+          <w:ind w:left="360" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="16">
+      <w:lsid w:val="69367DA2" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="0DF81FD0" />
+      <w:lvl w:ilvl="0" w:tplc="04090001">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2160" />
+          </w:tabs>
+          <w:ind w:left="2160" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2880" />
+          </w:tabs>
+          <w:ind w:left="2880" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3600" />
+          </w:tabs>
+          <w:ind w:left="3600" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4320" />
+          </w:tabs>
+          <w:ind w:left="4320" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5040" />
+          </w:tabs>
+          <w:ind w:left="5040" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5760" />
+          </w:tabs>
+          <w:ind w:left="5760" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6480" />
+          </w:tabs>
+          <w:ind w:left="6480" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="o" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="7200" />
+          </w:tabs>
+          <w:ind w:left="7200" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="7920" />
+          </w:tabs>
+          <w:ind w:left="7920" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="17">
+      <w:lsid w:val="69D43942" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="DD440A5A" />
+      <w:lvl w:ilvl="0" w:tplc="A54E47C6">
+        <w:start w:val="1" />
+        <w:nfc w:val="1" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1440" />
+          </w:tabs>
+          <w:ind w:left="1440" w:hanging="720" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="B41408EA">
+        <w:nfc w:val="23" />
+        <w:lvlText w:val="-" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1800" />
+          </w:tabs>
+          <w:ind w:left="1800" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:fareast="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2520" />
+          </w:tabs>
+          <w:ind w:left="2520" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3240" />
+          </w:tabs>
+          <w:ind w:left="3240" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3960" />
+          </w:tabs>
+          <w:ind w:left="3960" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4680" />
+          </w:tabs>
+          <w:ind w:left="4680" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5400" />
+          </w:tabs>
+          <w:ind w:left="5400" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6120" />
+          </w:tabs>
+          <w:ind w:left="6120" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6840" />
+          </w:tabs>
+          <w:ind w:left="6840" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:list w:ilfo="1">
+      <w:ilst w:val="15" />
+    </w:list>
+    <w:list w:ilfo="2">
+      <w:ilst w:val="16" />
+    </w:list>
+    <w:list w:ilfo="3">
+      <w:ilst w:val="0" />
+    </w:list>
+    <w:list w:ilfo="4">
+      <w:ilst w:val="1" />
+    </w:list>
+    <w:list w:ilfo="5">
+      <w:ilst w:val="4" />
+    </w:list>
+    <w:list w:ilfo="6">
+      <w:ilst w:val="13" />
+    </w:list>
+    <w:list w:ilfo="7">
+      <w:ilst w:val="17" />
+    </w:list>
+    <w:list w:ilfo="8">
+      <w:ilst w:val="5" />
+    </w:list>
+    <w:list w:ilfo="9">
+      <w:ilst w:val="11" />
+    </w:list>
+    <w:list w:ilfo="10">
+      <w:ilst w:val="9" />
+    </w:list>
+    <w:list w:ilfo="11">
+      <w:ilst w:val="6" />
+    </w:list>
+    <w:list w:ilfo="12">
+      <w:ilst w:val="10" />
+    </w:list>
+    <w:list w:ilfo="13">
+      <w:ilst w:val="12" />
+    </w:list>
+    <w:list w:ilfo="14">
+      <w:ilst w:val="14" />
+    </w:list>
+    <w:list w:ilfo="15">
+      <w:ilst w:val="8" />
+    </w:list>
+    <w:list w:ilfo="16">
+      <w:ilst w:val="3" />
+    </w:list>
+    <w:list w:ilfo="17">
+      <w:ilst w:val="7" />
+    </w:list>
+    <w:list w:ilfo="18">
+      <w:ilst w:val="2" />
+    </w:list>
+  </w:lists>
+  <w:styles>
+    <w:versionOfBuiltInStylenames w:val="4" />
+    <w:latentStyles w:defLockedState="off" w:latentStyleCount="156" />
+    <w:style w:type="paragraph" w:default="on" w:styleId="Normal">
+      <w:name w:val="Normal" />
+      <w:rsid w:val="00E8279D" />
+      <w:rPr>
+        <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+        <wx:font wx:val="Times New Roman" />
+        <w:lang w:val="EN-US" w:fareast="EN-US" w:bidi="AR-SA" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:default="on" w:styleId="DefaultParagraphFont">
+      <w:name w:val="Default Paragraph Font" />
+      <w:semiHidden />
+    </w:style>
+    <w:style w:type="table" w:default="on" w:styleId="TableNormal">
+      <w:name w:val="Normal Table" />
+      <wx:uiName wx:val="Table Normal" />
+      <w:semiHidden />
+      <w:rPr>
+        <wx:font wx:val="CG Times (WN)" />
+      </w:rPr>
+      <w:tblPr>
+        <w:tblInd w:w="0" w:type="dxa" />
+        <w:tblCellMar>
+          <w:top w:w="0" w:type="dxa" />
+          <w:left w:w="108" w:type="dxa" />
+          <w:bottom w:w="0" w:type="dxa" />
+          <w:right w:w="108" w:type="dxa" />
+        </w:tblCellMar>
+      </w:tblPr>
+    </w:style>
+    <w:style w:type="list" w:default="on" w:styleId="NoList">
+      <w:name w:val="No List" />
+      <w:semiHidden />
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Footer">
+      <w:name w:val="footer" />
+      <wx:uiName wx:val="Footer" />
+      <w:basedOn w:val="Normal" />
+      <w:rsid w:val="00E8279D" />
+      <w:pPr>
+        <w:pStyle w:val="Footer" />
+        <w:tabs>
+          <w:tab w:val="center" w:pos="4320" />
+          <w:tab w:val="right" w:pos="8640" />
+        </w:tabs>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Times New Roman" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Header">
+      <w:name w:val="header" />
+      <wx:uiName wx:val="Header" />
+      <w:basedOn w:val="Normal" />
+      <w:rsid w:val="00E8279D" />
+      <w:pPr>
+        <w:pStyle w:val="Header" />
+        <w:tabs>
+          <w:tab w:val="center" w:pos="4320" />
+          <w:tab w:val="right" w:pos="8640" />
+        </w:tabs>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Times New Roman" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="table" w:styleId="TableGrid">
+      <w:name w:val="Table Grid" />
+      <w:basedOn w:val="TableNormal" />
+      <w:rsid w:val="00E8279D" />
+      <w:rPr>
+        <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+        <wx:font wx:val="Times New Roman" />
+      </w:rPr>
+      <w:tblPr>
+        <w:tblInd w:w="0" w:type="dxa" />
+        <w:tblBorders>
+          <w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+          <w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+          <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+          <w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+          <w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+          <w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+        </w:tblBorders>
+        <w:tblCellMar>
+          <w:top w:w="0" w:type="dxa" />
+          <w:left w:w="108" w:type="dxa" />
+          <w:bottom w:w="0" w:type="dxa" />
+          <w:right w:w="108" w:type="dxa" />
+        </w:tblCellMar>
+      </w:tblPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="BalloonText">
+      <w:name w:val="Balloon Text" />
+      <w:basedOn w:val="Normal" />
+      <w:semiHidden />
+      <w:rsid w:val="00E8279D" />
+      <w:pPr>
+        <w:pStyle w:val="BalloonText" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Tahoma" w:h-ansi="Tahoma" w:cs="Tahoma" />
+        <wx:font wx:val="Tahoma" />
+        <w:sz w:val="16" />
+        <w:sz-cs w:val="16" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="PageNumber">
+      <w:name w:val="page number" />
+      <wx:uiName wx:val="Page Number" />
+      <w:basedOn w:val="DefaultParagraphFont" />
+      <w:rsid w:val="00E8279D" />
+    </w:style>
+    <w:style w:type="character" w:styleId="Hyperlink">
+      <w:name w:val="Hyperlink" />
+      <w:basedOn w:val="DefaultParagraphFont" />
+      <w:rsid w:val="00E8279D" />
+      <w:rPr>
+        <w:color w:val="0000FF" />
+        <w:u w:val="single" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="FollowedHyperlink">
+      <w:name w:val="FollowedHyperlink" />
+      <w:basedOn w:val="DefaultParagraphFont" />
+      <w:rsid w:val="00E8279D" />
+      <w:rPr>
+        <w:color w:val="800080" />
+        <w:u w:val="single" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Style">
+      <w:name w:val="Style" />
+      <w:rsid w:val="00E8279D" />
+      <w:pPr>
+        <w:pStyle w:val="Style" />
+        <w:widowControl w:val="off" />
+        <w:autoSpaceDE w:val="off" />
+        <w:autoSpaceDN w:val="off" />
+        <w:adjustRightInd w:val="off" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+        <wx:font wx:val="Times New Roman" />
+        <w:sz w:val="24" />
+        <w:sz-cs w:val="24" />
+        <w:lang w:val="EN-US" w:fareast="EN-US" w:bidi="AR-SA" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="DocumentMap">
+      <w:name w:val="Document Map" />
+      <w:basedOn w:val="Normal" />
+      <w:link w:val="CharChar" />
+      <w:rsid w:val="00E8279D" />
+      <w:pPr>
+        <w:pStyle w:val="DocumentMap" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Tahoma" w:h-ansi="Tahoma" w:cs="Tahoma" />
+        <wx:font wx:val="Tahoma" />
+        <w:sz w:val="16" />
+        <w:sz-cs w:val="16" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="CharChar">
+      <w:name w:val="Char Char" />
+      <w:basedOn w:val="DefaultParagraphFont" />
+      <w:link w:val="DocumentMap" />
+      <w:rsid w:val="00E8279D" />
+      <w:rPr>
+        <w:rFonts w:ascii="Tahoma" w:h-ansi="Tahoma" w:cs="Tahoma" />
+        <w:sz w:val="16" />
+        <w:sz-cs w:val="16" />
+      </w:rPr>
+    </w:style>
+  </w:styles>
+  <w:divs>
+    <w:div w:id="1519466505">
+      <w:bodyDiv w:val="on" />
+      <w:marLeft w:val="0" />
+      <w:marRight w:val="0" />
+      <w:marTop w:val="0" />
+      <w:marBottom w:val="0" />
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+      </w:divBdr>
+    </w:div>
+  </w:divs>
+  <w:shapeDefaults>
+    <o:shapedefaults v:ext="edit" spidmax="4098" />
+    <o:shapelayout v:ext="edit">
+      <o:idmap v:ext="edit" data="1" />
+    </o:shapelayout>
+  </w:shapeDefaults>
+  <w:docPr>
+    <w:view w:val="print" />
+    <w:zoom w:percent="100" />
+    <w:printFractionalCharacterWidth />
+    <w:hideSpellingErrors />
+    <w:activeWritingStyle w:lang="EN-US" w:vendorID="64" w:dllVersion="131078" w:nlCheck="on" w:optionSet="1" />
+    <w:activeWritingStyle w:lang="FR" w:vendorID="64" w:dllVersion="131078" w:nlCheck="on" w:optionSet="1" />
+    <w:attachedTemplate w:val="C:\My Documents\LOGO.DOT" />
+    <w:defaultTabStop w:val="720" />
+    <w:hyphenationZone w:val="0" />
+    <w:doNotHyphenateCaps />
+    <w:displayHorizontalDrawingGridEvery w:val="0" />
+    <w:displayVerticalDrawingGridEvery w:val="0" />
+    <w:useMarginsForDrawingGridOrigin />
+    <w:doNotShadeFormData />
+    <w:characterSpacingControl w:val="DontCompress" />
+    <w:optimizeForBrowser />
+    <w:validateAgainstSchema />
+    <w:saveInvalidXML w:val="off" />
+    <w:ignoreMixedContent w:val="off" />
+    <w:alwaysShowPlaceholderText w:val="off" />
+    <w:footnotePr>
+      <w:footnote w:type="separator">
+        <w:p>
+          <w:r>
+            <w:separator />
+          </w:r>
+        </w:p>
+      </w:footnote>
+      <w:footnote w:type="continuation-separator">
+        <w:p>
+          <w:r>
+            <w:continuationSeparator />
+          </w:r>
+        </w:p>
+      </w:footnote>
+    </w:footnotePr>
+    <w:endnotePr>
+      <w:endnote w:type="separator">
+        <w:p>
+          <w:r>
+            <w:separator />
+          </w:r>
+        </w:p>
+      </w:endnote>
+      <w:endnote w:type="continuation-separator">
+        <w:p>
+          <w:r>
+            <w:continuationSeparator />
+          </w:r>
+        </w:p>
+      </w:endnote>
+    </w:endnotePr>
+    <w:compat>
+      <w:printColBlack />
+      <w:showBreaksInFrames />
+      <w:suppressSpBfAfterPgBrk />
+      <w:swapBordersFacingPages />
+      <w:convMailMergeEsc />
+      <w:ww6BorderRules />
+      <w:footnoteLayoutLikeWW8 />
+      <w:shapeLayoutLikeWW8 />
+      <w:alignTablesRowByRow />
+      <w:forgetLastTabAlignment />
+      <w:noSpaceRaiseLower />
+      <w:doNotUseHTMLParagraphAutoSpacing />
+      <w:layoutRawTableWidth />
+      <w:layoutTableRowsApart />
+      <w:useWord97LineBreakingRules />
+      <w:dontAllowFieldEndSelect />
+      <w:useWord2002TableStyleRules />
+    </w:compat>
+  </w:docPr>
+  <w:body>
+    <wx:sect>
+      <w:p>
+        <w:r>
+          <w:t>       </w:t>
+        </w:r>
+      </w:p>
+      <w:tbl>
+        <w:tblPr>
+          <w:tblW w:w="9540" w:type="dxa" />
+          <w:tblInd w:w="918" w:type="dxa" />
+          <w:tblBorders>
+            <w:bottom w:val="single" w:sz="12" wx:bdrwidth="30" w:space="0" w:color="auto" />
+            <w:insideH w:val="single" w:sz="12" wx:bdrwidth="30" w:space="0" w:color="auto" />
+          </w:tblBorders>
+          <w:tblLook w:val="01E0" />
+        </w:tblPr>
+        <w:tblGrid>
+          <w:gridCol w:w="2596" />
+          <w:gridCol w:w="3728" />
+          <w:gridCol w:w="3216" />
+        </w:tblGrid>
+        <w:tr>
+          <w:trPr>
+            <w:trHeight w:val="1485" />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2910" w:type="dxa" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+              </w:pPr>
+              <w:r>
+                <w:pict>
+                  <v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+                    <v:stroke joinstyle="miter" />
+                    <v:formulas>
+                      <v:f eqn="if lineDrawn pixelLineWidth 0" />
+                      <v:f eqn="sum @0 1 0" />
+                      <v:f eqn="sum 0 0 @1" />
+                      <v:f eqn="prod @2 1 2" />
+                      <v:f eqn="prod @3 21600 pixelWidth" />
+                      <v:f eqn="prod @3 21600 pixelHeight" />
+                      <v:f eqn="sum @0 0 1" />
+                      <v:f eqn="prod @6 1 2" />
+                      <v:f eqn="prod @7 21600 pixelWidth" />
+                      <v:f eqn="sum @8 21600 0" />
+                      <v:f eqn="prod @7 21600 pixelHeight" />
+                      <v:f eqn="sum @10 21600 0" />
+                    </v:formulas>
+                    <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect" />
+                    <o:lock v:ext="edit" aspectratio="t" />
+                  </v:shapetype>
+                  <w:binData w:name="wordml://03000001.png">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
+AUazcV0YQoScAAAAAElFTkSuQmCC
+</w:binData>
+                  <v:shape id="_x0000_i1025" type="#_x0000_t75" style="width:48.75pt;height:63pt;mso-position-horizontal-relative:char;mso-position-vertical-relative:line">
+                    <v:imagedata src="wordml://03000001.png" o:title="PTSC logo" />
+                  </v:shape>
+                </w:pict>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="4080" w:type="dxa" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:jc w:val="center" />
+                <w:rPr>
+                  <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                  <wx:font wx:val="Arial" />
+                  <w:b />
+                  <w:sz w:val="22" />
+                  <w:sz-cs w:val="22" />
+                </w:rPr>
+              </w:pPr>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:jc w:val="center" />
+                <w:rPr>
+                  <w:b />
+                  <w:sz w:val="28" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:b />
+                  <w:sz w:val="24" />
+                </w:rPr>
+                <w:t>{mcrp_storeName}</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:jc w:val="center" />
+                <w:rPr>
+                  <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                  <wx:font wx:val="Arial" />
+                  <w:b />
+                </w:rPr>
+              </w:pPr>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:jc w:val="center" />
+                <w:rPr>
+                  <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                  <wx:font wx:val="Arial" />
+                  <w:b />
+                  <w:sz w:val="22" />
+                  <w:sz-cs w:val="22" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                  <wx:font wx:val="Arial" />
+                  <w:b />
+                  <w:sz w:val="22" />
+                  <w:sz-cs w:val="22" />
+                </w:rPr>
+                <w:t>PROJECT MANAGEMENT TEAM</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:jc w:val="center" />
+                <w:rPr>
+                  <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                  <wx:font wx:val="Arial" />
+                  <w:b />
+                  <w:i />
+                </w:rPr>
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2550" w:type="dxa" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="8640" />
+                  <w:tab w:val="right" w:pos="9180" />
+                </w:tabs>
+              </w:pPr>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+              </w:pPr>
+              <w:r>
+                <w:pict>
+                  <w:binData w:name="wordml://03000002.png">iVBORw0KGgoAAAANSUhEUgAABq4AAAE7CAMAAACbu4DbAAADAFBMVEX///8lT1B8lZbKOzOzNi45
+FxTZcmzNRT1jIx6Sp6jX3t6VLihUHhpnhIXOSUHbeXQKISFAZWbwysgRLS0fREUMJSW7NzAkTk/P
+TUXdgnzMQjrKPDSVZGGlMiusNC3J1NSsQDpbIBzLPjZce3wkTU4OKCnEOjLk6urQUEkUMjPy9fUT
+MDFoWVeLLCYhSEkjTE3RVE18KCMjS0xmdneGm5wGGxuCJiAcQEByJiHhkYwiSkt1Ih0ZOjvSWFEI
+HR3fiYXgjYgaPD0WNjf129ogRkcbPj5MHRn78/PAOTHz09IdQUKGLil7iIjmpKDrtbGbMCnvxcP5
+6+uEKiVQVlborakfRUa8yMnknZkXNzjTXFYYODntvLoZOzyhsrMVNDTjmZQiSUrilZDLQDgeQ0TU
+YFoWNTYzWlt+d3YYOTqBSUYbPz/loJ3VZF4UMzMaPT3cfngeQkPehYHWaGISLy/adXDXbGaFMSxs
+JB/XamROcHF3kZLUYlzVZmDSWlSAKSQ/GhfTXlgkOjvIOzPYb2nRVlDDyckdQkPpsK1FHBgQKyzQ
+Ukuuvb5lHhrPT0efZ2P34+HIPDQ2RkdQZGVJMC7suLXOS0MkTU0NJyezurrNRz+kOjQPKSruwL5+
+a2mUnJz9+fmDX13MQzyDJyMJHx9MGRWDjY0LIyOjqqnoqqbnp6QhSUr45uUuEg86YGHLPze6RkDH
+UUqGKyZCFhPyz81RcnMrU1RBVVXKPTU0UlMWNTX019b+/f1hcHGnj406XFwMJCQoQULXbWeWiIeY
+OTOBOjb2397+/v4vSkplf3++RD356egXODj//v61rq367+8WKCnKOzQYLi4WJyfHPDR9JB93JyJ4
+gIA6X2AZNDXGOzOBLSjAPTYfOTrDvr3h5OQqT1DJSEHHQDmNKCPTamQdODktR0iEj4/89vbGTEX2
++PgWJyh3jY41V1jAT0gxTk96XFoqGBagMSqBQT04V1jKS0TKTEX++/vRdXHUX1nMaWLQzMvBdXAm
+TU6PLSdXdXbx8vLesAJWAAAAAWJLR0QAiAUdSAAAAAxjbVBQSkNtcDA3MTIAAAADSABzvAAAhHlJ
+REFUeF7tvQuALVV557u74yO7ofX0QDBioCWt9KWJkGBz8EFQUILBBz5Cg0gTI9ICEdQgYneMCglG
+0mYMJxpRFBUSX8TkKoqPQ4wm5njQDgmJYaIxzM3TO3My8eKd63jnjpz7PdZatapqVdW36rV39/42
+mRHOqV276quq9av/9/3XtwYD/WgENAIaAY2ARkAjoBHQCGgENAIaAY2ARkAjoBHQCGgENAIaAY2A
+RkAjoBHQCGgENAIaAY2ARkAjoBHQCGgENAIaAY2ARkAjoBHQCGgENAIaAY2ARkAjoBHQCGgENAIa
+AY3AuEbgrDvu+Mh5573mavy8+4fwQ//6yPPOO++OO84a16PW49IIaAQ0AhqBSYnA7Xec9+SrX06A
+Kvn8xtVPPu+O2yclJnqeGgGNgEZAIzBOEXjG855slFQVrezfX/3k5z1jnM5Aj0UjoBHQCGgEdngE
+7jgvklQJ0a4+744dHhw9PY2ARkAjoBEYhwg847yrpXKqaDtF1jhcSD0GjYBGQCOwcyNw1ntfw06K
+xp93v+Z5asHYuTeKnplGQCOgERhhBM563iMbUyq1g0cqsUZ4OfWnNQIaAY3AzozAe1tmFYNLibUz
+7xY9K42ARkAjMJoIPKNWDvAx/qdImL37NWq9GM1F1V/VCGgENAI7LAJnPa9yYlWaRSlMZf8jgK2f
+/IiWsXbYPaOnoxHQCGgEeo/A7U+OMVek4fQZ71Mqtd79Gp1E3PuV1R/UCGgENAI7KAJ3vOY6sb0i
+AZKPqey/u60y+71ac4I76L7RU9EIaAQ0An1GYN8d/3SdlFaWQoZOP17wMX9ttk4T60vv7fPk9Lc0
+AhoBjYBGYIdE4I5/+sZ1MlwZ+jCLDKj+IPQxf0fb8ZdSxPrJ5+2Q0OlpaAQ0AhoBjUBfEbjjn46V
+0cpnFeGIOfWy4If+irZyxPpLn1g/qSnBvi6w/o5GQCOgEdgJEbj9n4499liJtmJYOVWVgOrI4IcY
+ZpHliOUDS2tYO+H+0XPQCGgENAK9ROCsRwOsJOLKsQpTgBZVCac+mP64vzDMYo2Vywk+Ul2CvVxl
+/RGNgEZAI7DNI7DvvLuPfZaEVr6wMqwyRPIw9XDzSf6It2GVlRDLV1jn6TysbX4P6eFrBDQCGoHO
+I7Dvjv8dWCVIBWZgBfghDBksWUq9231S2EqIFQLWsf/fTOfnqT+gEdAIaAQ0Ats5Amf9j2fBpzoV
+aGHFScAUq4hLCaYewZ8UtohpTmO5nKBTWNfd/UcHt3MU9dg1AhoBjYBGoNMI7Hve3SJaBWFFDHKk
+MpR6xCPeyR/734QtBJohFiUF88D6h/92fadnqjvXCGgENAIage0bgdv/3yOOYG2FPovidhbGDGiV
+lc0BWlXFZDKYeueP8sf+p5NaPrESYLkf/es//JP7t28k9cg1AhoBjYBGoIsI7JufHwz2vfduolVV
+KjCRVpQG9GCFwsmRymDqN93H45bJDjKxyHfBwEpNHD72A5tdnKvuUyOgEdAIaAS2awQWV6dXBmf9
+jyMcrcqmXPnSysHK5ACNqEIwMaX+t9SH/shKLa5nBYCVqLofe45aLrbrPaXHrRHQCGgE2o/AyvT0
+9Mp/+G9AK09cFaQCS2DFrLKoIk79RuZDf2iYxfWsFLBsCcv+9rGPfeIt7Z+u7lEjoBHQCGgEtmME
+FodAq+k/ekiaVgWVK0crLw3INkCfVY5UP5n9EL4YWVTP8oHlZQQtr67701fcpRWs7XhX6TFrBDQC
+GoGWI7AXpRV8fgxpVSWu/pJpRRYLygOSFZALViysOP0HSEJO/Rp/fpo/5r/wLyyyyIDhKSwCFlWw
+LK/++pz77ryp5VPW3WkENAIaAY3AtovAzJ0LjKv/KBBXWWllfesEK8sqRpXD1K+kPhZbhCwSWSyx
+OCWIngtnuTDAesw5933hvm0XVj1gjYBGQCOgEWgzAnuHNxxmcEXqKrEFhipXQVoZZZXAilkFXEJO
+vTj3wT8lqWWIlQUWCCxjEeRD+MtvHHLfnht1znCbl133pRHQCGgEtlkEDu654bCrPHVVbmJPEoGZ
+PKBTViSsiFWGVG9+85u///3vv9x+4N/f/GYEGCELiYUSywOWE1h+QvDYZ9+3517w2etHI6AR0Aho
+BCYzAtd/67Crrjo+iKuAuLK0SletTM0KS1YeqxBJACrE1C/j55X4oX/DPwJoEbIcsQywbEYQBZbP
+qyO++Zw9uz48mddIz1ojoBHQCGgElkFaAa72u9pVqbjiRa08j4WxWKC0SmCFusqhymDqlW9wH8IW
+cAuQhTILiGUkFgDLlLBQYLmEoKHmUV8+sH7bE7f0kmkENAIaAY3A5EXg4F0Eq+ODuMqLK49WiSGQ
+HRZZWL0ZVRWh6g1v+CX3eb37tzcQspBYRmJBTpBSggAsI7CyvDrky9N7dt2pBazJu031jDUCGoGJ
+j8DMv9xAtDruOKeujLgKNrTI08rMtAJa2TQgKyuEVYKq17/+avp8CT/8r8QtRBYTi3KCDCwwCYJH
+kC2C1tHO4Dz21sum12+7UWdgTfx9qwHQCGgEJi0CN1HZCmmVw1Wot62jlTFZYCIwJa3YXkGwQl1F
+sgpJ9aUv/Wr2Q9gCZr0BkPXLLLEwJQimCxRY5GnP8+ohu983vedDariYtPtUz1cjoBGY9AgsW2l1
+xRUXZdVVAFcltDLSysDKCCtmFaHqYfx57Wsfhv/QB/4UkYXEIolFCguBhQKLE4J5Xh2y+77pf991
+r84YnvRbV89fI6ARmKQIbO230uqKiy5yuCo2WhTSylStQFqRsmJYGVYZVL0WP490/9B/MrOYWEZh
+IbBIYJmEYI5Xx976ugPTX9ylBsFJulH1XDUCGoEJj8DBOw87jPOAV1x0ySVn+OoquM5Vilam6xJk
+Ao3HAiZagbTiNCBkAQFWoKuYVUQq/rzK/h/+h0EWEssCy2YEbUIQCliZ+tXRuy+bPvDPyqsJv3n1
+9DUCGoHJicDemTuNxwKk1SVnnOFwZdTVddllGctoBVOtjLRig4WFFbOKQZX/GGSxxDLA4oygSQiy
+4SLDq3/c/Yrp/Tfv2qUt2ifnZtUz1QhoBCY5AjP/fBh7LK646HOXnHH++V+z6soty5h2sQczgeRf
+p7IV0sqTVqSsHKuQVI9+1aOzH/xjFllALATWG9hzkfAKClgJr0zD2yN2v/HA9IO7du3SCViTfP/q
+uWsENAKTEoH5b7F9HTwWIK3OP/+CS8tx5fWyoPlW5Am0tLKJQJBWlAd8vQ8rYhV8XoOfp5l/6D/w
+Ty2xPGAZXmEBCw0XhlfQQNDw6hBIB05/4UO7bnvipFwsPU+NgEZAIzCxEVi919CKEoFIq1MTXHHl
+KrXQlZBWVLXyYWVYRaSiz9Of9vSnw/+jfzfIMhKLUoIssIyl3fKK/RauH9MRX4d04PQXP6T6amJv
+Xz1xjYBGYGIisOrKVpQIvABolcNVKhdolreCPoFhbQWOQPJYGGll0oCsqwyqAFNPf/qTn/5k/tB/
+MbKMxIKUIGUEX/lK5BUnBI2+8niFR3XI7hcemD5wg+qriblf9UQ1AhqBSY1Aoq3AEYjS6tJTL7ww
+q658XCW0AlyZTCB5AqFuhZlApBV6LIBWNg9I5gqCFWoqJBV8fuHJv2A/hllELAQW1rAgI2gqWLaA
+xROGcf6V7XcLhwXy6jvT0w9+CPTVv07qJdTz1ghoBDQCExCBRFvZRCDQ6nSHq3wuMGMKNL0sPFrR
+ZCubCERpRVZAI6wYVYSpn/c++N8ks1LAsgnBAl5x+eqQ3bufMz39L8grbdA+ATesnqJGQCMwoREA
+bcWOQChbmUQg0OrKDK48cYVL3VMTdmy9hBOuqPNShlaubMW0csqKYGVIdV7qg+hCYnnA4oQgTBr+
+ZexxYfOB1N+Cyldot/hLklffnZ4+8LfKqwm9hfW0NQIage0VgZnV9WGNIwZt5dOKEoGnn37lmcW4
+yhauTJ9AlwlEbUWTrV5/NbjXaaIVSyvMApKwAjAhqX6RPs997i8+l/4F/sQSixQWZQQ5IVjEK1z+
+CkD6j7vRbfHgHyuvatwA+hWNgEZAI9BnBFaW56ampmrgymkrNlmAxwKl1ZVnpnCV8gWaVKBns6Cu
+ttB5KalbEa2uZloleUCjrIhVxKnnPvej7gP/QcgyEguABSUsqmAlvGK7BdSvMuWro3ejvJr+F+SV
+9rvt877T39IIaAQ0AhERWNqcXQNW1cKV01YZWl1+uVVX2QZMmVSgnXCFtILZweyyCNGKpRUqK8Mq
+ANVH4PNz9MF/++hHkVgGWJASZIHl8epXfiVtD3TpwGNv3Q2t2acPHPbHf7xL+7NH3Dq6qUZAI6AR
+6C0CkAJkVNXC1Qy2sqAmgTDb6mukrTAReObll59ShCs/FZgqXBGtoJcFuSxy2ioFK1RVBKpf9z4I
+LUMsUFhQw0KBleJVqHzF6cBzdu9+HcirPT+C+uras/b1Fn79IY2ARkAjoBEQRIBTgPVxBb0swrQ6
+5ZSzC3CVTQX6hSvqvATzrdgT6GcCjbRiZQWwQlYBqZ5Hn3e84x30v/AHSCyQWKCwwHRBvIKEIOkr
+9FvQfGGefuWlA9EdeMRuklfTf4u8+tCNur6w4ObRTTQCGgGNQD8RSFKAtXE1c63pEojaCucGs8ni
+zMuBVj6u/NJV2hXopwJpwtWLX8yzgwO0MnlAhhWzCkD1EvN5x0sIWkAsBhYKLEwIJrx6A80XJl4l
+5St2B5LZAqtXCz8CvIL2Fv1cAv0VjYBGQCOgEaiIQCoFWBdXB+/0tBXPDUaTBSQCgVZvSdSVvzBj
+0BWIHnYuXIVoRY5AqlqRtII0IMCKWAWkem/ygf9CYjGwoIbFCcE0r8DO7uSVdbNTOvAokFdgDpz+
+4ruIVzpdWB8hjYBGQCMw+ghkU4A1cVVOq4vLccVTrkBcsSsQu1mYwhVrqy85T2CKViitIA2YsOr5
++PkP9P8/H8hFxDLAMglByyuYf4V29nA68IeeBbiCTrfT+xFXwCtdXnj096kewTaIwNI8fma2wZHq
+IY4uAnSTzMf/figFWA9XW/tLtNWrLw7jKu2zyKcCqXBFnZdgdrBxsLO2orKVlVYorN77XgQVfe6A
+f/CDyAJggcIigeV4hX4LmC+M069cOpCasye9bjEbiK0tpj/LvFI7e/y9pd+YsAjMrC4YS/HU1PrG
+yoSd/Tie7iJzwX2WRn+Qi5uzziAxN7u5KD+ighRgPVwtp2jF061M2eotQKvDE3WVlK6Mid1NuXLt
+LDKpQKLVa3lysKMVJgKNtGJYIajw87P4wX8hYhGwfv3XmVc/z/lA5hX2Z8fyVeK2AF5R70DobYHZ
+QOgcOD17M/NK7Rby+0q3nMAILG16lmIaQtY2IsaiCYxYV6e8NL8yHC4sZC+HHdYXFmaHwzrSpo3j
+nZ9NefngP2ZlrzXFKcA6uNpaBQu7dbDbycE+rc51uPJKVwU+i1wq0JoC87SCqhVIKwcr4NTn7YeY
+ZYBFAgsdgr/wC+S3oP4WyKtAOpCWEvlLzAa+EHAF8op49cd72rhaug+NwM6MwKrTVf54pMDq9Wov
+zg83FrI8KPrvtYXl1fl+5dZ88ODWK7OC83YicPm5ybtazHwrcbBbl0VCq8MPPzyEqypx5aUCTTML
+KFzB5GB0WbC28mmFsurzn38GfP4MPvi/n/88AwtqWCCwiFfot6D5V2hnT9KBxszu0oEgrzAbiF72
+2Zsfz3aLW3q98/THNALbJwIzRa/ydRrjbJ/THqMjXVoZJplYKbFgu7nZYSUtWjrNpZyyssc5W0HN
+oeyExLg6+C+YCuR17sO0emZAXZWKK2hnYTzsSeEqoRXWrZhWkAjEPCDBikj1dvsBZjGwMCPo8erp
+T0+lA9/84szkK5JXP/SAMVtMf5FwBbzq67KW3x1cy27n0++7VUt3ve5m7CKwWTKcrOtN1vX1WlpZ
+LnxdEA3068uyjFyjE5kJ6m8+vrVyb07buNqDE64MrXi+latbQdnq8HPPPbcYV4HKFU+54uZLdsaV
+X7gil4VPKwurt7/99tu/aj633/72t4PIAmChwCJesd+Cy1eYDmR3IE6+ysurhwCuyGyxwPJqXLpb
+zItuwLiN5hYWFpYxoa3FhkZP5IR+eaP0bqsYiiY0Zq2d9sywGapcSWu1Wztn2SsNHMNmWUDaxdXW
+spseTJ2X8rR65jNPcOrKOS0KbIFcuXJTrtIedmMKzNMK0oCgq4BVL7jHfl7w1a/eDsBigeV45ewW
+1h2Ia4mke1uQvDoWcfUBrF798+O5fPWhsShfdYErb7iZ6z+j3dqTqzsaSQTKaVX56jySY94hP7qy
+USJZ4l5ZMTG43B2xKmhVzqt2cXW9MwVSD/YQrZ6ZqKscrsycq8QWmIirpJ0FiCu/cAWTg5NMIGgr
+yAMirF7wgnvOOuusb9PnrLPuuecFX739z/7s8593vPrIR8keiO1urTswL69e9jJqbQGLNO7+MuJq
+HeTV+JSvOsaVEecLw56rsDtk/JjA06iiFfBKRXsX98V8q6ziB78rYq1Us7NEX7WKq4PXWlNgMa1O
++JhVV84YWC6uuHLFU67IZ5G4Am0qkDyBULciWqG0Qlh9+9vvf/9e+nzv/d/+9j33sMAyvHJ2C04H
+mslXGXlFCzWCvEIrO2UDDxxv04HjMPuqF1zRzQUZba07dDHO7Kh9Vr42452k91Hb13xxOFdNgFpb
+rK+2f7XK6lb2IEuSxq3iag/bLMz6VkFtdcIJLhmYw5Xf0ILaL5WLK5gfzKlAaGXh0wqkFSirb79/
+774tc2vs2/v+b58FAot59fznv+QlXL7CdODTnvboRxsze1pePfyDMPeKOgdS8Qq9gdOfvdny6sa2
+77r4/fWHK0LWqr4Zx1+jCfrGjGhIXJ6giPRxqiuFJjvR5ajaaKNtV5movDZXiMkWcbU1tLRCUyCu
+GIJ9AqlNILssngmFqxNOeOYsDvzT0//R4irgYk+1X2JbYFZcOQ87pQJhvhV4AklbEa0QVv7dsoXA
+Mrwy5StKB1q3RSKv2Bz4zkckrS24eIWNmKb332DSgR8ag+aB/eJKidXH6LONf0M0EE1NtT3+beOI
+NT70pdWuhFWCsfVS60PsKQhxU/hSI/y+xMg+cxjOuDIW9kJanfDSLK5yLnboFpjubZu2BZrKVSKu
+3vEOR6tnOFpZZWUDuu97zCv0B4Ldws6+AnnlV6+wFVNqIRHKBuLMq93E2H9GefWu8XCz944ruIcX
+Wr15Y2923X58IyBJBVJNZHxPYZsd2eKwTXdFsc6aG7aWE1ysUnP274syOe3hah+0YeduFjzhClcM
+yWurE156QgWu2GjhVrwnFzsYLeycK1O5ojbs0NeWZ1xx4Yo8gbeztsrfesSr298O/kCws6ObPSuv
+qBUTdbrlda9wqjBlA38IvRbUln36CzfYdOCHRp4OHAWuoFre3s27zYYHPdyyCIjf8/WFp5UbabHa
+2CJlQ+V2rT3z4mPeKIhRe7iCVoGGVmQKJFpdns0EnvDSlz7F4soYA0FcPeYzn/lxM+nKNbf1XOy2
+ty03C8yLK5wfnKQCC2g1GACv7nnB7X/2DJZX72C3BfZi8uZepTsHmka37LXAvoHT+w+z6cDRryUy
+GlzBva0NdVoZcHbUTqTiSuVVK5d9abmSMa1u0A6wxOJqaqpAXrWFq70zeZsFrW8FXW2TutXHgFYf
+y+MKaPXjf5AzWvCkKyOurnad2BFX2IidxBWb2Elc/ezPgoWdClfv35vNBPItsu/9Z91D6cBCeRU0
+W3zmM+S1ICv79LdIXo1FOnBkuAJgtZYeaOXh1Z2MPALCyhWOoVq9anq1lnpKA/rEm2tBFQthgz9b
+UL0S7qG6dkWpQFu4SkyBOVo95aRyXHm5QG+dq5zRwrMFpsQVpgK/l3JZePfGXkwHWnllzIHObPFa
+WEjEZgN/I50NPAJxxcWrL9zg0oG7XtT0tmv2/RHiClKCzY5dv72zIhDx3jxVlOjZWRHp8Gw2xYnX
+VhVWdQPaqnOOOO6CEmdLuNpKUoEpU2CAVplkYNoXKM8FJnOuXvISbBVoxNU99wQLV768ouoV9rYw
+rW5d50DqxJRaR8RmAwlXVLxaOAx4NR6ThUeJK8jp6Ety1dM5QX+/GjEwqtmi0Y0xI+60HnFNZJtW
+NaCtOK+Yd5qpcFuNlnA1g6uGJDOunM0C17eyDnasWz3lpJM8dfVD8MnNEU77AotzgdCJHZsF2hnC
+xsReJq4Gg71e9SpotuBsYM4bSNZA6sM0/bdQvXKThQ82uvEafnm0uAK9rhnBhldw53w9avaPTuCr
+f+GXhAO2jD+xW62t1j/ywUBe34TjCv+S8Owrcj97obMtpgLPoBlXlAr0bBY838rSqgBX5Q2YMh0t
+cAlhM0WYGrFbowVXropDCtUrMgdaLztOFfamXmW9gXamMLVh4plX0/9+mOPVrtue2OTqNf3uqHE1
+NdddY7GmsdHv9xuBiDTP1FQPTb/7Pfv+fm0+KtCxNBJsv9DgXSPKHhJOGbeDK5gg7DzsNOMqYwr0
+aHXiiUntKlFXfjN2nCOMLS2odJVqwMS92HGdKx9XOOkK2i9hr8CvviBsYrf30xaZLdLZQPAGur7s
+r/8lsLLzMiLWyk6NmHANkd2vI1ztucpLB952fX93au6XRo6riu7JIwyN/nTPERAMdMkmWveseXX6
+9gOGrmoDgRWVxVwIxqgVXC1dm2q+ZLtZpApXJhN44om/k8IV5QKNjf2DHywsXfEqwsbGzr5AVFee
+LxBb24IvEHBVZLTA8wcve8obyOuIQCOmpM9tqHhFTvbdBxBXs1cl8upDu0Y5+WoMcKVl85oDzw77
+WlRVosj1tcNi0v7pFC99GfW20HTjhbpFgAj3aNF8h1ZwtT+VCrSFqwJaPS6Pqzo29sLS1fvDLna+
+e6B4Ba3ZubNFqniVbsueLV4dnXgtpv+WeWVas3+4/btSusdxwNVUw+qr9Fx1u7GOQNytGH5xHusT
+HIeDi7GzNEVS6ffXamZz4w6qK3WFU66SVGBSuPJtFom2epwQV5n2tg97mNeMnfsFfhRaWnAv9tQc
+4e9V4MpZ2XmZxlTfQCpeeYs0muLVZ9jJTl1up7+CuEJ3IK3UeO/o3BZxY0TcvSLfWntsj8NQNuJj
+iLsVFVc1LlfxgvHyZ7W1Les1Ko77+a5wNYBG7L4r0CwfzH1t2WbxMfYEQibwcUW4OvLIIyEZ2Mas
+KymubFv23MwrKl6lZl4xrtgaOHdvSl79a41br52vxI0RcfdKxNbKq3Yu53beS9ytqLiKv9Zjkgi0
+40KthGDEoAKbdoWrzZS4yqUCfVrlcFU+6yq41FXWaZHrwFRWu/Kd7NiHCdTVeQZXr3rtax/2Jc9r
+4XdlPxZp9fXvEq4ePP4q67YgeXV//L3Xzjfixoi4eyVma+VVO9dzG+9FtniIvanqvZtv4/A0P/SV
+frrZyh/7Oq7gKFfjWle4+krQFej3XgJtBeLqRBZXj/JrV9XL3lPDwJTTImMMlDUM5JPfyrYNBCc7
+tg3Eruy46FXhRGFSV4yrA1cBrhIz+64nlqm55jdq8R7GBVdTs12epe57O0RAPs7BluoMjL2kY1O2
+Sq5zjQLWWDgDV7n70hm8gDB42KEPOy9xZecHc+HK0ioeV6+X46rCyI5dA18AizT6XW5//ue5yy2t
+KVzU14Jw9U3C1fTxaXl126jk1djgSv2BscPPjts+6uW/he5zOy6ApSckbmQe9dbQdOPoyxh1GuF3
+4MbOwIPOxO4mCLvGtly4ytAqiKuq/rZhHztaLbxZwn+GDW6//f4Sr8Ve2+TWb8qOSwpXrXlFuOKu
+gdNfAV6Ng7waH1xNRd+5kzXc7PyzjXpx1tnlUTfEUtQw3xRCEd+PTepGacSwBG+Kq63lZMqVN0HY
+pgKzNovHPepRMlwFjYG8ekgy7crD1R047wqmCRcuH2Jzgffc7pZo9NcQeU3ayf5rsKIwThS2fS0Y
+VzTxavqzx42HvBojXK3pCBQ1Au24jWNGonBVYseFpK0TWoqarhRBm+abRjYrjqpwhluSNsXVwWuv
+8kzszmfhpwJN4QrrVkirMlyxMfBHsadF1eohpgfT81BdmeVDaG1GbHFbVE1CccUrNHpdmM5DdfW0
+Rz8aa1eQDHwDdQ0M44qa3E7vOS4jr15UZu5o667N72eMcDW13t1p6p63QQRiRqLIQW4bnH2XhzjG
+tIKFhOLOPCJlXPBO0xBXibgyjdhpAWGeIJxJBVpaBXDlt2CS4SppGWiXEjYtbsvkFa4njE0tEFfP
+p2nC4Az8xZ8HXD09SQbmVxTGNkysrghXG+vHZeTVrtE0Jx8nXGn5PO7B3XFbR7i+ak4y3XEhE53Q
+WNMqllcRWc0CEDbEVUZcGZ9FLhXobBYgrqa89a7SKwkXTbsCqwXPEk6SgQ5XdnHGOxBXVLzC6lVQ
+7mwZcYVOizue/94EV2i1cMlAt+RVqmugh6vpBcDVOFSvxgpXRct/ip5J3WjbR0CeDdRcYMTFHnNa
+RfIqQoMXKIBmuEqJK+5ngeIqnQp084MxE/ioqQyuXMfAI5OOga7BbXD5EN/ITmsJm7YWwCteTTjM
+K6DVt+/BFkw2F0hNmNjI7jkDU7jC4tWRGXU1vf+KrLwajTlwvHClcz8jRqGdt+mSONGjNnb51R97
+WkXySuzIKRpNmuEqJ65o2RBPXFlXoCtcQX0vra5o4fs/eBk2tXANbmW4eu5Hf873WlA2kKpXxKts
+/Wof0IoqVxlcURMmwJWrXbme7L/5TvJa5HA1e9EVGXl120jmXo0XrnRZCPkotBO3FA4kU2t1G6Tu
+xKBVnZN4eG9um6i9h5j6lXjIKiqvCO+ygleiVWsLTJnYjbhyrkAvFYhBsbj6xnXXFcwSDuLKNWQH
+dUU9A6Eju20aSCuIfN7KK+JV2m+xte97RCtTucLSFTa1+Mhzk56BZt4VqiteQsRYAz1cfYed7ICr
+pHpFnQNHIq/E1772nRj1RV0ktmrw2dF/vySsXjVa4G9HRzB/chG1nqhHtd2NY2axCJfxLEzVNMOV
+39DCrnKV8ll4rQJNKrAZrmC5K3CyI67s8oxJNpCqV5QORF4BsJzC2gJpxbRKxBWVrj7CC4jQglce
+rsAZGMQVNw2cvsSTV9yY/bb7RvAgjRmudPLVCO6BMfrJFdEgqDlj+SWLWs5QFP1uNorglSxnvFa4
+BmQjXBWIK3AFgi3QmyBMvZe4cFVTXdlpwjlcmYnCibyyvCJg7d27b9++vXu/h7DyaQXLh7zEGAOT
+juzGyA7qqgJXZ2Tl1a6RNGYfN1ypvJKPRDtxS8noWjwQ7cSINDunqLXiuwGRbK8xsy5FLzXF/GuE
+K1zy/oqLLuEV763PIjGxcx/2TCowqK5cU4t3PyK1lrCzWhCuHkmLCfM8YbQGmuIVW9kpHfgMKl+R
+vjrr298GYvEH/vWse6y24klXiKufQ6cF9GBideV6BtK8q7S6epbvDJw+IyOvMBt4S7Nbs863xw1X
+U6Px89cJnX6niwgI5rPqLSIOfISNTkaV7raKqUcKXmpKumU0wBWtc+VoZXFV4LNw2ioaV6/8Jdsz
+kHBl2lokxSvuw0TyKuEVAQuJRR9QVve8gDOBZAu04uojH/1FbMgOs4QRV9CRnXoGBnDFC4jwvKtp
+hytozH4zr3u1a9e14tuwtQ3FuJpbqPqIbV2lt7y2um3t2m7LHVX72CLSRtsyAi0etCxtJkLQ+uxw
+dX7et7gszs8PhwuC1wvR/qeiugRUFuTKvBsNcDXYn2pokTOxW3GVTgVKcWW6WrycOrJ/yagrnniV
+Kl7xCo3kZfd49dUXALDuOQuZhawiWAGtyBXoxBVOEjbGQJp29dpfxQVEHK5+NHEGpnF1Pssrbsz+
++He9i8wWN7V4q8p2JcaVyDo8M786XBCWy4tu4sKUs+yEdKttHoEqXimt5Be4HZasL2+W9UebX91o
++MiboSDGHljBq9JdNcDVQWrFblKBIXGV8VnYQc46A4+97rrfesxjyMgeSAYyrr7vcJXME068FuwN
+tPLKuAMpH3j7VxFYiCxi1Qu+CtLKaCuglalcQS7wvLTTgnD1fUoGkjHQGtmPSqkrg6v0VOE75Xdi
+S1u2iys+qKWVYYPnRF1fLV3a7bqb0m6sa5oJlF9XQc6sSvnMbaxIJg0sbm60kFyJeRMpnVJe/m7d
+AFfDUOUqMbH7U668VGCiro79hsMVzruCtYTNYsJJz8AXf//lv/zKN5C6wuIVtLXwi1dsZbfyypSv
+sH5FwAJiAbIIVaisUFqxtsJUYGK0wBZMiTEQl2ckXLGPPYOr+zgZ+DXkVdrLvmsEXvYucEXI2hTa
+TXPPi3YOlI9HO3TL1cKhr9YCtDs0SpWnJXIklPFqbjmm6/RKY2JFeWjmCyXdXMUrTQNckYsd17kC
+n0WRuAKfhe0V6ILr1JUYV9niVZINTOSVtVvg9CsCFhLLfgysLK3YFkgtLcBoYUpXzhiIuLJOC54m
+/OPn+AuITF+QllfgZcdsYO9e9q5whcRarZcj0Gxg5UC00zdYDL/rzMW8fu/0GFWeX9PC1Ua8kF2p
++45qxvWoV9WlAuwMq+RgfVyljBZoC4SGFjjnqsDEnrwKFOAK5VXSkf03MBn4K0ZdJbiyxSv2Blp5
+5dKBXL8CXgGwkFj2g8oKpBVrK0oFcntb6wvk0hU1ZMdZwr/ijIGmq8UhGVydn/ey33Zv36sKd4gr
+eJ426wBLs4GVI9HO32A+X5xQWMVd9kbdLOZWqwb98MEsDhslBUUVcvfLi8u5H1vbqH7brY2rvfs5
+F+gWEeZugcmcK2NiT025Ss27yiQDU7iCFUR+7aexeEXJQN9r4WUDcaawSweym5145YAFzOIPsOrz
+Pq0ScZXKBX6JjIF+UwuDq1sJV6/jXOCBS628smYL7mzx4bhbsvHW3eJqMCjO6xRmIXQSaOOruhN2
+sLTqv6rPLce/6++EKNQ/B3m/4PyT2OTNYKkRsGKyj1xz8Ii1NrspgWxtXA2uzRktTLdAWjiksHKV
+rl39FlstuGegp64SXHleC1O8st5AK6/IbUHuQJ5+xcBCieU+BlZGW1EqMBFX0I6dZ12ljYHcg4mS
+gX/HuPou42r/+VS8ShoHms4We+rfn7W+2TWuBkvxL3mSW67WyeqXtlkEZlaG+FlNGai32TmM6HAX
+66ucJrCiunUDYEWlAzm05iYZrkhRVxtXqY4WmVbs2NCCxZU1sftvAS4ZSNbAFK4ejsszvhOsFnZ9
+xnA20M4UpqnC5LbweJUAC5kF/49YBXlAgpWxWbjKFc8RdrOunDHQW034yJcdwbgyLQP3n8ryatRm
+i85xBQKryn2U/Xt9jx7REKc/u3MiEP+WaB7DtbiEXDBiS/U9iS38etVFrI2ru9BocZFvtBCKK9fi
+9ljKBnoLiKRbspOTPYArygaS2YLlVcIrEliQEERgocQCkUX/WFhh2YpMgdZnwZOujC/wtQ+DXCCU
+rtgY6OHqZS87inFlWgauG1w5eWWnXvXc2aIHXA02I1/0erhjq+5o/XuNwLaOQG1X4Gw7uY2Z2ris
+rj01vTB1cYWTrnL9lzwXe7G4yuCqdOIVF6/MRGFnZU8aMbHbwukrmxBkYN3xs8gs+P/xAxBDaeVo
+Bc1twRbIlSuXCzSlK+e0QB/7B2G5q3MYV6apxZ5TT73gfDJbwCqN1NmCs4G7bmx6MeK+3weuBpGt
+YLR4FXcNdWuNQCYC0tb22cRGlQc8ItA1qtZ0NN0//XVxtUriKt0uMN8tMJQLrMLVI975ozjxynkt
+uHh19a+6xha+vOJ0oM8rrmAZiUWgwn8SWFlthSZ2K65sLtDvaeFPu3oh4+o5XLv6vy8MZwNvu63f
+VFgvuBrENdrUpWIjRgXdVCOQj4BwRM7SaqMdacXHs1hTYK10fUGFwckleSgXCJOukoWuKBdoXexp
+W2A6tEntKileeW0tGFfWaxHMBhp5ZdKBKV6BwEJgMbHcB/8E/gISgeCywLoVTrmiOVcsrnDxEGNj
+554WJhfIxsC/u5Vw9U2m1fRnLa68bCB7A/udetUPrgZxuezu8wFdPxG6f43ACCOwGFsupu3X2p7W
+JuRC5mA7X5RBeFhZXIVzgdbFnu0WWIgrLl5lrYEBr4VrbOE6W5i+7JgOdLxCwwX0u2VgAbLs/xGr
+GFZEK5ogDLRCnwUbLawvkGZdef3YCVcPYVwZY+D06RcCr3LZQMRVv31ue8LVIKorU78Cc4TDiv60
+RqCLCNSarbsuddbJj3g+smrNY3zXteuauMr7Ap3Rgte5Ogl9gWbOVQbBnrrK4cpaA3E9YZ4o/OaX
+UzbQnymMfW6d28LjFRkEDbAAWQZallUAK0Mr1FbYz4J9FiyuaI5wetYV+tihdHXkyx5IOS0OXHl6
+QTZwV7/ZwL5wJf6dPu5X+fOmW2oEtl8Eoh42O7C25LFIR2sx6jXVehPbTEkGrl5NXO2/N5cLfIvM
+aOHNu7LWQE9dYV8LcLL7xStuG/h62zeQ5ZWXDnS8IkO7ARZKrOQDksvBijOBXLhicQW0InGV+AJN
+LtDi6gkpp8XC6Q5X6Wwg9A3sNRsovrObvvJUtvz33kdK1qrZfmOHHrFGoOcI1CkaxbRDjzidGtMu
+O5dXNXEFc4TzvkDIBdIUYS8XmOpta0Y1q66edeyxWLwyTvZsk9vUzKuc2YLlFbvZmVfgZwdeGWCh
+xPI/IKxAWWEiEDsFpmlFqUAUV2S0SOUCSV39gSld7Talqz2grvxsIK4iAt5AKl716g3sDVcx7sDu
+zUERD5xuqhHYXhEQP9PeG2J3nc9i3lP7kVf1cHV9rhl7KhdY4mKHs/Jx5bKBKa8FFK9S2cACeZXl
+lQMWSixMC9I/9CFWIawSWmVSgSSuYK2rF1Plivqxv5udFkelS1f/dmUuG2gXabzttvt7fDrEt3ZT
+dRVTvVJc9XgH6E/ttAjUEFdtmyz8kNbgVePBpvSS1sLV1jLhKjVHuDAXmHO6BHFl2zCZbCDiyljZ
+yRvoy6skHejxigUWAwslFqcFDak8WKG2ApdFUrhinwWLKzNHmHOBrnT1A8aVmSQ8ffmZCa54kcYb
+cJFGnHl12219zhTuD1cxzS122gCi56MR6C0C4kc6GVS7pNVgEM+rtU6rV7VwNbgT1hHOTLqi7rap
+doFho4Wnrlw2MFO8clZ2z2yRrV5Zu4XJB9qEIAKLiWWYBaoKdZVRVpwIdLQiVyD7LIy48nOBpnRl
+c4Fmsav9hKsLcaaw1zeQcbXrtj4XaRTf241feGLMtb092vpDGoGdFoF4cdUtrerwqvFoU3ZRa+Eq
+b2OPyAUmyUDEFWQDjZPdL14l2UDbiMnKK2xt4eSVV78CXpHAIoXFxEo++CeQBiRY5WkVEFcuFwjJ
+QJMLNO3Yp9dPSeTV564wfQNd8eq2g/09Qf3hajAnnwzS3/nrL2kEdlYEYorE/ER272yKNtZ3Kq9q
+4WqTW1rA2iF2YUZYOiQ7Rxg6WoSMFhl1RbjCmVdYvOIVhanLrZkpTH0Dycvuy6s8r8BwQQKLgcXI
+Sj7wB/Dn8LcOVmhhNx72AnHl2rE/gXOBpr/t9L9f7mcDM21ub7vtpv4eoB5xFZET0IlX/d0B+ks7
+KwIRjxnTqiNPoB/VpWg/e5eCrxaunuO1tHDN2L1cIM65Kph05VstngXy6hvkDSzJBuKiV6Z6RXOv
+SF5leUUGQRRYhliErORjWQXKihOBeVr5latk4XsQV0fcyrgyucCNsz11RdlAb9ErKF71aGXvEVfC
+uwSfIMXVzhpC9Wx6i8CSPIfBW653Wicy5x29snGXrS2EA1E6IXmnt9SVwZXpF1i+dAgH2VktEFde
+NtCqK7OICJstfHmFrS0Mr15lZ19RPpAKWB6wSGR5H9BVnAYEWPm0MoUr8lmgLTCpXBlfIPS3fYBp
+ZXOBDxpckZU9ULzqsbFFj7iKaBKtuOpteNMf2lkREI7FDmqdpt2S0EanKDscAoQhSuMq14090C+w
+MBcYwtVncIVGKl5lsoG8pjCbAzkdiJ1uqXxlZgtbXhlgUQ0LNZb/QdnlwcpqKzNBmHwWOOeK2gWa
+foE2F/gPRlzZXOAXzj6ltHh1Wn9W9h5xJf4pVVc7awTVs+kxAhEVYkJWh1hInXWMMZj0SHcxq4Mr
+M+sqXLqyc4SLfIEpdeVnA5PiVVBe4dwr19si4RXNF2aBZYFFSUGmFvxjUWWUlUkEYt2KaUWuwIy4
+spOu0GjxQlZXphv7xtkpXLk1GmnmFU4UPu3D3V2rzJ7FDGnu1RH/VH/PUG9h1h/SCPQSgYgUBtGq
++WMtPa1Yu0V3OcoauOJZV6Ybe1HpKrh0SC4ZiLhKvIHpbKBbU9iTV7yQSEpfAa+cwEJgUVIQPwZa
+5r/wL4BowDVjskholU4FuklX1NLiH4BWiKvLTEuLB18NvCqdeXWX9B5ovJ2YIc3va/FPKa4aX1bd
+wYRGIBIKPU7Ijy1fdddnowauBnflZ12FSldhX2Ciro54VqZ45byBKK/AG+iqV9ZtYdOB1m4B+UCa
+f2UEFiksgywLLRBVWLAiVllYGWlltBWnAnGGsO3Fbpe68sSVWZlx+tMXv8UVr8Izr/orXokZMsa4
+WtwUrTiyOD+/MqTPyvy86BsVQ978/OpwuECftTX6n43hcL6v7Io5uEXZ783Mz2/yyc+3c/L887Bb
+E1MMavstvcNXYKWNqxfcNZwPXlQbqL5OiI9laUV0LZfgGOkAV/NXMtJosdZZIAPRjRR+6w1fOGYK
+g1kHV1/JNgz0SlfVuUBXu0JcieUVmNmptwWXrzx9BbxKA4uzgv4HGMasAmVF/nVKBDKtTOHK+SzC
+4soaLQ4cjrhKF69gSWFsG/h4bBsIE4VP623m1bbH1cwQTLIVj/nM5vJCLqe/trC8WXc4ml9dXihe
+G2FtYdjdgJp6iPHkq16Q51c38sc6tzCsffI8tM4PNwLzUdcWNlZFY27tsWhxFQRE6z+xOD9cXgi6
+rRdmG0ZKeKZ0XhXvhIsrw8xBZv3eceugTnWnYEJnHan86j6cBP6NteJg1sBVMkk4MOuK1g458cSS
+XGAWV9mZwmi28OUVt7awbotCXlmFhRKLPyC03L8bVgGsSFpR2SqhlXUF8kJXRlxhv0CsXGEu8H0m
+Fzh37sWvLipemS63p/U282p742plgylUMnzND8tm+a/Nrka+YC6tLIsmkcxtbHaXfafBwJx8Ca4q
+jjX+5M0gVBWC9eXWeWLEnIl9m7tfAgZULssELyBC7NTabMacVwmuZlZnA0eZvcVEt6ZzBTYVMJHn
+GpkOrDt7mcBfVpargSvntLj01AvzpatUe9vgRAJrZD/CyqvrfounXmXNFl71KkkHpnjFBkEjsBBY
+aLrAzy84asG/0gf/kmBlpZWlFdssbCrQtgvkytUnmFZWXG2cdDjgKl28cn0trNfiXyPvhNqb94ir
+iDc/yXC0uJm8rRVtjy9ZlZ+5oZhY8zJU2Z9cj2Wh+DJ6J1+EK/vUlp9//CGKYjq1tiG5huLztW/M
+5mTa2rf03YN+dqGbq0lKwHyKcDWzHDb8ZXkT0+isR1egvcxx7sBaU68s+FvG1XJ+knBM6SpRVwXZ
+wJS84nVEqLeFcbOD3SLJBxpeWWARsSyyDLkMqpBVDCubCORMoKEVT7lKiasPYv+llLj61LmHX+yK
+V6deesH5Z9iJwl6X297aBvaIK+FLjchdSynA5BMcvuYlrOJ9LEjenWXjdIYOCx1Mz0+ffBBXSx7L
+q3g9GzH4Lw3D42boN+ZW25OXGfZGHHExEWNiZM5vvcVTogPLnFcQV4sFrIJjyibz4njQQzuLTPTl
+Nw8GPDYb6IO/XVzt3Z+dJByYdVVsY/esFgZX6WwgN2LyOjHRXGHTi4lmX6V55QELa1hku+DPk+Ef
++zGscrACaQUOdkOrV76cJgi7lUN46ZAPHgnNbVPiavo/n3u4KV4Vd7k97d6Y984m2/aIq4jUdfmN
+alOAZbhaWo17NOYqsFIyZlTgYE0u3iQXMnfyAVwtykHNtBYO/0tDgVj1wrE2bAVYeU0rPN6SeNZg
+FZ9Yi6rRUwImaAFcbZblsrNpgYhHDH5RnFSQ3JeibcSjDcUjyt2VTyYUfl343ux/f08eV65hIDkt
+yktXnrqqkFfU6JbklS1f8Wxhyys2XCCvMCOICotcF4isBFr8B097TaKsXNnK0oraWaC4+g1MBUJD
+C+jFjrg6JCOuHjwBcZUuXmEbJuu14KbsvU0UFt9AUfdO8N6N4Efxve+nAItxtRg5rsKe1sqGwNIx
+o0q9wBDX0sAQPPkcrubjBi05sFbjYIU7XmsqLpc2Q+htiquZSJ6nLnErgjmjBApwtbRZ+tBk02Vx
+vsC6tSERmAo2iuoWLy+t5cHfrroa5HtaUH9bu3iI57QIjwamdvVjR9jiVZm8IjM7pQOpfGV4ZfyB
+hlcOWEQsIFP2QyBDoiHZyGOBicCEVqZwZVKBRlx98GikFZSuvmt8FtP/+ZnnQjYwjStuyp6yBvbl
+tegPVzF59YKbPXhX4v2RHr6WlqsJkt1ivVjQxQq10I9vNJcZmfyn+5UMruajRoTkWJerjnAmroxv
+97wQm9Lxrv3iasHJNMNVw5ePqak5Se64ZFQvLCtm3gmr3g+ywImyivfUfSkdBvFwQ7eP6C0v/ELT
+Lq6MMdD2tLj8lFOgHTv1t001DCyadeUnA53ZIjNVOJcOTMpXPq/Y0I4CKwEWayyDLZJUjlUerIhW
+V1Pdytks7CLCVlz9HbRip1ygnXP14AkGVwVeC2sN7MtrIb5/GquriLz6WuBRD7+OmkExNXzFKytI
+hxUO1rEJsAJSrjWLXz7/GcbVYnQ/brefUnk5GERcvkwIarql54tLNo2M7OWCRfiiI02fBm7kMrtO
+6iZZqUxHZKkZdfH7r1xhMKJepqqleeELTbu4YmMgryRc0t+2EleorqqqVyYdmJSvPH3FhosUsDgp
+aPOCHqiMsEJllUgrmB2c0CqVCqTKFaUCb939RtvQYvrTzyRcZb0W3pJX3IZpTxPJHfHd/nAV8XKe
+y29Vudw8XM1XPuSBEan40a3DvvCQN1dXEoTzn0FcNTvaEqIu1UgwuiOcrRJuufu18I059HoScbcP
+Bq3ACo+ill6uOi/vCiwKBvZsXKNufZF0iYqtZOMoAVjRN7DshaZdXK0GjYHnptRVmdPC1a4ekvAq
+24nJl1eufGXsgU5fIa9SwCKN9apHW2YZdHEKkLOABlYmEZinFa95j5WrI4/GKVcgrr55wOQCP3UC
+pDuN14JXFM5bAwlX125JLn7zbXrDVUwuMI2rwhRgggVHgnrDaiGtql9whW/jtFllvi1wOYtSgMnv
+JsGqma7zdlXElcWId41AROLWqJgpSgEGrnfkA9Dm9VyLzQiWKQFzagmuJHaARjb20YirQcwirVOh
+LIu54lXgbxVX0DEQ1ma85IzzL7DqKt/TomySsEsGkroqk1fWHVjAK5iAZQSWU1iPfBUTy1ALyOU+
+llWQBiRYQSIwTSsoXOEawi4VSLQCXNlU4Mb/OgF4FbYGwpJXnpP9tMgHse7mveEqJlHhv+aLiuIW
+V/PxZgC4r4uyVZIX3BhcTZUUyILXT+QIcLiSjHAVh1vAlZlaYfV+a01cwFopSQE2xVXb1zNKNYqc
+qvbGl70eZEtXERMbO2gMIhyBopLKBbeNAPyt4mqw/97jjrsojStnDEz3tCh4wKzVgtRV0BzozOxu
+XeHEHmj8Ftyf3QosAhYVsaCMlSCLNBX+k4YVeSwYVjQ92My4sq5ATAX+wyeMuHKpwHUozTGuPK9F
+YMmr2247rW7qSHjX2M36wlWMuEo5WEU8MMGqN2AXZcjr7a30eCONcqIjMLhaEiSPqmMZ5FVjWoFD
+UMgr4UnUejhE0awOkbfFnPCsxEUbg6sV2etBk9JVrTm4kWNLcPMo92L4RVJ4IVs0sud97HHGwHQy
+0Mmrb9hFhbnRbTYdyLzy8oHIqxywDLEIWub/GFVYsUI7ICgrX1qBgz1NK5MK/OAPjLhyqcBZ8JEg
+rnLWwKyTHXDVkzWwL1wJxyEeC/zRSDR+0BfqJQKL1v5unFkLH3hUDkb0XDKuZqLqFsVBDfCqBVqB
+mU5WvxLeJjVwVaumWXnzVZsB7JgtOjMeYUWXHQ4tW32KuQVq+l9aAFZMmiX8tAjj0yKuYCnhK9Lq
+yhgDQX7grCuedlXstLC4+rGHFMirpDG7nw5MeEX9LXAClgcsrGGxxLIiy2AKQMWoQlalYIWWQKQV
+Tg+mGVdeKvCBbCpweu2Ej4VxBU727MSr32vhzhDsoidcRVVYU89h5Yhh+bZUr75SwI+onIXoGM1G
+xR7E/NUSPZeEq1aQQkeY49Wi7FW/Kgay+pVoUK+TyRKFsuocAn8vnrwkOjMaYaXjebayE5XAkL09
+CAaQ6E1ihoKwBhReyxZx5aZdcYPbaB97CFfUmP2vqXGg7RxI8irEK+7HhIYLK7AoJUjAcsgy5LL/
+Q3+FG3HRyiYCQ7TCVOADLzSpQLuG8PSDT3mph6uUkz0/8eq+6Pug1hf6wVXckJd6DkVDCLxtt0qr
+djJr4UOXjdvy12zEVb2aXfj4MnasmnHN71ukK0WDejyuZLUg0a2W3Uh0WnCJRGeGI6yUVrlW/DEc
+6HCt3sphKOb1J0jVUeGKp11deWZw2lWpMdDDlS+vcnOFTTqQy1dot7D6yvLKAQtrWEQsgyyQWay0
+Hob/8MewysIqKVtltBW6Ao9mWt26+8t2gvCBRz3lpS+16qrIyU5LiKA1sKeugb3gKnLISxkDRWPI
+fF1ahdnRVmatKa9EzyVEqz1thUeczhM1cbCnz1+SfxIN6tG4EtaCRLdabiPh64fozABXYlrlehSJ
+7hZz+PIkZiV9ojeImcQfzPoKT7Q9dXU/Tbu6pHTalRBXRyS4Ynn1WyCvEn31cNs7MMArFlgWWFjD
+ssSyyDKYMqQCXQXCKgUrLlsltKLmS0CrhztafcJ62Ke/cJLBFXgtyiZeMa5ujL4Nan2hD1xF0ir9
+HIrGkPlBvUxgeGb/Zsz7n+j40hsJBzhhEWOhZVqlW4sKhwZRFATGBNGgHourNs8hcKKyyyk6s+Eg
+YizPOi1Ev2COf3S5QFj4RnSz8EZB5AivZ3u4srOEnY/9lLOhHztPuzJrM5b72H11lZZXKbcFuQNN
+r9scr4zAoowgpQR/6fVILIcsklrJh1BFrMI04Ct/GR2BxmTh6laWVh984BNGXH3zPiuu1k866SlP
+IXWVmnhlerLn5gn35GTvAVextJpKPYeie3te/k6a2l9wABU+DaIDa6avREeysDTX4FBCX/UqBuLb
+Q3IIgh5wwiE3xmqxVPPekJwRbyM4L2kyMMaLnr15I16yqpb0rPXmK/5SxIEGk5aix6KkQ2709wlX
+n/OmXWVx5RrcFt00zsj+EGO2KJp8lZSvPF5hPyZar5EElgGWRyxklkkNoqRiUl39emZVBlY//Wu0
+Zgi6LOz84IdD3cqkAu2Mq+nZEw2ukolXgXnCN9/8rndxW4sdg6v4zFrq1U80akS8k/r7C6anOh/d
+cICTvd2KnquF9tJ1NjbuvbRlElanA9vHVfTLkuiGS28kqV+Jzkw0ydD+dgYPMQ7x6gshZk+NDSNu
+2OCbgOix6BRX6VnClQ1uk2nCQCvPHBhKBxbwihreosBiYLHEImJZlUWIMp/XM6qYVU5ZeYlASyta
+NuQHVlu5FYSnNz79uByuTqG2FqfmVrxiXF3fS18L8etz3Z53VW0686ND+hatMXpIvxJ8x+yDVtDC
+R/SUi57LiHdVaWCcNbPma0DR71R3VRUN6jHJwD5oJbqcwjMTX6KcphM/yfATgrSs6Aatt1GMhAz9
+guixaBFXW8NsDyYPV6JZwqlkYMrMDuUrM/kqbw80+soZLozA8oDliMXUog8jLMUqSgMyrDgR6NPq
+7idYbXWrXe9+evo/nZhXV6dcfmYxrk6+vt69EPkt8U1eD1d1+oOnf0n+/MZuGRw8+6GVcC0f4XMZ
+e+LV2xuaim+O6j3yFpW2b+GgLk4G9kOrqalq64LwzKSRhK7MmSc9YupFSXOjyOGj1uYxjvsQWIWP
+RXu1q9xaws1wRZ0tKBsI8irjDrSzhcnO7vOKZgz7wDISC0WWlVkeqUhWga6CklUCK59WsHeyWbwH
+pJVJBSa0Wj8xiyvT1oLU1fnp9YRZXfUzT1g8ItXBVb3+4Ok7VP78xm4Z6vnWF61kAkH4XMaeuGB7
+noE6J9gybpOqvqrCQV2Kq75oJdArwjOThzP7QEbcLKO0sUfeV6ErLTzT1nC1N98ykJpakNUiUVcl
+s4QTdXV0VTowzysytBtHO2cEsYaFOUEgFmUF6YPUwo/7A8Mqo6wC0gpodfc5IVotnPi4AlydHsAV
+LNAIuOpnnnCHuKq5rFBmaqD8+Y3cMvTM9kerqerEmNAZGHnass1JXgmHBdkeeauqJKhwUBfiqj9a
+VV9O4ZnJg5mtP0X8QJ1Xz1o6quBLEcWr0KEK78vWcDVYvvf4TMvAurhiWj2E7exWXnE60LrZrT3Q
+6iuagEUJQSuwGFiGWIishFmGVfhniLPvE6sgDWhglUkEvvs9P0BpRTaLbybaav+Jj5Ph6rAbbn78
+u3A94e2Oq9LVqcofyUzCSP78xm25FnjR75FW+WRO4NEWPpdxJy7bGqKz1EFVrArSwjFXhqseaQXF
+9IrxXHhmsquDW2VjEPEDsvC1Caj0viLu61D6WPj11nBF6irbg8mtJSzpweTU1dFH5+WVTQcGeEXz
+hS2vHLCcxAJikchineU+/CeAqoRVkAY0VSuvbHX3ISStiFbPdg726dlPwxyy3/FrV+mmgUkycEfg
+an5zud4sKH5UMxiRP79xWwZu5pgScNyPBbeutmcJn8sWjiW3CxgmOoF3xYu9cMyVjbdN7sL4mFZc
+TuGZyX83GwP5N6e6A5Fsz+KUTvilTvhYtIarInUFU5KELQNzuMpMFr4uZbfw8oG2gOUEFissBBZp
+LBBZyCwLLQsqRBWxioWVhZXxWPCSIXc/8GyCFdHqy252MNDqUQmuQk0Dw7i6S3bpG24lvnMWhoLP
+8sJC01fybAU54imM2TTQjSxm+mLMTxVtG9J3td9C2zggfx9rSzNt75L2V9EJXDioi3DVCW6Lg1Jx
+OYVnJg969sGXf3Nk3djtIUd47kNO9r5x1a668uSVtVtQcwtqHsj2wByvQGD5wEoTi6HF3OJ/IVAR
+qpBVZLCANCDAykgroNXd73n2JxJt5foETiOtKnB1AVstjr/qMF9d9dOFSYwr+dPQbMusx6rZ3gq/
+nfdZRHcyWt8Yzttxc2Z+uDEXe6iVkzWFz2Xs74q2r1l5rNx3+aKGwkFdgqsIp5w56LWFjeFwdX5+
+dTicraHMyi+n8Mwq4+c2yOAq4kGuvO8avgJXfz3inbZ+jrxNddViMtCWr1IrNWKvW9PsNuEV97tl
+geVnBEFhEbBIYxmVZQjl/of+hlmVhhVJq7vf8wn4WG31TTc5GGn1vwyuTsSuFuGW7Ior+xTm3vzk
+z2/MlvknNq7Qsbaxkp/pOyNags87zKr1aEeJq4gRJSbwFWYL4aAuwFXE8E2qb3klk4WeH8Yiq/Ry
+Cs9MHMvsgxJxvqN2WghbfHAoxgBXLasrn1fOze7ZLQp5xQKLTBeOWJZZTK7kQzgzrHLKihpZvPP/
+eCzUrAysMBN4WZIIBFpNgcGRkoFRuOqrx23EXS5+kppsmHuUmuys+Lv58S4mdbRQOM1mPsL0VJkZ
+68Ka1004I/ZaPudHOKhX4yrKJzK3HDbYLy5HQbt0TS/hmYkjmX3hikhlV08Sq9ZHzbaImH4euDLC
+t7g21VXQGVijdnUUeC1MNjBVvrKzhclukeOVE1gILHa1M7FYZHlKixWVRRXqqiQNCLACWkEWED4J
+rXxpNY03qcUVdbWQ164mMhmYd46Jn9+YDfPiKuJpXygdLGdixqWK91zhcxlz5qPftg0NUo2riKtQ
+/PIB7shhDLDKLmfEAYmuUfYWjrhXqqPXDEbV3252sMJvt4arFtUV4ypQvkrZA9O8MglBzghaYDGx
+CFk+tBJSMaqMsIKaFcHq7vf8gGHFiUDQVh/wpNU0pRNq4WpC1VX+FhM9u7Eb5YZM+cv4XOXDHrFc
+RYWvW/hcxp79aLcvnXolHNQrr4G8cFV1PZcilEDZ5RSemfjaNMBV1Vztatw03SLi5TBwqYWPRWu4
+atEZeBTxKle+ouaBbA9M+S24QTvyyggsBJYjlkGWhRajCz9MKkQV2ivQYAGw+u+Pfc/rkFUIK0ur
+y55jG7DD/5riewpXJ9CCV4cffrHpagHThC8NOwMnUV0FPEvi5zdiw/zPiHN4krz/knhv4QUS3GAg
+fC4jznwMNi31pQkH9SpcyZcDFVzPGXkNq2RvwjMTX6DshKSIe6UpbJp/P6IEERDjwlNtDVdF6qpG
+V4ujCniFzZhKeGWBZRQWAYvrWA5ZBlH2f+jvHKv++x++508JVb60euF3PYsFmCz+je497M0BtStR
+V4vEGTiZ6ipwb4qf34gNc8l76dvemrA3qPjlvlxeCZ/LiDMfh03LYigc1KtwJdzN1LroesqXICm5
+nNJDkl6h7GAcsf/muGm6h4hJEgHoCB+L1nBF6uqKS7wFRM4+u2YTpgeOOrqkfJXVV2hoNwLLBxZJ
+LB9ZCbfo3xJUga76f/7wsX/6p9+0rPKk1WXJxGCUWA+aGy8GVzd4XS0mUF2FHLbSxze03TpMFtuc
+hw84k+eSDXKDinSdDOG6H/Awi2ccl04uFT6X4RAtzA6HK3DuK8Nh48lwqV9Yhx1jVOvuuOyUhYNu
+Ba6k0d+QreMyGIhfP4rllfDMgtdybmEZDfZosXf3cX1chaYyNeVP7PflT/UY4Ip7BvrrXdVucQvq
+qqR8ldJXtoCFvMKMYApYPrESpeUUFcuqP0RSve51nAJM5wGf/R0/DTg9feDj9ooU4OotZ58CHdmv
+LGpxO4nqKjjRUn5jp7ecW55PD0aLqzapk6ueCLGwIB3dInhVmhoTHlc+ROurGdkws+zhum5I4Xvr
+wwwpZuLMc/jTZe2KhIN6Oa6khcjK/vDJICwFYLG8Ep5Z7trAlIl0rWmRZ8TVx9Xop10NBvJbcAxw
+NbipBFewmnDEelcPuGxg0G5BvLL9A4lXVmClgIU5QTZeJDKL84P0+T+BU+9BTiGqPFg5afXdpD8g
+164e/PSjJLgqW+9q8tRV0GArv7H9LTeCWR6znEn274QLGsQ95tIBrswoVw9Xc8NgLX2zMbDW2tlx
+GaGFg3o5roTmiCg/t/RyFu5UeGaZ230heHug+1RxVTUytJcMzK0mXHt5RsRVsd3C1K9ShosUr0hh
+oeuCZg57yPrN3wRG/eFjgVIGUwwrn1UGVp/48vvSwgqqVr77ldUVTrtCI7uzWoC64tWEM8szutWE
+Jw5XYctY1U0Z+vviJA+69nLDpWzKlTwTyC/lQtaUaQ3hLlIhWCsehevszkuhFu44xjyH+ytxpgkH
+9VJcCd8+BCYLP8UlZGBhpk14ZqlrWTxlYn5ue+NKPj1gHNTV9cdB7eoir3Z1ytmvtguIgLp6ykkn
+nvg7YE+Agb5otJplFfOBHK549lWy+JWnr+wMLAcsq7DuNp/H4gcAlUGUIVUKVcQq8AN+N8eq6QPp
+19gKXJ16qb+a8M03O1zdF5sPrrV9hEenDjgivlOAg4g9mE1L6+fQvCKbA5INb1W9xPPRFw5QJYN3
+Db4slyUs5+WjRC7sLe64RFAKY1aKK9nbR9VSJrnrKTy0IvOG8Ote3NfKhPdS/YbscVmCWqNK5Zfk
+0RgLXB2PuLrk/AsuPfXC06888/JTPFydgLgCXjGuinhlcPVjD3i8CtnZPX2VzBg2GUEiTlKH4n+D
+bF/+k92IYPXs133nff4kKwboRtb2msUVzIWGhuwXW3VlcHXcccdfdRUYAwFXf8zLM47Zelfx2Ij7
+RlGH0Li9wNYVFYmlHM1kw5vIQ5Z6TIUllJK3/GhclY5wcHDRfRFt9NcqzA1RO25u9y47GtnbR7zf
+QHg5izAoH6BNzGMqpXBp5fuPlJWV6KmzQaOjFT4W7SUDBwZX56dwdTgZ2eNwdQ7ziiZfpbpb+PoK
++926hCBXsFBhQeMkwk4OWTk6pf8Av/Tly96XNgIyrA6sJ0Urc9v5uHopJAOBVhJcnTxZuCq0iMfi
+KqoigU+abHir84zL6h0lpRzhc+lCVO2zj8JKEvr1ypmlMTsuyX8Kh7EyXInePqq74ecHYdlsh6Im
+U8IzczGPVX/y/de5lesgqew7jY5W+Fi0iKurWF2df8GpF154Oqmrt1x8eA1cfeAB+Ljylelukc8H
+erxyGcEjP4htKGKBBXB73WUfeMWGNxs4+dcDcwExmLQMPOkpHq7ONrWrjLp6PKqrXaCuTr6l7Vsk
+uL9xSQYWDkCRuIqmlWxZp/iXcYy27KEs1m3C59JJIIECrHW9JWW7iB2XBFMWsdzShN6tLXv7qF5r
+LPC0yA6uIIUn+3JtWgnvNdy/4ko2pnhx+grhCopXiCvMBuZxBcUrQTIQ1JWnr5hXvLRwqn5lDYLc
+4oKbCB7JfZNYYok01usu+877XpHP/xle7f94MHOZwpXXMtDH1eeuwGQgrx9icXX9Vh+8ihhlZBe5
+3lbFlInbX/wwJFt7p2peavhSyYJbnL2Mw1W1tsKjFFoG/LCXtm51Zx5xsMU3tnBQL7kcovOrV76R
+TW4tkEXCMzNxr1qbuHalVHElNkF5uNpjcWWzgRZX0vUZrdXiHMsrM1vYt7N7+UA2XGBC0AMW4yoh
+ViGyPvHdy77zgVekWlZk1dWB9YIydnraVXj9kDMAV6nlrlBdXd8HrQayETWOGdFbl1VGonYW/5TL
+DHw19ktXT9S+p1hsRBAAwiQTltIp0UncZRgcROy4OLUoHNSLcSWrMNV7+5AJ8YJsoPDMOOyyF4TU
+ACHffz1WtzsayY92HKwWA8DVcaSuPFxZa+BLJROvrNXikHMeMOUr0zww2J6dDBemgIW8YoXlcOUj
+i3QWVbO+e9lll70PKBWqUaVpdeDBNey1FBxZK5taoDMwtzoj4Or+dm+Qgr2NA65Kx8MYXNV4ygdz
+kh+oLN0URFdWvSrcexSupEiVHZMXFRkGIzp5lOTyhMNYMW5EZycNVfaqyh6WcDZQeGYcd0FWN3ts
+8v2PA67kFtVxwNUWtrVI4yrlZK+eJ5yoK9JXyeyrlD2Q9NWx0O8WeZUSWAisWx2vXnfZd+mfD+Dn
+fa+QIMoBC1hVaLeHO6/Yx87zrmDaFS8mDMZAv2Xgyb3QahzUVXkdX0ITu03VcoeBkIpGoPoPuOix
+LMxgxuBKbrQXAToJu3xsF++4+DoJB91iXIn0bE1xNZC924STu8Izo7hHtNtwt7R8//Xv5vaGJPlT
+PQ64GtxyVXEXJpp4VeVkz+Aqaw90BSxartHxys8I/sHLYCVFBFbQNSH7w43965+uiHzkLOHHv+tH
+wGoBPvaJwVVF4zb5jT1V5zkU+chqYNA82aLdFwIhBlfyqp24AR6FPsJDJ1I2uM/GnfUKeSMqL9W5
+T/h6ikIXtnrKcTIlf/Pw+CHff/3Tn1hc5dpa0MSrCGugxdUh58AnZQ9MrybC9SvmlUkIuhIW4AqJ
+JSNTbquN/Z/6+FSZruKBNm8MDE27YnXFHW552lU/TS1Grq6qZgpFdBcr84sVPmgS+VPa16/8ERaZ
+nwsX2I3AVcQxyswl9jUhwkcmqxt1iiuR0UKa3cxfWpntMJjcleOknnVPvv96Ltf2UIV7kr+EjoW6
+mrFO9mTiVc7JXmoNdOoqxStv+hU6BBN/IPKKE4IksMhz8eOMq1tr4Gr2wbkvCCMeNgaWzBKeKFwt
+VFaFhGGGzeq8NYpwUic3Y55uGRqKShURuIoZguXLcYG4imjrK7MiwJUqzi8KB91CdSXKR8acUmaU
+Fu0/eC2EZ4Z6ttbxRVzUdslTZ28iEcxP/jjgamuLcRVwsqesgcVtmJy6OqRYXwV4hQLrMRZYdXB1
+YPZTc5I3cjvKFhoDw9Ou+m5qMVp1NSfIsslxJdhZ7tESJetqlzrg50TjW1EiT46rqCFOnLSD2EfN
+VhXBv/TFQjioF10R0TAoL8blR2LR/RJ8vRGeWc3KldidjY9THcC0+x1RxZif/HFYTXgwuDPgZI+x
+Bnq4KtRXdv5VOiGYACsKV7OzD37q4zGgcrnAUINbby1hMAb6PnY77aqfphajxNXaUPIaKcZVRDos
+efYkF7QwVyd5hEUvvUVMkOMqiiqylBYHvlL9+kGQackyHSwc1Itw1XEuUFi8CmbbhGcWG3IXfvm9
+Usd3KLnVI7aRvteMDa7uKrcGVnotLK5+cAh8CutXRl8lvKKEoAXW7upk4Mbs7MKnPvXxj1cZKgoH
+1Upj4KXnh33s/Uy7GiGuhGvjiXFVJ2Unehuvk2SMG0WKqgnyISjO+SySfBT4yDqHyJdXtlfhoF6E
+K9HvRxE4MwbLZEFo4BaeWXTI7W/J75VaNd4IFgk2bXawwm+32IRpsAzWwJSTPbLJrVNXyCvEVbq9
+xdHpfkwer0wFC1OCu+GTqV0BnuDzKfh8/OM1tFR+bA06LQ53patiH3uTDJTghrGbyJ4/MTOkGxYs
+nRQ4cOkea70zim78CLNB/vhFv1CUnpF9GSIUqSxFko8CL/cb0qmLcmVl6SjhoF7wcIjUXSOxLBOm
+ocMTnll0yO0tF5HhjbyoEaOJdFORCi6U98LHok1c3YRNbv31hAPWwDKvhVNXJK8C+irTPzAPrMc8
+BnEFH2O1cMv/igdIwYamdMWrXb3U9bTIOi18Y2CvPvbRqKu5TUkakO99QZBpk1qjkGgMqVMTc8+t
+7HWgYPgVPpeRFaaYOkekEpEecOGwJrogwYIG7lI0ZDcSy7LbMcQD4ZnVmiKM5y670ehRafT+JSVS
+6XbiYAQLbcK7rE1c3U8rXtkmt1eemTS5Ra9FdV+LBFcuHVigr/IJQfAIUkawP1yl1maEfuyvLmhw
+m6x2dWMrt0X1TiLucik4KrZbC6/0W3So0l+tVUAX7byRzpXFt8DXJ3wupf2XXIjFpYNI1SYeMzvC
+leilvU7SODle0R0T+gnpCB0b8hppkmbArh5TqreQlIxNpAM7Ez4WbeJqcG2J10IwUdji6gk/+EGq
+fOUv12gaXKR5RZZ2BlZvuMotJZx2WlxCDW7Tq13tqb7mrWwhG05FD6lko7WNWK0i2WuNtBUFT3by
+ciUYuCKynyh4soTPZaQhQnreENUoB4c4oCXeNOGgXvAGISpdNdMWotsxxAPhmZWY/Cued9GR0UZ1
+idjKgIM7ESVt+XxCoRQ+Fq3iKt81MGnDZJe8KskGOlwBr1LpQL+/RYZXfkIQgdUPrmCZSZMLpMWu
+YJIwla5MC6aQ0wIb3PZkDBSO2PJHoWzLhWGcIyAqGVhHA4maFDTz/cpwVfC+K3wu48cf6fWMrXJI
+x6GO1JXotGJmqOWPU/QTocS0FFexIXeHKDoy3qjRC1gL0JI9FOOEq3zXwHDxqmjmVYIrT19ht1u/
+f6CtX9kZw4ZXRmBd9/XOa1cFs65SToszqGOgXT6EWjABrm5q4a6Q7CLizol4HnKbri0M6/AEzkD6
+q5KTzW4jcwbU2bP7jiy+DXEVnQiVBjX6mgl33A2uZLGOPqfUwcpOMHB+UlzVPjzpD8AZ1P6NRo9C
+8mXpaxgcaiivKvx6q+qKvBYXnXG+t6Cw6WuRK16FOh15uPL1VVK/SjVod7xKAevruwlYHVotQjb2
+QOkq67TorR97RF5I9pwGtlqYHa5EVuz9p0L4u5GOa/6FiCdceBh1NwuPA8LnMr52Pic8zujhqel+
+hVckPN7KxPL6QpOP7AQDWQThmdVXPtIfgDNolg+NvilyX5A7U4OHKnwsWsXV/YSrTF8LO1G4unhl
+cfWJJzwB5VXAb1HAKw9YX4cPEKtbXLlc4FMgFwjJQMwFZkpXF3mlK9OC6S+a3xOyPcjeSGUPaWor
+GBOGw5X5xnkH4U/XKh8L993DZs1wFZ3fEg5t8UUOYai6UVcip4XwCJttFsCpMOS1DK4UTuEgjicW
+rcZlY4l4qwinRejFRHimreJq4BYUdkteBYtXBdlAhyvDK1e/yvW7tQUs67hIeIW4Al51h6u0jT1Y
+ukr1tEhaMPXU4DZCXW3Myz/i+1awoXDcqPPCKK20CA+hyWZhuSB8LuOTO8KxM/4dQBiDbnAlPCvh
+MTbZLFCAEh5cfMhtLEUufj6p+kwUPLDVm4gm55vwh6rdwseiVVxt7c/2tSguXgWygQmufH2Vnn/F
++srNGHa8ssAiXH29c1xZX2B+1lUySdgvXfXptJBbLerwoPrOrd5COGrUObzOlKXwmL3NmuEqWsIK
+x85YY6C40tgNriJe2uOvUNQ3AnejMOT1hU/M3VzD8lT9pIq3kCVtOeChnY4CV4PVe2HJq0Dx6txn
+QvGqMhtocfXCT3yiRF9lEoKJwCJidY2rlLiyuUBZ6eqmLfHFb7ah+Cavw4Nmh8bfFg4TdarHEe+j
+wqOovVkzXEXHWTh2xl9zYQC6wZXwx3vYrD6u4kNuYxmTK6j/K9G3WuALEaWrYEl6JLhKild1soEG
+V995YcKrkKE9K7BSwOoVVy8tygVekpSukrUZ+1n5Hm6lScaV8LbvYXgrKH4LDzA+t7MjcSVrkNTH
+1QzNFuos5I4Hc/JTq2VMaoNUtI8IFRwUm8LHotVk4CBfvIrJBlp19UaPV+n6lTdh2EsIehnBI/rB
+VVkuMD3rKildXduXuNoxuKqT3hDe9vJRoP6W4UdLeIDx9Y7Oxk5hBDpRV+I3L+FBNtgscEWEIY+d
+Re9FUvgLdFrR6ePWWDUYiHuqwHEGnwvhY9EurkLFq8TKbrOBRTOFrbp6o88rp6/8CViFAuuIrz+1
+09pVRC4wW7rqq6fFzlFXdR6niKREg6FL9NXxxFV8hlV0sh11tdgRuIoPubvzhaM4XaJoL2md56vg
+O7LZjnwnBcMhPNF2cTW4idoGwsyrC0698MLTrzzz8lPOfsurrZXda2yB3sCc2SLBleMVzr/KG9qP
+MrhKHBduEtZTmVddOQO9OcLQ3jbJBWZt7IFZV7e0eHeU70r8jI8q3d10ACw5/ZjXUeFh1N1MccXX
+SXhJmoxidS9RzPfqq6sGuIpRLfUdHc1HpohcYFgFjgZXS25FYVu8SmUDuc3tiTBvqQxXP/XGRF/l
+eWUSgjmBxSlBoNVTn/rUrnCVEVcpX6DtwMQ2dtswEEpXH4KeFqeddlqDmzbydlJcxQxDnW0bHj6E
+z2X82NOECqU3mDBAnSQDhdESHmKzzfIn2FnI3U/FeC3ilt2MHFPKN4+hanjin/BCt6yuBnuOy615
+RdnAlDcQsoEhXll19VMZXiV+C5qAVcgrBBay6utff2pH6kqUCzw/1YEJVhImXPU2SXiyk4HCEaTZ
+wCX7drj81PS57IQKiivBJR0FrgZzggOzm9RuTdgYXTEp+PBMiqaPRc3vD70+TCYbWDhTOJsNTHCV
+5ZUcWICrztVVymiRbW8L4opwBd3YD7vhZvYF4qyr/kpXO8ZqUecpUlxVjG/xIl84YHbCUeEoJDzE
+ZpvVxlUTD0RMUSi+YUmdJyzwnSgNGC6xCS902+rKrHl1xvkX5LKB3DeQ0oFhs4XF1d/8lNFXYGiH
+fky23y0vMOwJLFvB8ktYjKuO1FWRuOL2tmdeefqFp15KuPJzgaa/7YdbujUEu9khycB4LzfEJuZt
+tNnoVfltVVc7qnYVmN0qfDcSPLKFm0TNI4x/FWlyaMl3hazhJybca1S4i7ZxNbgz39jiLRfLzBYO
+V45XPF84aSCIxPIcgkcdnfNc9IErXJiRjRauXyDiytDKzwUmNvaTe5t1tWOSgfFebniAKiHS3waK
+K8UV3W1NmBA18Sy+4Nnk0JLvxrwjFkjAUeFqCLiyjS28bODhVLziNYVBXgWLVwmufH1VIbAylosu
+cVUgrlJLXRXlAvubdTXZuIp5cjoml+JKcdUYV3HpggarJDQAV5QCLGgCNipc5RtbgJddZrawuHrS
+3/yNr69SAos7CAYsF2bacA+4AmujJ66wARPlAkFcZXKBtnSFa13d1+B2iP3qDkkG1lJXwvxMx6Si
+3SuuFFfNcRVTvIpeKTp2ZAlvH/WKWDA7bFS4ymQDeeqVlw0s8bI7XCGvAFjkZzcNmVwBK1DB8jOC
+T72ms9pVyMUeXDvErczo5QJv2tfOrSHZi+KqDxpV/obiSnHVHFcxHvGiwpBk0Ki/jXi4oWAU+E5G
+hast9gZeAjOFQ2YLr7NFzsue4CrhlT9h2MwYzgmspIR19NFPZV51YWR3U4RRXHndbf1l74tygT3a
+2Cc7GajqSp2BlS8S9Tao7QysTwL4ZpTrbiTyaj0mnEWdDUeFq0HIG5g3W9jqlW9mt7i65klPMryq
+Flg8CSsBFsDqGvinA1yViKskF3h+do6w8QXu6a1hINzh4ted8e5qocnAqHFOCOp495hwNCo82CYH
+JhzFhIfYbLPR4GoQM6dpFPIqqnI1VTQ3THihW3cGDgZ7jDfwa6CuMmYLbxmRwFRhH1cpXoFB0Bku
+vClYXMFKA+ttT8V/OsAV0upR4BDhylWFuOJ+gV4usEcbu+Kq2ajU2rc1GajJwObJwEEcDmq940W9
+FmU3jqpcTRW1rR4drlbJG3hJaupVVl7x3KtMOtDhCuVVkb5iXPkVLMMrVljXYC6wC3UlElf+pCt/
+jvDJBxvdEZFfnmR1JbztW2NSyY4UV81xJb6Ve7igI1JXcdnA+FWoIweX7OZxD1zhTGbhbjpQV0vX
+UvHK4Ir73GJnC/Syl8orD1fpfCAXsNIC6xyvhHVUQqynvu0akFfXtJ4M9Gnli6uMi91OuroKxZVZ
+6qrflhYTngwU3vY9jG7qDDQjW5NkoOJqEJkN7Lm1xWJMc9uCxUPwPhE+tx3garDfTr3yzBYSeWVw
+9RPXwAf1Vcpw4TkEUwLLZgQNsbpKBlaJq6SjhfMFPv5dtl/gyb3mAie6dhWXOumUWqqumqurmU6v
+UNzOR6SuIrOBBauCNtRQTQuTNtKFE8NGh6u9M+wNdNnACnnl3BZWXf0w8qowIUiWdp9YZhYW84rF
+1dvaVldpcWUbWpx7uC+uTr3AN1qMLhc40bgao9dxxVVzXI1Tl5JR4SoyG1hYHuqCWHE2+6niFY9H
+h6vBFjZiuuJztOrVqWy2yM69sp0DU9UrX13leJWeguV72pNpw0Cst72NgNUyrqzPIt/clqYIuwZM
+3N3WGS2wvS3OEe7VFzjZVouopjVxb9exWyuuWsBVXK4p9hJFbT8qXA2iZgpPlTChdWBFpgJLVpAc
+Ia4Gq+Xyyi7TiGZ2n1dOXf1wSF95vKImgsYiyKYLp7AAVUisDnAFx2ppZboFpsQVdLQAceW62xpx
+RWuHnHxT6/dJ6Q7FCmMHGtllr+Ojaq7WQpK+aVpmexnZhWs7Dvv4jAxX4ufZ0He5t+FGWJZ0bwXF
+velHiasBmC2Ow2zg+c7LXiqvTDrQqqsfNrjyC1g4A8tzXLiut+ARTLkESV21nQxMUoGeid00tCgU
+V4nRotc5whNutRiIJi3WavbeziDQ9LmcMFzJlMVoeuUJWdqoxS1d7jiv+NTUSju3auVehPeyo1VB
+v8ARWy0GW8sSeZUzs3u4YmA9KVPAMgIraSKYUli0tghqK/i0qq6yqUAnri5OGlqAuPpaIq5opStn
+tLir8rq3u4H4bWwnqivZrMoRjW+qrorTb2HZtyrK1/U1PmeeU6G4aPx0y4KQRGqtaHZT4yNJ7SCy
+cDVVZrIXkq8LZ+BgcP9VuanCKXllWzGl04EpXHE+0PHK9LzNCaw0sB44pwNcpWjlTOwl4spzsePC
+jCfH51+a3VYTjSvZfT+i8U1xFYsr2b3cX/or9WT2haul2AreepMVIaWDz0z0UZXsWfbYFtseG31/
+a3+hvHILiaTcFpQOtLg6BrKB+KkSWJwRTAOrI1xx4YpTgR/DZa6eeS60Yk+Jq3S7QOho8SO46j3g
+6kbp9W9rO9kjDgHfiepKdvIjGt8UV7G4ktniih1nbT1Twf30hatYs0XRagCtBmNJlHb3r3dBM3Y6
+qka4afx9t4wIdGLKmQNp4StcVthLByKvHK6YVyyvUgUsU8Fyk4Z9YHEJq31cmcJVyGfx6rMzqwiT
+LRDElediP63nSVeTXruSeS16nkzpjRNNn8sJq13JapFFfb5bHZ/zO+sNV/F+15IyUTtBiadV6TPX
+9LFo+P09aXnltbZIyys/HZjg6hgjsIoSgsQrKmGlgAW2i9ZxVZIK9Fqxm8oV4Apoxe0CrYv9L3pt
+wIT3okxg7FB1JRzfRla8avhcFY81wrEzPjMtqh6VrJnb7MBkXovRJHeFZ9YCH2QVWf9Kdc2r+CMq
+zeU0fSwafv96wJU1BybyKmnFhOsKu3SgcbP7uMrxyvYQzAmstMI65m3HtGq18GjlUoG45D2a2Flc
+XZlpaJGIK3ax9220mHRcLYuG16LO0C0MLeW7aPhcTRyuZG1Kuh6cw2HvD1fiN9Dk5u82JLK3CP9R
+XCutpzV9LJp+Py2vMnOFXevAVDrQ4urQY/ATLGCh4yIMLFPEAlrhP605A20q0Bau2BXIPguYIcyr
+CJ9q5lwFxNVpvRstJh1XMr/SiKodzZP0k5YMlOXBRjMzoT9cST3zfemreFpVFMqb4qbp9xN5ZTsH
+uk63mXSgbc3+qDSufF55FSxrEfRN7ZwSJGAd0y6uMoUrs25I2mcBuLrU+iz8yhWLqzv7XOmKxzLx
+q9hOtFoMZMWrXlvV+Ihp+lxNGq6Eyd2yMn5nirlHXImfaQ9Ynemr+LrV1FS5uBqx1QLukJS88lsx
+mc7sLh3olhJxuDqU9ZVxXHgOwVRGMAWsHxhiHfo2/OeYltRVrnAFrsBUKtC1X0rNuTKVK3Kx99zR
+QnEl7GDd2bNcMTgqrgqStUVFNVlyt/91nuA694gr6W+lgrvRjZ+9Dq2qXMhNH4um3x+wvKLOgdDb
+ArKB1OnWdmY37sBU+crDVS4f6FsEk4ygmYbFpgsC1jHMq3ZwlStcBVOBpeLq2v7F1aSrK1m1Y0Rm
+ssavkROnroRN2fuZGZuOfp+4EoYh/S7Qyfyr6PlWeEwV4qrxY9EYV2F5xQtfcTqQJwub8hXYLXxc
+scD64XwFiwSWA5ZVWMYl+IQnEKwObUddFdLKm3JlfBaw5v1Fx2VsgSSu+l06RJOBEAHZVJ2q172u
+MkjNn6uCIxOOndvNGTgYyGajjkItC0Pezq1Uo1wElGif4puy65HR0FXJ2qaPRdPvD1heZdZp5N4W
+6XSg45XF1c8cih8vH2inYCVzsBJgvTCtsPCbAKwNllcfF7nECjbK0sorXBlXoPVZFFSuAFf9u9i1
+diXMBla977UzyOT20vy5mjRcybKBUyOYmtArrmK7n5tRrWUL7JLwamTG1Mp5jk0fi6bfHwyS1hbF
+6UDjZqfy1eMcrphXKWDZJu1JF8G8wgKJ9Y+H/u7b8KstJAMtrXh+sGln4QpXzhWYpAJD4ur3Ohr0
+SncrLsvuTKuFdD27UbyPqzOw8AWyUPYJ02Aj6LLfK66k+bJsgBfaLGDNRLey4MOp1PRNcdP0+zCg
+YmuLRF5Zt4VLB1L5yueVxdVbf8bwKu+4MBbBJCNIrnZMCZqZw4ce05K6ytPKK1yZCcJkYgdXIPos
+knWuqBU72wJHIq4mvXYlTR81Mgcu1m3j1MJz1WgSUOXAkdu7MEPRXVFtTnYE8WfmHXItbdYvrqIb
+s5uwrVUl4uSv1MKbN3e9ql8lhHvupsWtCcBz0m4LO/nKK19hMyayW6C+StTVzzCwjklnBM0qWF5b
+pkRhmSLWPx566O/CP83VVTGtsHBFE4QpFRjyWbiGFiePRFwproQJiwZzr8ActV6vLND0ueyOCkV7
+lsGieJkM4aBeTBthQ/K5BjJiZqqOi054ZnIclG8pzprkBFYtGOcOZr6mtJpaq/79po9F0+/jyR68
+1rZisq0D3cLCtnzl7BbAK6euQF6FBNYPX+O1aX+SUVhuHhZLLEgGAq0a46qMVv4EYaZVymfB61yN
+UFwprmRTS5u0+MWBqt5baxvPVXBUE46d8Rpk5LgSemem6grewQDNbnPxrx/CkLeFK2FRNnS9hg1Q
+bg5/sZbXgw5GUD9r+lg0/T6e5NYQFxJxbgtKB/Jk4YvJHZiyB574OwmuiFe+wEpZBO1CWAwsT2G9
+8YW3orgCYDWsXfm04t5LNhPot7PIpgJN+yXXin1E4kpxJX6u67aaM09unTfyNp6rCcOVuCF5PIo5
+kmYikWBUTUe+b1xFLySSkGutIbCWhPdtiJWSLIZw950mAweDO628YreFSQcGyleYD7S4etNb3/oz
+OYFl1hRxfdqzLkEuYr0RU4Egr5o5A3O0IlOgtVlA4cotIez6WTifxejFleJKHIGaPl/3nlnjjbzp
+czmBycCBVC0Lkk6h8Llpr7GuhL5xNZA1GAvL4SbAWhzWcq+bA5HI1qaPRdPv831x/VWZdCC2Zgc3
+uy1fJXaLk048iXG18ROAK+bVoUGBZTOCPrBIYgGxbv1d5lUTdUWwehRaFe0SV7TGlVvkKlu44lTg
+8dyJ3foscM7VaCpXE9+ECe874UAyVWsepZ8ViX4jb+e5Coy6wlOOVyAjTwYOxGq51uX0mjSsxUVH
+GPLWkoHyQASv2dpydQ0pdKwz9dOAwlRgc8NsS4/Vfj8dyK3ZiVc0+8rkA9keeJJVVy96K/KK84EB
+i6CrYF3zpACwgFX4fw1wVU4rnnFFnW0zrkBKBSbtl0ZlC4T7TVyS3aFG9pgQ1Bjg0g/vbGRVoKXn
+Kj+sCMfOuAEZf2YMcCW+o2tcznRLoahHQhjyFnG1JHRJFl2z2ej099JmXYOFOQZZe6ymj0XT75tr
+tOTcFpQOdOWrAK+e4pKBb2JeJQLLzsGyTS7s2o0GWKaIBRLrjb+Ln0Mb4KqSVmbGFTdiNxOE06lA
+XkT45FtavE2jdiV+uKOezahDKN9YNgDK7vOCXxKOJFPR+mopu+fIN/KWnqvJwpVYLUdfzkF2JtF6
+hAIR3mQtPjnyV9GiZ2xtI4JYS5vxy1plflg4G7/pY9H0+/YarR5fVL5KujGZ6VcGVy96E3yQV8UC
+K1FYLLCMTRBsF4SrBurKJQLd7GA/E+hMgZ6HPUkF4hrC1sR+2smj6BbIQVdcRcQg0hEWmicZRf22
+nqvcGCgcO7eluhJXr6JfP+ZzRZk1+XAuDHmbuKo7WdiHyNrspoTJM6uNWQW/Koxm08ei6fftNdra
+k00HcvmK7IHWzk68curqocirnMAyk7CcR9AqLJsTZInVDFdZaQWewDStPJtFeoJwLhU4ilbsJuaK
+KwiEPN8eMT4Nwg3TFiRPv7k4bT1Xk4WriMsZZX8JTulaluZ3R4ErudAszWHMza7OF5/m0vxwtom5
+Ivlp6atc08ei6ffd43Q/pgOhNfslZ2A60PZmz9gtiFdWXT30TQSsIoHl2t4mrQSNxvqbJzXDVQSt
+/MJVMBU4gnWubMgVVxCJmBZr0vFpqeh1M4J4rT1XWV4Jx87tqa4GER7uNbH9ZbEgZtIZ4MKQt6qu
+Bk3LVx7F1haWh5vzHrYW5+c3hxsL7ZAKf0ic0G/6WDT9vrtGOPnqeJ585cpXeXsg8OpjDlcPfWhG
+YBnLhetyka1huZlYT2qgrhhWniUwrK3sevde4YpcgS4VSDOER7CIsIu44gpDIbyB6emdE6UsVkse
+Y/EUVeFhSd9Kk6FQOHZuU1wNhK0t6HIK1W7x9RTOABeGvF1c0ZzmbfKRO1+aPhZNv+9doyQd6Nst
+8voqhasCgWXaMiUKKyOxPvm7n6xZu0pgZQzsNDs4cbCb3ktpWpnCVToViD6L+0awzpWqq9TAEOVo
+WqgcxjfLTVnSN/IWn6v0MCgcOyvPMze4CofGwkG5pQOLuZySOUblLYVEhk/hmbWMq0azr4QXs53N
+IqY1Nn0smn7fu0acDiR99TU3Wzg3/eqEEwyuNl8B6qpIYCV9BBOF5RMLaPXJt34y3hnoSyuebmV7
+WZj5VgmtnM3CdbbNT7n6rwfbvkcj9qfqioIl7ORtn8xyYFXACnYifCNv8bmaLFzFXc4qYM1XoUZS
+Aqvah7m1Ih5d2aYxSrMd8NTbS8SrUdPHoun3/cBTOtA1YzLdLWhtYTddGOcLG1xdP/j7txKuPIGV
+dGVKVhZxvLrGuS6uueaTn0R99cnYeVd5aSWllVe4SpoFjmRVRk0GZh524S3sHsW5YcH8+5kNUf5F
+1JNJeFCaDMyN3MLI2cu5tlHYTWFptVwp8y6qS2CjwlWE8aQeZ9r5VkwneOHF7bgJk7nn7uLy1efO
+cHYL0z3Q59XH9jNkoI6w+BMZgcWmdu5y4XVq9xSWkViAKyRWHK48aZUkArlPYJW2Mu0svMIVpgLv
+lL0ldbSVqisTWOFw4j2ccxtZj+/MpoxVVAITtJtp+lx2nXPL7184dnV/YDHpQC5JLgfe7+X+7Mqe
+TML7q4PHXO57FV69DjaLoZW00twPrg5+KzX7Cu2BaV5Rf4sEV4PBhysElq1hHWON7UZiMa6i1FUW
+VpwIDNPKLRryNc4EIq24cOV3Xzrt/g7uUPkuFVcmVhF2Mv9xXVgY8md5IXaErH4jV1wVjIzVmaMY
+s6f7kfWN4fw8v0ag7S3K9VY1A3x0uBK3peoAQ8Jdxq1+2vSxaPr99Oh6/VVu9pW1s5vpV6SvqB+T
+j6utlMAyXZlS04atS9DxinrgYjIwDlcGVmQItNLKmSyy2sr2XqJuFp/jJRlThSt2BY6qWaCJueLK
+3nziSAgfwerNKkv07T5X3lMmHDurqZB9L6o+adqie3U1Ao9BeU5WGHL5i6Z8y3TrKOEl6nOzOFqN
+l7oaDJaT8pW1B+Z45asruHApgZXMGnZ9BF1npmO8nGAkrnKwctLKWAKfeS4uGWIaBRpasYU9Qyuv
+cHXjCF2B9BYpvS3jCyTy56lsS9nxiedslPxU/0XpqjdyxVVtdRU3OUF2k1VtVeqJHyGu7KInVcc/
+qr+PpNWY4WprL7jZrd3C45XxW3A/pjSutgZL7/MqWGbWcKYxk/O1W2I9NEZdpWFlDIGpRKChFS4Z
+wssH206Bdrl7f8aV6RU4yilXnPSQ3qM7H1ejKEqXJwQVVw1wNYIcWNkM8FHiarx5FUurMcMVrixc
+wCuaf0W8yqirwWDf//ztNzlLO/PKrIRlO7V7Couzgg/9JAFLYrVIwYrygClpxYlA0lYFtDKmwFTh
+avSpQMVVSm0JhxQp4QXblZeYFVdNcDWCHNhasXgX3lvtpCTyexlfv4V40rw7qaaPRdPv56KL5Su0
+B/rtLexyIsSrjLriHdzy24mn3fZlSiusNLE+SYKsGleWVVyzcrBKpJUtWzlanZloqwKbBReubuzq
+7hTvV9WVF6reB7gKt0Xrz5U9V+HYuZ1rV3CqvV/OsqmuwpCLH9zYDceVV1GeQD7ppo9F0+/nQz88
+zNjZ7XRh6w+0/W5z6gr3cfBPWGAlbZmcwgpJLILVQx9aoa6ysEpJK+tft2Ur1lYFtOIlGU3hCj3s
+/3W0rkBNBmZvvJ4HuKo0SPvPlTlh4di5zXHVewuisrkJwpDHUki+vfBmEqQEWtxEOF8+fZbCM+nH
+yE6HtrXf6CvsdkvtLTxe4fpXQVwN9i1ylwszazhdw3LEskZBrnaV4sqxyiorCyuWVuix8BKBr46j
+1ehWuUouv6qr1KPQK6+qaNX4NbJwLBOOndsdVz3zqlQoCEMux0/0lpstYqalXUV0XvJOd/xwNTh4
+ZxmvXn1xGFdwTvez56JcYXFS8KG/X4qrBFWGVY/7nTSsPGnFlkBcjZG11YW8HqOfCUy0FdksQFzt
+GbErUNVV/pHvkVeVtFJcFY2KYo722eK1PK01elz1DG8B0WKWtxxvXKHdgqdfob4y869Ov/JMXv/q
+La8uxJUDFmcETQ3Lui48Z/uhx/z+J38fiRVKBnqo4r7rWLPyYWVmBqO0okSgb7IooJXtZmFpde0o
+ewXaq6/qKoOs3nglsFo2fY2ceHUFzSDnBMNmG5tUpbXGAFeDxdiZ7G0EpngfokZkgXu46WPR9PvB
+x2rmW4W8AmCV4Ar6Mr0iX8MKAIvV1e9ncZVClWUVGyzQDohpQC8PaB2BJhEIBnai1aU5bQWFK6pb
+fWgX2yxOnh8DcaVG9ty9V7hQVbvPrqTE3MlzhScsHDvFIsYFURijHjna0+tHZVpLGPLoFF/cF8bJ
+cFHd1aXg3Jo+Fk2/HzqsfVurVxXwCgVWKa7AdJFyCXKnC892wWUs0Fa/76urNKfselaJsPJgRXlA
+X1pJaGV6L2EqEGh1S9yN1tHWqq7yge3hmZat0djFc0WnKxw7dwKuBkvCkxWSNrxZdQdI4VF09Ji7
+3a6IGjA3ioXsy9URKwxF08ei6fcLDmz1XjP9KskHOsNFBa4GW4M/p9a3toaVARYlBTEVCP8YdfWf
+MrQyKUCbBPSVlQ8rqlrxbCtrCcSl7qGXhdco0HQK9EyBJ9/V9Y0p27/iKhCnzovSwme1o+dqsnA1
+6GH6t2BpwTHB1bgkBCsbkJUMX00fi6bfLzg0tAdy/crOv0oMglW4gl3unfkTnIhlgGWLWF5SELVV
+GFcOVVCwSrKAJg2YwMpWrZy0ctOtymmFM67GoXAFQVJchW6+jise0me1o+dq0nA12OxYUlSbZsQh
+l71kNtpKeFfJRFK9rWTJhaKzFJ5Aj0Z2c6T7703PFyZDOxkuBLgabO3d++foE7TAyuYEAVf4Saur
+hFSoq5hVlAVMwcrkAVlaZRKBoK2gB3uJtgJa/VV8nqXRLVr4ZcVVMDSdFrAEJgs+qKbPZeFVF77q
+x9+kwtGr7wOb6dJjUGWy4JMVhrybpzy9106jIbkDpK9rBcFo+lg0/X7hNdrag/oK+lvQ8sLnXwAT
+sGjBxivPlOCKdrv0598JEIs0FsEqSQb6oPJQlbAKDBasrBJYsX3dJgJ9S2CyZIiXCbSmwJOv7+O2
+lPyG4qogSqtdvZELE4GKq5KBL5qjS8uSYbTWNuuChcvGC1eDQWc3tySCzaRVC29xneEKpl8dRryi
+5YV5wjAnBMW4ImK9D5yC1tduqlhgvMioq3wG0OoqK6wCsMKqFbe0pUSgswRiD3a7ZIhrZuFo9eFx
+MAXSOK24KoL6ovB9WPKEetssL0neIlRdlYY1GleDQVceA6lUFt5N8puj0ZaLs5G3bXubxzwA4XNs
+ipum3y+JfIZXPAELBFYMrgb79g3+HupY2aRgHleQ/bP5P4cqYhUKK2phwcqK3euetCL/Ondg58nB
+pbQaE5uF4qr8ke+g5LEeNdB29lwJx86og6VYCke1wrh3dmDw0tqFwBJKq3FTV/ie2teEtPQtsSDT
+oqUPZtPHoun3yw7O45UxCFIBKwpXvP/FP3/FbxuJ9SYqY2VwZepUXrXKFKyQVUZY5WGVklZJ2Sqo
+rcyEq9Eud58Otqqrkpuv7RFuTfoqbo6ps+eqMyqMMa5ghG67ghVzPYUhb6SZ4r7cwdtY1eWfi38B
+CpxT08ei6fdLw+zxyitg1cAVIevv/+gnHLMyuGJOGV+F9VaQrkoJK09Z+VWrJBGYmCx4gSvT1tZN
+Dx4XUyBFXXFVevO1mjSJnsXf2XMlHDvjB5eq8cr8/SjUFf5muyP0xmIEH4Qhj9hj402Xhl3VZwsm
+p0mmxgvOqulj0fT75YeY8IoLWJQQrIkrWBeLmPW+n3jrm96UwRXZ/+yHMoApVjlhxWlAZ7FwVSub
+CHRlqzCtrj04NoUrxVX1wzEvHGcqB+qowY2Pq7PnSnhOOw5XgxZH6IW46AhDXn1DtrlFi+GovP/n
+WoJV88eis8eKL43hFRsuuIPgpbVxRXvcB8T4L/9z9U9e8aIX/fb/ZYzsX8iQimSVzQEyq1BYBWDF
+HguXCEzKViFtNTYWdo6tqqvKx3++jS4XNWDV/LnsX8RUDlq8Qf8H5n6xpRE6ElZjZWT3o7807KeG
+1R6smj8WHeOKeeV3uPjaBc1wlVyw7+3bZ3FlBJUVVS4FaNwV1l9hlRUVrYzFAmFFTQIxEejKVtSD
+nRe4cpnAMaOV4qqSVrDB4nKzrMlaLVg1fy77p8L44wo8F5uNR+hoWI0truAW2Wy7pJe/CWrEq+S5
+bIqbpt+vHDJ8XlFC8Iy2cAU/ncYVaSoPVUZXWWHlwYrd605akSPQJAKPv8pLBI4zrRRXlfcebbDU
+4JmeW43wrqcOp7PnSpiZikt34aFvB1zBYa408XHXe/kQhlx2O7a8VSv5g8JLv7YcU+MTnFrTx6Lp
+96sPEXhlJmCZhGAHuPqYAZUxrCeudZcEJFbhtGCaF+zDykormwj0y1aorXiBK+jCXn2q/W6hyUBp
+vBdrpU3WNho4dzt7roRjZ/zduk1wBYJ5taamWN+s9/IhDLn0bmx5uyavY+XXfLa1kpU75aaPRdPv
+C2J/cD/zyrQQvKQLXPG8KvfhchWzCitWLKzCsPoaSqskEZimFawYYmj1YcGZ9ruJ4ioi3ourwkHH
+PMFrGysRe89v2tlzJTyNHYwrTPHGE2t9WFsoCEPe6H5p9OXF5cY50hy41ldrx2s7JwPh2LeeiLzi
+AhY4LjrAVYBUaVaRGRCFlaes3MxgNzWYEoEZk4Wl1Th5Ahvd2xP75aWVZeFr+cKwga6a2Pj2e+KL
+m7PyquRCJ2Nvvydc/msz0ntbJKK7YdU4xavsWLaWgQJWYF3RFa6spErJKtRVibDKwArzgEFplZgs
+mFZ/MX7aartc+zE7zvnhRimz5maH8cJkzM5xYg5nZrP8YtLQvDApF3RxtUlZz2FsbaNmznTn3HZb
+qzckAqt9XK1ZU4UjFacAmVWesHI1K/YDYh4wLK2sJZBpNW6ewJ1zY4zmTGbmV4ezCwv+2/nawsLG
+cFNJNZoL0uRX5zfhWgY1w/rCcHPCZPL8UJi5DIustdnVCQtYwZ13/bcMr44/vn1cfcGrVJliVYpV
+Lgto3IAMK3avgyHQ2NdTiUA2sCutmgwk+l2NQG8RWJyfXxm6z8r85L55zKwKNGfAsb48aWwvuzdn
+7rQCq31crZGlwtoqPFmFBSvDKhJWZF33YWUb2kLVyngsuO+S0qq3cUZ/SCOgEWg7AqA5F4SV2qn1
+2eGKiqrUFdi39+Aew6sFni3VzHnFOzfzrtY49ccfTADaFKDHqhysqGiF7nVaLMSTVl4iEDOBN+qV
+bPtZ0v1pBDQCPURgEag1XFgIJggh/T07HK7M1zP393DwI/6Jfc8BXoHjon1c/ZvHKSIVqSqSVdS+
+wggrX1mZohXlATPSyswNNpbAGw9+T02BI75z9Oc1AhqBhhGAbKn7dOFRb3h44/f1rdVvocDqAFes
+qABUQCoPVYZVVLFiVpmaVR5WbF/PJQJPvuvg+MVRj0gjoBHQCGgEOo7AzJ03H3ZYB7hiTjGojKpC
+VBldxRWrNKzYYZHKA1LVykoro63ugy7w+tEIaAQ0AhqBCYvA1t6DT7zhhg5wZTjF6T/OACKquF6V
+E1bWDujlAfPSihov6XSrCbtD9XQ1AhoBjYCLwOq3nti61eLfLKYMqSyqUqwi5zpmAdFgwcrKs1ig
+tCKPReJf1+lWettqBDQCGoEJjsDemeVucIWKyogqVFUWVZwDZFaVwMqvWjmTxQRfJj11jYBGQCMw
+8RHYt2+lbSP7Z62ngvN/Caocq1hYBZUV5AFd1cpIK0oEatlq4m9VDYBGQCMw4RHYt+/+Ybvzrj5r
+6lSWVOSsQFSxrvJYlUsDGlglM4ONtPqrmyb8KunpawQ0AhoBjQCsXr+y0eY04c8aQcWuCg9VhlWU
+BPxcUrIyNSsyr3PRyqtakbS68X6dbKU3qkZAI6AR0AigwGqxq8VnE06xqEJVlaAKWEX2CuOvSMOK
+3eum6ZKRVif/nl4ijYBGQCOgEdAIUAT+Sxszq00Tps86RZWQiqwVXK8CVnES0JgBueESKSv2AxKs
+qKEtSatrr9+rF0kjoBHQCGgENALtRcDiyikqlFRsAiRUcQ4wYRUKqxCsyGJhpdV9BzUR2N4l0j1p
+BDQCGgGNgGtx+++nMqYcqYyqYllldZVlVU5ZWVhZaaWdLPTe0ghoBDQCGoFWI2DU1b8bPWU1FSYA
+WVURqjAHSKxCYRWCVZIHPFmlVasXSHemEdAIaAQ0AhgBiyvHKQQVkcqhKsQqr2bFRSubB7xxfkul
+ld5aGgGNgEZAI9B2BCyuiFIWVEgqVlWEqkRXGWFF1nU2WKRh9Ve3tH18uj+NgEZAI6AR0Ah46grl
+lJFUllQeqigH6Fhl5ln5sKKiFeQBVVnpXaUR0AhoBDQCXUTAqKuvoJ4ygsqJKlZVXK9KWFUIqzvv
+7+IAdZ8aAY2ARkAjoBFwtauvcOrPZv9M/s9DFc6xMrOsMAuYV1Z3Xq/mdb2hNAIaAY2ARqCrCFh1
+RTUq/hhNxaKKZFWKVVyycjUrTgNe++EtpVVX10j3qxHQCGgENALWGfiVhFIu/WdQlWVVIqxsDwuA
+1V6Fld5MGgGNgEZAI9BhBIy6+peMpGJR5WQVOwFNEjARVqysbvywsqrDK6S71ghoBDQCGgGIgMWV
+yfzZ7J8lFcyvIlSlWMXTrJhVJ2vNSu8jjYBGQCOgEeg+Ah6uWE85TYXGCosqT1chqxys/uqu+7Vm
+1f1F0l/QCGgENAIaAYurmz1MEaiYVEZWWXOFZZXxV9yirWz1DtIIaAQ0AhqBXiJgcPVF8qkzpzxS
+oaoiVGG9Ks2qv7pLneu9XCH9EY2ARkAjoBFIaldf9AUVaSoyViSoSrPq5D0fPrilaUC9gzQCGgGN
+gEagrwhYdWVSf8QpAhWTilQVoQrrVdZdoUnAvi6P/o5GQCOgEdAIcAQsrghTzCkDKh9VHqtQV2nw
+NAIaAY2ARkAj0G8ELK58TFlRxaqKUGVmWN13k2YA+70++msaAY2ARkAjkFJXuzj3x8k/m//LoOqg
+xkwjoBHQCGgENAKjiYBVVxZTRlFZUcWr2e/5vesVVaO5PvqrGgGNgEZAI+Crq2sTTHHyjxOA1955
+3y0rSiq9VzQCGgGNgEZgxBHYt7pM+upak/djTt145533/d4t18+P+OD05zUCGgGNgEZAI5CKwP3z
+15uPIkpvDY2ARkAjoBEY2whs6QIgY3tt9MA0AhoBjYBGQCOgEdAIaAQ0AhoBjYBGQCOgEdAIaAQ0
+AhoBjYBGQCOgEdAIaAQ0AhoBjYBGQCOgEdAIaAQ0AhoBjYBGQCOgEdAIaAQ0AhoBjUCjCPz/DgER
+G8lL0jgAAAAASUVORK5CYIJ=
+</w:binData>
+                  <v:shape id="Picture 1" o:spid="_x0000_i1026" type="#_x0000_t75" alt="Premier-Oil_2-col" style="width:150pt;height:25.5pt;visibility:visible;mso-position-horizontal-relative:char;mso-position-vertical-relative:line">
+                    <v:imagedata src="wordml://03000002.png" o:title="Premier-Oil_2-col" />
+                  </v:shape>
+                </w:pict>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+      </w:tbl>
+      <w:p />
+      <w:p>
+        <w:pPr>
+          <w:rPr>
+            <w:sz w:val="22" />
+            <w:sz-cs w:val="22" />
+          </w:rPr>
+        </w:pPr>
+        <w:r>
+          <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="15" />
+        </w:r>
+      </w:p>
+      <w:p>
+        <w:pPr>
+          <w:ind w:first-line="720" />
+          <w:rPr>
+            <w:sz w:val="22" />
+            <w:sz-cs w:val="22" />
+          </w:rPr>
+        </w:pPr>
+        <w:r>
+          <w:rPr>
+            <w:sz w:val="22" />
+            <w:sz-cs w:val="22" />
+          </w:rPr>
+          <w:t>Our ref.:</w:t>
+        </w:r>
+      </w:p>
+      <w:p>
+        <w:pPr>
+          <w:ind w:first-line="720" />
+          <w:rPr>
+            <w:sz w:val="22" />
+            <w:sz-cs w:val="22" />
+          </w:rPr>
+        </w:pPr>
+        <w:r>
+          <w:rPr>
+            <w:sz w:val="22" />
+            <w:sz-cs w:val="22" />
+          </w:rPr>
+          <w:t>Date  : {mcrp_createdDate}</w:t>
+        </w:r>
+      </w:p>
+      <w:p>
+        <w:pPr>
+          <w:rPr>
+            <w:sz w:val="22" />
+            <w:sz-cs w:val="22" />
+          </w:rPr>
+        </w:pPr>
+      </w:p>
+      <wx:sub-section>
+        <w:p>
+          <w:pPr>
+            <w:jc w:val="center" />
+            <w:outlineLvl w:val="0" />
+            <w:rPr>
+              <w:b />
+              <w:sz w:val="28" />
+              <w:sz-cs w:val="28" />
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:b />
+              <w:sz w:val="28" />
+              <w:sz-cs w:val="28" />
+            </w:rPr>
+            <w:t>INTER-MEMO</w:t>
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:noProof />
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:pict>
+              <v:rect id="_x0000_s1111" style="position:absolute;margin-left:362.15pt;margin-top:11.95pt;width:135.65pt;height:23.75pt;z-index:1" strokeweight="1.25pt">
+                <v:textbox style="mso-next-textbox:#_x0000_s1111">
+                  <w:txbxContent>
+                    <w:p>
+                      <w:pPr>
+                        <w:jc w:val="center" />
+                        <w:rPr>
+                          <w:b />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:b />
+                        </w:rPr>
+                        <w:t>BY HAND</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:txbxContent>
+                </v:textbox>
+              </v:rect>
+            </w:pict>
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:rPr>
+              <w:noProof />
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+        </w:p>
+      </wx:sub-section>
+      <wx:sub-section>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:outlineLvl w:val="0" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:noProof />
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:t>Project Team </w:t>
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:t>65A, 30-4 Road, Ward 9, </w:t>
+          </w:r>
+          <st1:place w:st="on">
+            <st1:City w:st="on">
+              <w:r>
+                <w:rPr>
+                  <w:sz w:val="22" />
+                  <w:sz-cs w:val="22" />
+                </w:rPr>
+                <w:t>Vung Tau City</w:t>
+              </w:r>
+            </st1:City>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="22" />
+                <w:sz-cs w:val="22" />
+              </w:rPr>
+              <w:t>, </w:t>
+            </w:r>
+            <st1:country-region w:st="on">
+              <w:r>
+                <w:rPr>
+                  <w:sz w:val="22" />
+                  <w:sz-cs w:val="22" />
+                </w:rPr>
+                <w:t>Vietnam</w:t>
+              </w:r>
+            </st1:country-region>
+          </st1:place>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+        </w:p>
+      </wx:sub-section>
+      <wx:sub-section>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:jc w:val="both" />
+            <w:outlineLvl w:val="0" />
+            <w:rPr>
+              <w:b />
+              <w:sz w:val="24" />
+              <w:sz-cs w:val="24" />
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:b />
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:t>Att.:</w:t>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:b />
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:tab wx:wTab="270" wx:tlc="none" wx:cTlc="4" />
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:b />
+              <w:sz w:val="24" />
+              <w:sz-cs w:val="24" />
+            </w:rPr>
+            <w:t>{mcrp_assignedEmp}</w:t>
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="11" />
+            <w:t>Procurement Manager</w:t>
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:rPr>
+              <w:b />
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:b />
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:t>Cc</w:t>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:t>.:      </w:t>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:b />
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+              <w:highlight w:val="yellow" />
+            </w:rPr>
+            <w:t>Mr Nguyen Long Quan</w:t>
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:b />
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="11" />
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:t>Procurement Officer</w:t>
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:rPr>
+              <w:b />
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:rPr>
+              <w:sz w:val="16" />
+              <w:sz-cs w:val="16" />
+            </w:rPr>
+          </w:pPr>
+        </w:p>
+      </wx:sub-section>
+      <wx:sub-section>
+        <w:p>
+          <w:pPr>
+            <w:ind w:left="1440" w:hanging="720" />
+            <w:outlineLvl w:val="0" />
+            <w:rPr>
+              <w:b />
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:t>Sub.:</w:t>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:tab wx:wTab="240" wx:tlc="none" wx:cTlc="3" />
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:b />
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:t>MTO for </w:t>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:b />
+              <w:sz w:val="24" />
+              <w:sz-cs w:val="24" />
+            </w:rPr>
+            <w:t>{mcrp_intermemoSubject}</w:t>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:b />
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:tab wx:wTab="660" wx:tlc="none" wx:cTlc="10" />
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="11" />
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:t>Dear Mr Tam,</w:t>
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:t>Attached is MTO of  </w:t>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="24" />
+              <w:sz-cs w:val="24" />
+              <w:highlight w:val="yellow" />
+            </w:rPr>
+            <w:t>{mcrp_intermemoSubject}</w:t>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:t>,</w:t>
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:t>Please proceed with the procurement of above items as per matter of urgency</w:t>
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:left="720" />
+            <w:jc w:val="both" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:left="709" />
+            <w:jc w:val="both" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:t>If you have any queries, please do not hesitate to contact our Lead structural Engineer </w:t>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+              <w:highlight w:val="yellow" />
+            </w:rPr>
+            <w:t>Mr.Nguyen Khanh Toan</w:t>
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:t>Thank you for your co-operation.</w:t>
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:rPr>
+              <w:i />
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:i />
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:t>Note: Please try to follow the attachment:</w:t>
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:rPr>
+              <w:i />
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+        </w:p>
+        <w:tbl>
+          <w:tblPr>
+            <w:tblStyle w:val="TableGrid" />
+            <w:tblW w:w="0" w:type="auto" />
+            <w:tblInd w:w="815" w:type="dxa" />
+            <w:tblBorders>
+              <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+              <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+              <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+              <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+              <w:insideH w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+              <w:insideV w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+            </w:tblBorders>
+            <w:tblLook w:val="01E0" />
+          </w:tblPr>
+          <w:tblGrid>
+            <w:gridCol w:w="8613" />
+          </w:tblGrid>
+          <w:tr w:markId="attFileRow">
+            <w:tc>
+              <w:tcPr>
+                <w:tcW w:w="8613" w:type="dxa" />
+              </w:tcPr>
+              <w:p>
+                <w:pPr>
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:sz w:val="24" />
+                    <w:sz-cs w:val="24" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:i />
+                    <w:sz w:val="24" />
+                    <w:sz-cs w:val="24" />
+                  </w:rPr>
+                  <w:t>{mcrp_attachmentFile}</w:t>
+                </w:r>
+              </w:p>
+            </w:tc>
+          </w:tr>
+        </w:tbl>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:rPr>
+              <w:i />
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:rPr>
+              <w:i />
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:first-line="720" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+        </w:p>
+      </wx:sub-section>
+      <wx:sub-section>
+        <w:p>
+          <w:pPr>
+            <w:ind w:left="720" />
+            <w:jc w:val="both" />
+            <w:outlineLvl w:val="0" />
+            <w:rPr>
+              <w:i />
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+              <w:u w:val="single" />
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:i />
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+              <w:u w:val="single" />
+            </w:rPr>
+            <w:t>Package Clasification:</w:t>
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:left="720" />
+            <w:jc w:val="both" />
+            <w:rPr>
+              <w:i />
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+              <w:u w:val="single" />
+            </w:rPr>
+          </w:pPr>
+        </w:p>
+        <w:tbl>
+          <w:tblPr>
+            <w:tblW w:w="0" w:type="auto" />
+            <w:jc w:val="center" />
+            <w:tblInd w:w="817" w:type="dxa" />
+            <w:tblLook w:val="01E0" />
+          </w:tblPr>
+          <w:tblGrid>
+            <w:gridCol w:w="2753" />
+            <w:gridCol w:w="3571" />
+            <w:gridCol w:w="2748" />
+          </w:tblGrid>
+          <w:tr>
+            <w:trPr>
+              <w:jc w:val="center" />
+            </w:trPr>
+            <w:tc>
+              <w:tcPr>
+                <w:tcW w:w="2753" w:type="dxa" />
+              </w:tcPr>
+              <w:p>
+                <w:pPr>
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:sz w:val="22" />
+                    <w:sz-cs w:val="22" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="22" />
+                    <w:sz-cs w:val="22" />
+                  </w:rPr>
+                  <w:t> </w:t>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:noProof />
+                    <w:sz w:val="22" />
+                    <w:sz-cs w:val="22" />
+                  </w:rPr>
+                  <w:pict>
+                    <v:rect id="_x0000_s1130" style="position:absolute;left:0;text-align:left;margin-left:87.15pt;margin-top:11.75pt;width:18pt;height:18pt;z-index:2;mso-position-horizontal-relative:text;mso-position-vertical-relative:text" />
+                  </w:pict>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="22" />
+                    <w:sz-cs w:val="22" />
+                  </w:rPr>
+                  <w:t>         </w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:sz w:val="22" />
+                    <w:sz-cs w:val="22" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="22" />
+                    <w:sz-cs w:val="22" />
+                  </w:rPr>
+                  <w:t>      Top-urgent</w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:sz w:val="22" />
+                    <w:sz-cs w:val="22" />
+                  </w:rPr>
+                </w:pPr>
+              </w:p>
+            </w:tc>
+            <w:tc>
+              <w:tcPr>
+                <w:tcW w:w="3571" w:type="dxa" />
+              </w:tcPr>
+              <w:p>
+                <w:pPr>
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:sz w:val="22" />
+                    <w:sz-cs w:val="22" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:noProof />
+                    <w:sz w:val="22" />
+                    <w:sz-cs w:val="22" />
+                  </w:rPr>
+                  <w:pict>
+                    <v:rect id="_x0000_s1131" style="position:absolute;left:0;text-align:left;margin-left:102.5pt;margin-top:12pt;width:18pt;height:18pt;z-index:3;mso-position-horizontal-relative:text;mso-position-vertical-relative:text" />
+                  </w:pict>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="22" />
+                    <w:sz-cs w:val="22" />
+                  </w:rPr>
+                  <w:t>      </w:t>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:sz w:val="22" />
+                    <w:sz-cs w:val="22" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="22" />
+                    <w:sz-cs w:val="22" />
+                  </w:rPr>
+                  <w:t>            Urgent</w:t>
+                </w:r>
+              </w:p>
+            </w:tc>
+            <w:tc>
+              <w:tcPr>
+                <w:tcW w:w="2748" w:type="dxa" />
+              </w:tcPr>
+              <w:p>
+                <w:pPr>
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:sz w:val="22" />
+                    <w:sz-cs w:val="22" />
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:noProof />
+                    <w:sz w:val="22" />
+                    <w:sz-cs w:val="22" />
+                  </w:rPr>
+                  <w:pict>
+                    <v:rect id="_x0000_s1132" style="position:absolute;left:0;text-align:left;margin-left:67.95pt;margin-top:12pt;width:18pt;height:18pt;z-index:4;mso-position-horizontal-relative:text;mso-position-vertical-relative:text" />
+                  </w:pict>
+                </w:r>
+              </w:p>
+              <w:p>
+                <w:pPr>
+                  <w:jc w:val="both" />
+                  <w:rPr>
+                    <w:sz w:val="22" />
+                    <w:sz-cs w:val="22" />
+                  </w:rPr>
+                </w:pPr>
+                <st1:place w:st="on">
+                  <st1:City w:st="on">
+                    <w:r>
+                      <w:rPr>
+                        <w:sz w:val="22" />
+                        <w:sz-cs w:val="22" />
+                      </w:rPr>
+                      <w:t>Normal</w:t>
+                    </w:r>
+                  </st1:City>
+                </st1:place>
+              </w:p>
+            </w:tc>
+          </w:tr>
+        </w:tbl>
+        <w:p>
+          <w:pPr>
+            <w:ind w:left="720" />
+            <w:jc w:val="both" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:t>     </w:t>
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:left="720" />
+            <w:jc w:val="both" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:t>Prepared by</w:t>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:tab wx:wTab="315" wx:tlc="none" wx:cTlc="4" />
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="11" />
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="11" />
+            <w:t>               Checked by</w:t>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:tab wx:wTab="135" wx:tlc="none" wx:cTlc="1" />
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="11" />
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="11" />
+            <w:t>             Approved by</w:t>
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:left="720" />
+            <w:jc w:val="both" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:ind w:left="720" />
+            <w:jc w:val="both" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:jc w:val="both" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+          </w:pPr>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:jc w:val="both" />
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+              <w:highlight w:val="yellow" />
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+            </w:rPr>
+            <w:t>             </w:t>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+              <w:highlight w:val="yellow" />
+            </w:rPr>
+            <w:t>Nguyen Khanh Toan</w:t>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+              <w:highlight w:val="yellow" />
+            </w:rPr>
+            <w:tab wx:wTab="135" wx:tlc="none" wx:cTlc="1" />
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+              <w:highlight w:val="yellow" />
+            </w:rPr>
+            <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="11" />
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+              <w:highlight w:val="yellow" />
+            </w:rPr>
+            <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="11" />
+            <w:t> Nguyen Minh Tuan</w:t>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+              <w:highlight w:val="yellow" />
+            </w:rPr>
+            <w:tab wx:wTab="270" wx:tlc="none" wx:cTlc="4" />
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+              <w:highlight w:val="yellow" />
+            </w:rPr>
+            <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="11" />
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="22" />
+              <w:sz-cs w:val="22" />
+              <w:highlight w:val="yellow" />
+            </w:rPr>
+            <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="11" />
+            <w:t>     Nguyen Duc Thien</w:t>
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:jc w:val="both" />
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:highlight w:val="yellow" />
+            </w:rPr>
+            <w:t> </w:t>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:highlight w:val="yellow" />
+            </w:rPr>
+            <w:tab wx:wTab="675" wx:tlc="none" wx:cTlc="14" />
+            <w:t> Lead structure Engineer </w:t>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:highlight w:val="yellow" />
+            </w:rPr>
+            <w:tab wx:wTab="150" wx:tlc="none" wx:cTlc="2" />
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:highlight w:val="yellow" />
+            </w:rPr>
+            <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="15" />
+            <w:t>            Deputy Engineering Manager</w:t>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:highlight w:val="yellow" />
+            </w:rPr>
+            <w:tab wx:wTab="690" wx:tlc="none" wx:cTlc="14" />
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:highlight w:val="yellow" />
+            </w:rPr>
+            <w:tab wx:wTab="720" wx:tlc="none" wx:cTlc="15" />
+            <w:t>         Project Manager</w:t>
+          </w:r>
+        </w:p>
+        <w:sectPr>
+          <w:ftr w:type="odd">
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Footer" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="8640" />
+                  <w:tab w:val="right" w:pos="10350" />
+                </w:tabs>
+                <w:rPr>
+                  <w:i />
+                  <w:sz w:val="18" />
+                  <w:sz-cs w:val="18" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:i />
+                  <w:sz w:val="18" />
+                  <w:sz-cs w:val="18" />
+                </w:rPr>
+                <w:tab wx:wTab="4320" wx:tlc="none" wx:cTlc="95" />
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:i />
+                  <w:sz w:val="18" />
+                  <w:sz-cs w:val="18" />
+                </w:rPr>
+                <w:tab wx:wTab="5220" wx:tlc="none" wx:cTlc="115" />
+                <w:t>Page </w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="PageNumber" />
+                  <w:i />
+                  <w:sz w:val="18" />
+                  <w:sz-cs w:val="18" />
+                </w:rPr>
+                <w:fldChar w:fldCharType="begin" />
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="PageNumber" />
+                  <w:i />
+                  <w:sz w:val="18" />
+                  <w:sz-cs w:val="18" />
+                </w:rPr>
+                <w:instrText> PAGE </w:instrText>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="PageNumber" />
+                  <w:i />
+                  <w:sz w:val="18" />
+                  <w:sz-cs w:val="18" />
+                </w:rPr>
+                <w:fldChar w:fldCharType="separate" />
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="PageNumber" />
+                  <w:i />
+                  <w:noProof />
+                  <w:sz w:val="18" />
+                  <w:sz-cs w:val="18" />
+                </w:rPr>
+                <w:t>1</w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="PageNumber" />
+                  <w:i />
+                  <w:sz w:val="18" />
+                  <w:sz-cs w:val="18" />
+                </w:rPr>
+                <w:fldChar w:fldCharType="end" />
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="PageNumber" />
+                  <w:i />
+                  <w:sz w:val="18" />
+                  <w:sz-cs w:val="18" />
+                </w:rPr>
+                <w:t> of </w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="PageNumber" />
+                  <w:i />
+                  <w:sz w:val="18" />
+                  <w:sz-cs w:val="18" />
+                </w:rPr>
+                <w:fldChar w:fldCharType="begin" />
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="PageNumber" />
+                  <w:i />
+                  <w:sz w:val="18" />
+                  <w:sz-cs w:val="18" />
+                </w:rPr>
+                <w:instrText> NUMPAGES </w:instrText>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="PageNumber" />
+                  <w:i />
+                  <w:sz w:val="18" />
+                  <w:sz-cs w:val="18" />
+                </w:rPr>
+                <w:fldChar w:fldCharType="separate" />
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="PageNumber" />
+                  <w:i />
+                  <w:noProof />
+                  <w:sz w:val="18" />
+                  <w:sz-cs w:val="18" />
+                </w:rPr>
+                <w:t>1</w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="PageNumber" />
+                  <w:i />
+                  <w:sz w:val="18" />
+                  <w:sz-cs w:val="18" />
+                </w:rPr>
+                <w:fldChar w:fldCharType="end" />
+              </w:r>
+            </w:p>
+          </w:ftr>
+          <w:pgSz w:w="11907" w:h="16840" />
+          <w:pgMar w:top="567" w:right="833" w:bottom="567" w:left="578" w:header="720" w:footer="520" w:gutter="0" />
+          <w:cols w:space="720" />
+        </w:sectPr>
+      </wx:sub-section>
+    </wx:sect>
+  </w:body>
+</w:wordDocument>

@@ -1,0 +1,75 @@
+th {
+    text-align:center;
+    vertical-align:top;
+    padding:2px 4px !important;
+}
+
+thead tr {
+    background-color:#fc0;
+}
+
+th.sorted {
+    background-color:orange;
+}
+
+th a,th a:visited {
+    color:#000;
+}
+
+th a:hover {
+    text-decoration:underline;
+    color:#000;
+}
+
+th.sorted a,th.sortable a {
+    background-position:right;
+    display:block;
+    width:100%;
+    text-align:center;
+}
+
+th.sortable a {
+    background-image:url(../images/arrow_off.png);
+    background-repeat:no-repeat;
+}
+
+th.order1 a {
+    background-image:url(../images/arrow_down.png);
+    background-repeat:no-repeat;
+}
+
+th.order2 a {
+    background-image:url(../images/arrow_up.png);
+    background-repeat:no-repeat;
+}
+
+tr.odd {
+    background-color:#fff;
+}
+
+tr.tableRowEven,tr.even {
+    background-color:#fea;
+}
+
+span.pagebanner {
+        font-family:Tahoma;
+        font-size:10pt;
+        color:#000080;
+	background-color: #eee;
+	border: 1px dotted #999;
+	padding: 2px 4px 2px 4px;
+	/*width: 79%;*/
+	margin-top: 10px;
+	display: block;
+	border-bottom: none;
+}
+
+span.pagelinks {
+	background-color: #eee;
+	border: 1px dotted #999;
+	padding: 2px 4px 2px 4px;
+	/*width: 79%;*/
+	display: block;
+	border-top: none;
+	margin-bottom: -5px;
+}

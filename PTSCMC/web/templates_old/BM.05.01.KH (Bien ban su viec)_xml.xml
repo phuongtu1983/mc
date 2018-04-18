@@ -1,0 +1,18 @@
+<root>
+	<mcrp_number></mcrp_number>
+	<mcrp_orgName></mcrp_orgName>
+	<mcrp_dd></mcrp_dd>
+	<mcrp_MM></mcrp_MM>
+	<mcrp_yyyy></mcrp_yyyy>
+	<mcrp_time></mcrp_time>
+	<mcrp_location></mcrp_location>
+	<mcrp_managerEmpName></mcrp_managerEmpName>
+	<mcrp_managerEquipmentEmpName></mcrp_managerEquipmentEmpName>
+	<mcrp_usedEmpName></mcrp_usedEmpName>	
+	<mcrp_equName></mcrp_equName>	
+	<mcrp_usedCode></mcrp_usedCode>
+	<mcrp_manageCode></mcrp_manageCode>
+	<mcrp_comment></mcrp_comment>
+	<checkbox1 type="checkbox" >false</checkbox1>
+	<checkbox2 type="checkbox" >false</checkbox2>
+</root>

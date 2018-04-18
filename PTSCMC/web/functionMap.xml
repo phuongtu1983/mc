@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <!-- VENDOR -->
+    <message content="vendorPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadVendorList</func>
+    </message>
+    <message content="vendorDetail">
+        <parentPage>index.do</parentPage>
+        <func>vendorForm</func>
+        <!--
+        <params>
+            <venId/>
+        </params>
+        -->
+    </message>
+    <!-- VENDOR EVALUATE -->
+    <message content="vendorEvalList">
+        <parentPage>index.do</parentPage>
+        <func>loadVendorEvalListFromXml</func>
+        <!--
+        <params>
+            <venId/>
+        </params>
+        -->
+    </message>
+    <message content="vendorEvaluateDetail">
+        <parentPage>index.do</parentPage>
+        <func>venEvalFormFromXml</func>
+        <!--
+        <params>
+            <venEvalId/>
+        </params>
+        -->
+    </message>
+    <!-- VENDOR CONTACT -->
+    <message content="vendorContactList">
+        <parentPage>index.do</parentPage>
+        <func>loadVendorContactListFromXml</func>
+        <!--
+        <params>
+            <venId/>
+        </params>
+        -->
+    </message>
+    <message content="vendorContactDetail">
+        <parentPage>index.do</parentPage>
+        <func>loadVendorContactFromXml</func>
+        <!--
+        <params>
+            <venContactId/>
+        </params>
+        -->
+    </message>
+    <!-- VENDOR MATERIAL -->
+     <message content="vendorMaterialList">
+        <parentPage>index.do</parentPage>
+        <func>loadVendorMaterialListFromXml</func>
+        <!--
+        <params>
+            <venId/>
+        </params>
+        -->
+    </message>
+    <message content="vendorMaterialDetail">
+        <parentPage>index.do</parentPage>
+        <func>loadVendorMaterialFromXml</func>
+        <!--
+        <params>
+            <venMaterialId/>
+        </params>
+        -->
+    </message>
+    <message content="SpeDetail">
+        <parentPage>index.do</parentPage>
+        <func>loadSpeFromXml</func>
+        <!--
+        <params>
+            <venSpeId/>
+        </params>
+        -->
+    </message>
+    <!-- CRITERION -->
+    <message content="criterionPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadCriterionList</func>
+    </message>
+    <message content="criterionDetail">
+        <parentPage>index.do</parentPage>
+        <func>criterionForm</func>
+        <!--
+        <params>
+            <criterionId/>
+        </params>
+        -->
+    </message>
+    
+    <!-- STORE -->
+    <message content="storePanel">
+        <parentPage>index.do</parentPage>
+        <func>loadStoreList</func>
+    </message>
+
+    <!-- PROJECT -->
+    <message content="projectPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadProjectList</func>
+    </message>
+    
+    <!-- PROJECT STORE-->
+    <message content="projectStorePanel">
+        <parentPage>index.do</parentPage>
+        <func>loadProjectStoreList</func>
+    </message>
+    
+    <!-- POSITION -->
+    <message content="positionPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadPositionList</func>
+    </message>
+    
+    <!-- ORGANIZATION -->
+    <message content="organizationPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadOrganizationList</func>
+    </message>
+    
+    <!-- EMPLOYEE -->
+    <message content="employeePanel">
+        <parentPage>index.do</parentPage>
+        <func>loadEmployeeList</func>
+    </message>
+    
+    <!-- UNIT -->
+    <message content="unitPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadUnitList</func>
+    </message>
+    <message content="unitDetail">
+        <parentPage>index.do</parentPage>
+        <func>unitForm</func>
+        <!--
+        <params>
+            <unitId/>
+        </params>
+        -->
+    </message>
+    <!-- END UNIT -->
+
+    <!-- ORIGIN -->
+    <message content="originPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadOriginList</func>
+    </message>
+    <message content="originDetail">
+        <parentPage>index.do</parentPage>
+        <func>OriginForm</func>
+        <!--
+        <params>
+            <oriId/>
+        </params>
+        -->
+    </message>
+    <!-- END ORIGIN -->
+
+    <!-- MATERIAL -->
+    <message content="materialPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadMaterialList</func>
+    </message>
+    <message content="materialDetail">
+        <parentPage>index.do</parentPage>
+        <func>materialForm</func>
+        <!--
+        <params>
+            <matId/>
+        </params>
+        -->
+    </message>
+    <message content="materialPricePanel">
+        <parentPage>index.do</parentPage>
+        <func>loadMaterialPriceList</func>
+    </message>
+    <!-- END UNIT -->
+    <!-- REQUEST -->
+    <message content="requestPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadRequestList</func>
+    </message>
+    <message content="materialInContractPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadMaterialListInContract</func>
+    </message>
+    <!-- INTERMEMO -->
+    <message content="intermemoPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadIntermemoList</func>
+    </message>
+    <!-- CONTRACT -->
+    <message content="contractPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadContractList</func>
+    </message>
+    <!-- CONTRACT -->
+    <message content="contractPrinciplePanel">
+        <parentPage>index.do</parentPage>
+        <func>loadContractPrincipleList</func>
+    </message>
+    <!-- ORDER -->
+    <message content="orderPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadOrderList</func>
+    </message>
+     <!-- CONTRACT FOLLOW -->
+    <message content="contractFollowPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadContractFollowList</func>
+    </message>
+    <!-- TENDER LETTER -->
+    <message content="tenderLetterDetail">
+        <parentPage>index.do</parentPage>
+        <func>tenderLetterForm</func>
+    </message>
+     <!-- TENDER PLAN -->
+    <message content="tenderplanPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadTenderPlanList</func>
+    </message>
+    <!-- DELIVERY -->
+    <message content="deliveryRequestPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadDeliveryRequestList</func>
+    </message>
+    <!-- DELIVERY -->
+    <message content="paymentPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadPaymentList</func>
+    </message>
+    <message content="importStorePanel">
+        <parentPage>index.do</parentPage>
+        <func>loadImportStoreList</func>
+    </message>
+     <!-- MRIR -->
+    <message content="mrirPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadMrirList</func>
+    </message>
+    <message content="mrirForm">
+        <parentPage>index.do</parentPage>
+        <func>mrirFormFromXML</func>
+    </message>
+    <message content="emrirForm">
+        <parentPage>index.do</parentPage>
+        <func>emrirFormFromXML</func>
+    </message>
+    <message content="msvForm">
+        <parentPage>index.do</parentPage>
+        <func>msvFormFromXML</func>
+    </message>
+    <!-- EMRIR -->
+    <message content="emrirPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadEmrirList</func>
+    </message>
+    <!-- MSV -->
+    <message content="mrvForm">
+        <parentPage>index.do</parentPage>
+        <func>mrvFormFromXML</func>
+    </message>
+    <message content="dmvForm">
+        <parentPage>index.do</parentPage>
+        <func>dmvFormFromXML</func>
+    </message>
+    <message content="edmvForm">
+        <parentPage>index.do</parentPage>
+        <func>edmvFormFromXML</func>
+    </message>
+     <message content="emsvForm">
+        <parentPage>index.do</parentPage>
+        <func>emsvFormFromXML</func>
+    </message>
+    <!-- OSD -->
+    <message content="osDPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadOsDList</func>
+    </message>
+    <!-- EOSD -->
+    <message content="eosDPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadEosDList</func>
+    </message>    
+    <!-- INVENTORY -->
+    <message content="inventoryPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadInventoryList</func>
+    </message>
+    <!-- MC -->
+    <message content="mcPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadMcList</func>
+    </message>
+    <!-- MCO -->
+    <message content="mcoPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadMcoList</func>
+    </message>       
+    <!-- EMC -->
+    <message content="emcPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadEmcList</func>
+    </message>
+    <!-- EMCO -->
+    <message content="emcoPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadEmcoList</func>
+    </message>
+    <!-- WEB -->
+    <message content="webPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadWebList</func>
+    </message>
+    <!-- GROUPMATERIAL -->
+    <message content="groupMaterialPanel">
+        <parentPage>index.do</parentPage>
+        <func>loadGroupMaterialList</func>
+    </message>
+</root>

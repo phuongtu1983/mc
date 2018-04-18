@@ -1,0 +1,30 @@
+<root>
+	<mcrp_appendix_number></mcrp_appendix_number>
+	<mcrp_day></mcrp_day>
+	<mcrp_month></mcrp_month>
+	<mcrp_year></mcrp_year>
+	<mcrp_user></mcrp_user>
+	<mcrp_contract></mcrp_contract>
+	<mcrp_content></mcrp_content>
+	<mcrp_contract_date></mcrp_contract_date>
+	<mcrp_vendor></mcrp_vendor>
+	<mcrp_material></mcrp_material>
+	<mcrp_request></mcrp_request>
+	<mcrp_request_date></mcrp_request_date>
+	<mcrp_request_org></mcrp_request_org>
+	<mcrp_preAppendix></mcrp_preAppendix>
+	<mcrp_project></mcrp_project>
+	<mcrp_total></mcrp_total>
+	<mcrp_delivery></mcrp_delivery>
+	<mcrp_currency></mcrp_currency>
+	<mcrp_total_text></mcrp_total_text>
+	<mcrp_sum></mcrp_sum>
+	<mcrp_no2></mcrp_no2>
+	<mcrp_appendixs></mcrp_appendixs>
+	<mcrp_function></mcrp_function>
+	<matRow>
+		<mcrp_no1></mcrp_no1>
+		<mcrp_row_content></mcrp_row_content>
+		<mcrp_row_total></mcrp_row_total>
+	</matRow>
+</root>

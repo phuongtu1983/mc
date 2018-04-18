@@ -1,0 +1,27 @@
+<root>
+	<mcrp_orgName></mcrp_orgName>
+	<mcrp_explanation></mcrp_explanation>
+	<mcrp_carryOnDatePlan></mcrp_carryOnDatePlan>
+	<mcrp_carryOutHour></mcrp_carryOutHour>
+	<mcrp_carryOutMinute></mcrp_carryOutMinute>
+	<mcrp_carryOutDate></mcrp_carryOutDate>
+	<mcrp_day1></mcrp_day1>
+	<mcrp_month1></mcrp_month1>
+	<mcrp_year1></mcrp_year1>
+	<mcrp_day2></mcrp_day2>
+	<mcrp_month2></mcrp_month2>
+	<mcrp_year2></mcrp_year2>	
+	<mcoDetailRow1>
+		<mcrp_No1></mcrp_No1>
+		<mcrp_equName1></mcrp_equName1>
+		<mcrp_unit1></mcrp_unit1>
+		<mcrp_quantity1></mcrp_quantity1>
+		<mcrp_spec1></mcrp_spec1>
+	</mcoDetailRow1>
+	<checkbox1 type="checkbox" >false</checkbox1>
+	<checkbox2 type="checkbox" >false</checkbox2>
+	<checkbox3 type="checkbox" >false</checkbox3>
+	<checkbox4 type="checkbox" >false</checkbox4>
+	<checkbox5 type="checkbox" >false</checkbox5>
+	<checkbox6 type="checkbox" >false</checkbox6>
+</root>

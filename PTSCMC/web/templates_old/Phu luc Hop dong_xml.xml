@@ -1,0 +1,20 @@
+<root>
+	<mcrp_number></mcrp_number>
+	<mcrp_contract></mcrp_contract>
+	<mcrp_contract_date></mcrp_contract_date>
+	<mcrp_created_date></mcrp_created_date>
+	<mcrp_created_month></mcrp_created_month>
+	<mcrp_created_year></mcrp_created_year>
+	<mcrp_effected_date></mcrp_effected_date>
+	<mcrp_effected_month></mcrp_effected_month>
+	<mcrp_effected_year></mcrp_effected_year>
+	<mcrp_1></mcrp_1>
+	<mcrp_2></mcrp_2>
+	<mcrp_3></mcrp_3>
+	<mcrp_4></mcrp_4>
+	<mcrp_5></mcrp_5>
+	<mcrp_6></mcrp_6>
+	<mcrp_7></mcrp_7>
+	<mcrp_package></mcrp_package>
+	<mcrp_project></mcrp_project>
+</root>

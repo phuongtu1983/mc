@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<workbook>
+        	<worksheet name="Sheet1">
+			<loop startRow="1" endRow="1" items="datas" var="data" varType="com.venus.mc.importData.VendorDataBean">
+                        	<section startRow="1" endRow="1">
+                                    <mapping row="1" col="0">data.group</mapping>
+                                    <mapping row="1" col="1">data.name</mapping>
+                                    <mapping row="1" col="2">data.address</mapping>
+                                    <mapping row="1" col="3">data.phone</mapping>
+                                    <mapping row="1" col="4">data.fax</mapping>
+                                    <mapping row="1" col="5">data.web</mapping>
+                                    <mapping row="1" col="6">data.president</mapping>
+                                    <mapping row="1" col="7">data.presidentPhone</mapping>
+                                    <mapping row="1" col="8">data.presidentEmail</mapping>
+                                    <mapping row="1" col="9">data.presentative</mapping>
+                                    <mapping row="1" col="10">data.presentativePosition</mapping>
+                                    <mapping row="1" col="11">data.presentativePhone</mapping>
+                                    <mapping row="1" col="12">data.presentativeEmail</mapping>
+                                    <mapping row="1" col="13">data.taxCode</mapping>
+                                    <mapping row="1" col="14">data.lisence</mapping>
+                                    <mapping row="1" col="15">data.note</mapping>
+                                    <mapping row="1" col="16">data.evaluate</mapping>
+                                </section>
+                                <loopbreakcondition>
+                                    <rowcheck offset="0">
+                                        <cellcheck offset="0">This point is end of data import process</cellcheck>
+                                    </rowcheck>
+                                </loopbreakcondition>
+			</loop>
+		</worksheet>
+	</workbook>

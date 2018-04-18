@@ -1,0 +1,85 @@
+<root>
+	<checkbox1 type="checkbox" >false</checkbox1>
+	<checkbox2 type="checkbox" >false</checkbox2>
+	<checkbox3 type="checkbox" >false</checkbox3>
+	<checkbox4 type="checkbox" >false</checkbox4>
+	<checkbox5 type="checkbox" >false</checkbox5>
+	<checkbox6 type="checkbox" >false</checkbox6>
+	<checkbox7 type="checkbox" >false</checkbox7>
+	<checkbox8 type="checkbox" >false</checkbox8>
+	<mcrp_number></mcrp_number>
+	<mcrp_day></mcrp_day>
+	<mcrp_month></mcrp_month>
+	<mcrp_year></mcrp_year>
+	<mcrp_org></mcrp_org>
+	<mcrp_director></mcrp_director>
+	<mcrp_certificate></mcrp_certificate>
+	<mcrp_whichuse></mcrp_whichuse>
+	<mcrp_description></mcrp_description>
+	<mcrp_n1></mcrp_n1>
+	<mcrp_material></mcrp_material>
+	<mcrp_delivery_date></mcrp_delivery_date>
+	<mcrp_content></mcrp_content>
+	<mcrp_material_sum></mcrp_material_sum>
+	<mcrp_material_unit></mcrp_material_unit>
+	<mcrp_material_quantity></mcrp_material_quantity>
+	<mcrp_material_add_quantity></mcrp_material_add_quantity>
+	<requestMaterialRow>
+		<mcrp_n2></mcrp_n2>
+		<mcrp_material></mcrp_material>
+		<mcrp_material_cancel></mcrp_material_cancel>
+		<mcrp_code></mcrp_code>
+		<mcrp_unit></mcrp_unit>
+		<mcrp_prequan></mcrp_prequan>
+		<mcrp_addquan></mcrp_addquan>
+		<mcrp_providedate></mcrp_providedate>
+	</requestMaterialRow>
+	<checkbox_xl_ptckt type="checkbox" >false</checkbox_xl_ptckt>
+	<checkbox_xl_ptcns type="checkbox" >false</checkbox_xl_ptcns>
+	<checkbox_xl_pat type="checkbox" >false</checkbox_xl_pat>
+	<checkbox_xl_pktsx type="checkbox" >false</checkbox_xl_pktsx>
+	<checkbox_xl_xcklm type="checkbox" >false</checkbox_xl_xcklm>
+	<checkbox_xl_xdtd type="checkbox" >false</checkbox_xl_xdtd>
+	<checkbox_xl_pkh type="checkbox" >false</checkbox_xl_pkh>
+	<checkbox_xl_pptkd type="checkbox" >false</checkbox_xl_pptkd>
+	<checkbox_xl_pcl type="checkbox" >false</checkbox_xl_pcl>
+	<checkbox_xl_ptk type="checkbox" >false</checkbox_xl_ptk>
+	<checkbox_xl_xkct1 type="checkbox" >false</checkbox_xl_xkct1>
+	<checkbox_xl_xdvth type="checkbox" >false</checkbox_xl_xdvth>
+	<checkbox_xl_ptm type="checkbox" >false</checkbox_xl_ptm>
+	<checkbox_xl_phcth type="checkbox" >false</checkbox_xl_phcth>
+	<checkbox_xl_pxdct type="checkbox" >false</checkbox_xl_pxdct>
+	<checkbox_xl_xtbth type="checkbox" >false</checkbox_xl_xtbth>
+	<checkbox_xl_xkct2 type="checkbox" >false</checkbox_xl_xkct2>
+	<checkbox_xl_dbv type="checkbox" >false</checkbox_xl_dbv>
+	<checkbox_tk_ptckt type="checkbox" >false</checkbox_tk_ptckt>	
+	<checkbox_tk_ptm type="checkbox" >false</checkbox_tk_ptm>
+	<checkbox_tk_pptkd type="checkbox" >false</checkbox_tk_pptkd>
+	<checkbox_tk_pat type="checkbox" >false</checkbox_tk_pat>
+	<checkbox_tk_pktsx type="checkbox" >false</checkbox_tk_pktsx>
+	<checkbox_tk_ptk type="checkbox" >false</checkbox_tk_ptk>
+	<checkbox_tk_pkh type="checkbox" >false</checkbox_tk_pkh>
+	<checkbox_tk_ptcns type="checkbox" >false</checkbox_tk_ptcns>
+	<checkbox_tk_phcth type="checkbox" >false</checkbox_tk_phcth>
+	<checkbox_tk_pcl type="checkbox" >false</checkbox_tk_pcl>
+	<checkbox_tk_pxdct type="checkbox" >false</checkbox_tk_pxdct>
+	<checkbox_tk_xtbth type="checkbox" >false</checkbox_tk_xtbth>
+	<checkbox_tt_ptckt type="checkbox" >false</checkbox_tt_ptckt>
+	<checkbox_tt_ptcns type="checkbox" >false</checkbox_tt_ptcns>
+	<checkbox_tt_pat type="checkbox" >false</checkbox_tt_pat>
+	<checkbox_tt_pktsx type="checkbox" >false</checkbox_tt_pktsx>
+	<checkbox_tt_xcklm type="checkbox" >false</checkbox_tt_xcklm>
+	<checkbox_tt_xdtd type="checkbox" >false</checkbox_tt_xdtd>
+	<checkbox_tt_pkh type="checkbox" >false</checkbox_tt_pkh>
+	<checkbox_tt_pptkd type="checkbox" >false</checkbox_tt_pptkd>
+	<checkbox_tt_pcl type="checkbox" >false</checkbox_tt_pcl>
+	<checkbox_tt_ptk type="checkbox" >false</checkbox_tt_ptk>
+	<checkbox_tt_xkct1 type="checkbox" >false</checkbox_tt_xkct1>
+	<checkbox_tt_xdvth type="checkbox" >false</checkbox_tt_xdvth>
+	<checkbox_tt_ptm type="checkbox" >false</checkbox_tt_ptm>
+	<checkbox_tt_phcth type="checkbox" >false</checkbox_tt_phcth>
+	<checkbox_tt_pxdct type="checkbox" >false</checkbox_tt_pxdct>
+	<checkbox_tt_xtbth type="checkbox" >false</checkbox_tt_xtbth>
+	<checkbox_tt_xkct2 type="checkbox" >false</checkbox_tt_xkct2>
+	<checkbox_tt_dbv type="checkbox" >false</checkbox_tt_dbv>
+</root>

@@ -1,0 +1,19 @@
+<root>
+	<mcrp_proName></mcrp_proName>
+	<mcrp_eosdNumber></mcrp_eosdNumber>
+	<mcrp_emrirNumber></mcrp_emrirNumber>
+	<mcrp_createdDate1></mcrp_createdDate1>
+	<mcrp_description></mcrp_description>
+	<mcrp_createdEmpName></mcrp_createdEmpName>
+	<mcrp_createdDate2></mcrp_createdDate2>
+	<mcrp_correctAct></mcrp_correctAct>
+	<mcrp_actionBy></mcrp_actionBy>
+	<mcrp_dueDate></mcrp_dueDate>
+	<mcrp_closed></mcrp_closed>
+	<mcrp_closedDate></mcrp_closedDate>
+	<mcrp_note></mcrp_note>	
+	<checkbox1 type="checkbox" >false</checkbox1>
+	<checkbox2 type="checkbox" >false</checkbox2>
+	<checkbox3 type="checkbox" >false</checkbox3>
+	<checkbox4 type="checkbox" >false</checkbox4>
+</root>

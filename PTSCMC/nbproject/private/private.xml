@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/projects/PTSCMC/PTSCMC/src/java/com/venus/mc/material/ListMaterialPriceAction.java</file>
+            <file>file:/D:/projects/PTSCMC/PTSCMC/src/java/com/venus/mc/material/MaterialPriceReportPrintAction.java</file>
+            <file>file:/D:/projects/PTSCMC/PTSCMC/src/java/com/venus/mc/dao/ContractDAO.java</file>
+            <file>file:/D:/projects/PTSCMC/PTSCMC/src/java/com/venus/mc/material/SearchSimpleMaterialPriceAction.java</file>
+            <file>file:/D:/projects/PTSCMC/PTSCMC/src/java/com/venus/mc/library/materialnotcode/SearchSimpleMaterialPriceAction.java</file>
+            <file>file:/D:/projects/PTSCMC/PTSCMC/src/java/com/venus/mc/util/SQLSearchExpressionUtil.java</file>
+            <file>file:/D:/projects/PTSCMC/PTSCMC/src/java/com/venus/mc/dao/DnDAO.java</file>
+            <file>file:/D:/projects/PTSCMC/PTSCMC/web/process/purchasing/contract/order/orderdetail.jsp</file>
+            <file>file:/D:/projects/PTSCMC/PTSCMC/src/java/com/venus/mc/dao/MaterialDAO.java</file>
+            <file>file:/D:/projects/PTSCMC/PTSCMC/web/WEB-INF/struts-config.xml</file>
+            <file>file:/D:/projects/PTSCMC/PTSCMC/web/process/purchasing/contract/order/details.jsp</file>
+            <file>file:/D:/projects/PTSCMC/PTSCMC/web/js/purchasing.js</file>
+            <file>file:/D:/projects/PTSCMC/PTSCMC/src/java/com/venus/mc/process/purchasing/deliverynotice/DeleteDnDetailAction.java</file>
+            <file>file:/D:/projects/PTSCMC/PTSCMC/src/java/com/venus/mc/contract/ContractFormAction.java</file>
+            <file>file:/D:/projects/PTSCMC/PTSCMC/src/java/com/venus/mc/process/purchasing/deliverynotice/AddDnAction.java</file>
+        </group>
+    </open-files>
+</project-private>

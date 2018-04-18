@@ -1,0 +1,16 @@
+<root>
+	<mcrp_dd></mcrp_dd>
+	<mcrp_mm></mcrp_mm>
+	<mcrp_yyyy></mcrp_yyyy>
+	<mcrp_delivery></mcrp_delivery>
+	<mcrp_receive></mcrp_receive>	
+	<mcrp_time></mcrp_time>
+	<hdEquipmentRow>
+		<mcrp_no></mcrp_no>
+		<mcrp_equipment></mcrp_equipment>		
+		<mcrp_unit></mcrp_unit>
+		<mcrp_quantity></mcrp_quantity>		
+		<mcrp_description></mcrp_description>
+		<mcrp_comment></mcrp_comment>
+	</hdEquipmentRow>
+</root>

@@ -1,0 +1,59 @@
+.toggler {
+    padding-top:2px;
+}
+
+div.element {             
+    padding: 8px 4px 0 8px;
+}            
+
+div.element ul { 
+    padding: 0;
+    font-size: small;
+    margin: 3px 0 5px -0em;
+}
+
+div.element li {
+    list-style-type: none;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: 0 0.4em;
+    padding-left: 16px;
+    list-style-position: outside;
+    line-height: 1.2em;
+    
+}
+
+div.element ul li {
+    background-image: url(../images/list.png);
+    background-position: top left;
+}
+
+td {
+    text-align: left;
+    vertical-align: top;
+    font-family:Tahoma;
+    font-size:12px;
+    color: #1E1E1E;
+}
+
+a {	color: #11427A;	text-decoration: none; }
+a:hover { color: #038D00; text-decoration: none; }
+
+a.my1 {	color: #0C478A;	text-decoration: none; }
+a.my1:hover { color: #000000; text-decoration: none; }
+
+a.my2 {	color: #D27C33;	text-decoration: none; }
+a.my2:hover { color: #000000; text-decoration: none; }
+
+a.my3 {	color: #11427A;	text-decoration: none; }
+a.my3:link {	color: #11427A;	text-decoration: none; }
+a.my3:active {	color: #11427A;	text-decoration: none; }
+a.my3:visited {	color: #11427A;	text-decoration: none; }
+a.my3:hover { color: #FF621F; text-decoration: none; }
+
+a.my4 {	color: #FF621F;	text-decoration: none; }
+a.my4:hover { color: #11427A; text-decoration: none; }
+
+a.my5 {	color: #FF9119;	text-decoration: none; }
+a.my5:hover { color: #000000; text-decoration: none; }
+

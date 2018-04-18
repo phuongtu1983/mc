@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?mso-application progid="Word.Document"?>
+<w:wordDocument xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:ns1="http://schemas.openxmlformats.org/markup-compatibility/2006" w:macrosPresent="no" w:embeddedObjPresent="no" w:ocxPresent="no" xml:space="preserve">
+  <o:DocumentProperties>
+    <o:Title>DANH MỤC MÁY MÓC CHÀO GIÁ</o:Title>
+    <o:Author>Huyen</o:Author>
+    <o:LastAuthor>User</o:LastAuthor>
+    <o:Revision>3</o:Revision>
+    <o:TotalTime>4</o:TotalTime>
+    <o:LastPrinted>2010-04-15T02:45:00Z</o:LastPrinted>
+    <o:Created>2010-12-06T03:36:00Z</o:Created>
+    <o:LastSaved>2011-03-30T14:17:00Z</o:LastSaved>
+    <o:Pages>1</o:Pages>
+    <o:Words>30</o:Words>
+    <o:Characters>171</o:Characters>
+    <o:Lines>1</o:Lines>
+    <o:Paragraphs>1</o:Paragraphs>
+    <o:CharactersWithSpaces>200</o:CharactersWithSpaces>
+    <o:Version>11.5604</o:Version>
+  </o:DocumentProperties>
+  <w:fonts>
+    <w:defaultFonts w:ascii="Times New Roman" w:fareast="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" />
+  </w:fonts>
+  <w:styles>
+    <w:versionOfBuiltInStylenames w:val="4" />
+    <w:latentStyles w:defLockedState="off" w:latentStyleCount="156" />
+    <w:style w:type="paragraph" w:default="on" w:styleId="Normal">
+      <w:name w:val="Normal" />
+      <w:rsid w:val="00ED1613" />
+      <w:rPr>
+        <wx:font wx:val="Times New Roman" />
+        <w:sz w:val="26" />
+        <w:sz-cs w:val="26" />
+        <w:lang w:val="VI" w:fareast="EN-US" w:bidi="AR-SA" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:default="on" w:styleId="DefaultParagraphFont">
+      <w:name w:val="Default Paragraph Font" />
+      <w:semiHidden />
+    </w:style>
+    <w:style w:type="table" w:default="on" w:styleId="TableNormal">
+      <w:name w:val="Normal Table" />
+      <wx:uiName wx:val="Table Normal" />
+      <w:semiHidden />
+      <w:rPr>
+        <wx:font wx:val="Times New Roman" />
+      </w:rPr>
+      <w:tblPr>
+        <w:tblInd w:w="0" w:type="dxa" />
+        <w:tblCellMar>
+          <w:top w:w="0" w:type="dxa" />
+          <w:left w:w="108" w:type="dxa" />
+          <w:bottom w:w="0" w:type="dxa" />
+          <w:right w:w="108" w:type="dxa" />
+        </w:tblCellMar>
+      </w:tblPr>
+    </w:style>
+    <w:style w:type="list" w:default="on" w:styleId="NoList">
+      <w:name w:val="No List" />
+      <w:semiHidden />
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="CharCharCharCharCharCharCharCharCharCharCharCharCharCharCharChar">
+      <w:name w:val="Char Char Char Char Char Char Char Char Char Char Char Char Char Char Char Char" />
+      <w:basedOn w:val="Normal" />
+      <w:rsid w:val="00ED1613" />
+      <w:pPr>
+        <w:pStyle w:val="CharCharCharCharCharCharCharCharCharCharCharCharCharCharCharChar" />
+        <w:spacing w:after="160" w:line="240" w:line-rule="exact" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:h-ansi="Arial" />
+        <wx:font wx:val="Arial" />
+        <w:sz w:val="22" />
+        <w:sz-cs w:val="22" />
+        <w:lang w:val="EN-US" />
+      </w:rPr>
+    </w:style>
+  </w:styles>
+  <w:shapeDefaults>
+    <o:shapedefaults v:ext="edit" spidmax="3074" />
+    <o:shapelayout v:ext="edit">
+      <o:idmap v:ext="edit" data="1" />
+    </o:shapelayout>
+  </w:shapeDefaults>
+  <w:docPr>
+    <w:view w:val="print" />
+    <w:zoom w:percent="110" />
+    <w:doNotEmbedSystemFonts />
+    <w:proofState w:grammar="clean" />
+    <w:attachedTemplate w:val="" />
+    <w:defaultTabStop w:val="720" />
+    <w:drawingGridHorizontalSpacing w:val="130" />
+    <w:displayHorizontalDrawingGridEvery w:val="2" />
+    <w:punctuationKerning />
+    <w:characterSpacingControl w:val="DontCompress" />
+    <w:optimizeForBrowser />
+    <w:validateAgainstSchema />
+    <w:saveInvalidXML w:val="off" />
+    <w:ignoreMixedContent w:val="off" />
+    <w:alwaysShowPlaceholderText w:val="off" />
+    <w:compat>
+      <w:breakWrappedTables />
+      <w:snapToGridInCell />
+      <w:wrapTextWithPunct />
+      <w:useAsianBreakRules />
+      <w:dontGrowAutofit />
+    </w:compat>
+  </w:docPr>
+  <w:body>
+    <wx:sect>
+      <w:p>
+        <w:pPr>
+          <w:jc w:val="center" />
+          <w:rPr>
+            <w:b />
+            <w:sz w:val="28" />
+            <w:sz-cs w:val="28" />
+            <w:lang w:val="EN-US" />
+          </w:rPr>
+        </w:pPr>
+        <w:r>
+          <w:rPr>
+            <w:b />
+            <w:sz w:val="28" />
+            <w:sz-cs w:val="28" />
+            <w:lang w:val="EN-US" />
+          </w:rPr>
+          <w:t>DANH MỤC </w:t>
+        </w:r>
+        <w:r>
+          <w:rPr>
+            <w:sz w:val="28" />
+            <w:sz-cs w:val="28" />
+            <w:lang w:val="EN-US" />
+          </w:rPr>
+          <w:t>{mcrp_packName}</w:t>
+        </w:r>
+        <w:r>
+          <w:rPr>
+            <w:color w:val="000000" />
+            <w:sz w:val="28" />
+            <w:sz-cs w:val="28" />
+          </w:rPr>
+          <w:t> </w:t>
+        </w:r>
+        <w:r>
+          <w:rPr>
+            <w:b />
+            <w:sz w:val="28" />
+            <w:sz-cs w:val="28" />
+            <w:lang w:val="EN-US" />
+          </w:rPr>
+          <w:t> CHÀO GIÁ</w:t>
+        </w:r>
+      </w:p>
+      <w:p>
+        <w:pPr>
+          <w:jc w:val="center" />
+          <w:rPr>
+            <w:lang w:val="EN-US" />
+          </w:rPr>
+        </w:pPr>
+        <w:r>
+          <w:rPr>
+            <w:lang w:val="EN-US" />
+          </w:rPr>
+          <w:t>(Kèm theo Kế hoạch gọi chào hàng số </w:t>
+        </w:r>
+        <w:r>
+          <w:t>:</w:t>
+        </w:r>
+        <w:proofErr w:type="gramStart" />
+        <w:r>
+          <w:rPr>
+            <w:lang w:val="EN-US" />
+          </w:rPr>
+          <w:t></w:t>
+        </w:r>
+        <w:proofErr w:type="gramEnd" />
+        <w:r>
+          <w:rPr>
+            <w:lang w:val="EN-US" />
+          </w:rPr>
+          <w:t>{mcrp_tenderNumber}</w:t>
+        </w:r>
+        <w:r>
+          <w:t>- </w:t>
+        </w:r>
+        <w:r>
+          <w:rPr>
+            <w:lang w:val="EN-US" />
+          </w:rPr>
+          <w:t>{mcrp_year}</w:t>
+        </w:r>
+        <w:r>
+          <w:t>/</w:t>
+        </w:r>
+        <w:r>
+          <w:rPr>
+            <w:lang w:val="EN-US" />
+          </w:rPr>
+          <w:t>CV/KH)</w:t>
+        </w:r>
+      </w:p>
+      <w:p>
+        <w:pPr>
+          <w:jc w:val="center" />
+          <w:rPr>
+            <w:b />
+            <w:lang w:val="EN-US" />
+          </w:rPr>
+        </w:pPr>
+      </w:p>
+      <w:tbl>
+        <w:tblPr>
+          <w:tblW w:w="8670" w:type="dxa" />
+          <w:tblInd w:w="93" w:type="dxa" />
+          <w:tblLayout w:type="Fixed" />
+        </w:tblPr>
+        <w:tblGrid>
+          <w:gridCol w:w="555" />
+          <w:gridCol w:w="5400" />
+          <w:gridCol w:w="1440" />
+          <w:gridCol w:w="1275" />
+        </w:tblGrid>
+        <w:tr>
+          <w:trPr>
+            <w:trHeight w:val="523" />
+            <w:tblHeader />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="555" w:type="dxa" />
+              <w:tcBorders>
+                <w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+              </w:tcBorders>
+              <w:shd w:val="clear" w:color="auto" w:fill="CCFFFF" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:jc w:val="center" />
+                <w:rPr>
+                  <w:b />
+                  <w:lang w:val="EN-US" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:b />
+                  <w:lang w:val="EN-US" />
+                </w:rPr>
+                <w:t>Stt</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="5400" w:type="dxa" />
+              <w:tcBorders>
+                <w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:left w:val="nil" />
+                <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+              </w:tcBorders>
+              <w:shd w:val="clear" w:color="auto" w:fill="CCFFFF" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:jc w:val="center" />
+                <w:rPr>
+                  <w:b />
+                  <w:lang w:val="EN-US" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:b />
+                  <w:lang w:val="EN-US" />
+                </w:rPr>
+                <w:t>Mô tả chi tiết</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1440" w:type="dxa" />
+              <w:tcBorders>
+                <w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:left w:val="nil" />
+                <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+              </w:tcBorders>
+              <w:shd w:val="clear" w:color="auto" w:fill="CCFFFF" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:jc w:val="center" />
+                <w:rPr>
+                  <w:b />
+                  <w:lang w:val="EN-US" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:b />
+                  <w:lang w:val="EN-US" />
+                </w:rPr>
+                <w:t>Đvt</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1275" w:type="dxa" />
+              <w:tcBorders>
+                <w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:left w:val="nil" />
+                <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+              </w:tcBorders>
+              <w:shd w:val="clear" w:color="auto" w:fill="CCFFFF" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:jc w:val="center" />
+                <w:rPr>
+                  <w:b />
+                  <w:lang w:val="EN-US" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:b />
+                  <w:lang w:val="EN-US" />
+                </w:rPr>
+                <w:t>Số lượng</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr w:markId="materialRow">
+          <w:trPr>
+            <w:trHeight w:val="530" />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="555" w:type="dxa" />
+              <w:tcBorders>
+                <w:top w:val="nil" />
+                <w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+              </w:tcBorders>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto" />
+              <w:noWrap />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:jc w:val="center" />
+                <w:rPr>
+                  <w:lang w:val="EN-US" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:lang w:val="EN-US" />
+                </w:rPr>
+                <w:t>{mcrp_n1}</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="5400" w:type="dxa" />
+              <w:tcBorders>
+                <w:top w:val="nil" />
+                <w:left w:val="nil" />
+                <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+              </w:tcBorders>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:jc w:val="both" />
+                <w:rPr>
+                  <w:lang w:val="EN-US" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:lang w:val="EN-US" />
+                </w:rPr>
+                <w:t>{mcrp_matName}</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1440" w:type="dxa" />
+              <w:tcBorders>
+                <w:top w:val="nil" />
+                <w:left w:val="nil" />
+                <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+              </w:tcBorders>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:jc w:val="center" />
+                <w:rPr>
+                  <w:lang w:val="EN-US" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:lang w:val="EN-US" />
+                </w:rPr>
+                <w:t>{mcrp_unit}</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1275" w:type="dxa" />
+              <w:tcBorders>
+                <w:top w:val="nil" />
+                <w:left w:val="nil" />
+                <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+              </w:tcBorders>
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:jc w:val="center" />
+                <w:rPr>
+                  <w:lang w:val="EN-US" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:lang w:val="EN-US" />
+                </w:rPr>
+                <w:t>{mcrp_quantity}</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+      </w:tbl>
+      <w:p />
+      <w:sectPr>
+        <w:pgSz w:w="11907" w:h="16839" w:code="9" />
+        <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="720" w:footer="720" w:gutter="0" />
+        <w:cols w:space="720" />
+        <w:docGrid w:line-pitch="360" />
+      </w:sectPr>
+    </wx:sect>
+  </w:body>
+</w:wordDocument>
